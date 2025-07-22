@@ -1,0 +1,1263 @@
+{
+  "scan_info": {
+    "timestamp": "2025-07-22T23:42:23.342951",
+    "host": "vh-telenot-serial.waldsteg.home",
+    "port": 8234,
+    "duration_seconds": 60
+  },
+  "recommended_for_ha": {
+    "areas": {
+      "1": {
+        "area": 1,
+        "name": "Bereich 1",
+        "status_bits": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": true,
+          "7": false
+        }
+      },
+      "2": {
+        "area": 2,
+        "name": "Bereich 2",
+        "status_bits": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": true,
+          "7": false
+        }
+      },
+      "3": {
+        "area": 3,
+        "name": "Bereich 3",
+        "status_bits": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": true,
+          "7": false
+        }
+      },
+      "4": {
+        "area": 4,
+        "name": "Bereich 4",
+        "status_bits": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": true,
+          "7": false
+        }
+      },
+      "5": {
+        "area": 5,
+        "name": "Bereich 5",
+        "status_bits": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": true,
+          "7": false
+        }
+      },
+      "6": {
+        "area": 6,
+        "name": "Bereich 6",
+        "status_bits": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": true,
+          "7": false
+        }
+      },
+      "7": {
+        "area": 7,
+        "name": "Bereich 7",
+        "status_bits": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": true,
+          "7": false
+        }
+      },
+      "8": {
+        "area": 8,
+        "name": "Bereich 8",
+        "status_bits": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": true,
+          "7": false
+        }
+      }
+    },
+    "inputs": {
+      "0": {
+        "address": 0,
+        "name": "Meldergruppe 1",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "1": {
+        "address": 1,
+        "name": "Meldergruppe 2",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "2": {
+        "address": 2,
+        "name": "Meldergruppe 3",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "3": {
+        "address": 3,
+        "name": "Meldergruppe 4",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "4": {
+        "address": 4,
+        "name": "Meldergruppe 5",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "5": {
+        "address": 5,
+        "name": "Meldergruppe 6",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "6": {
+        "address": 6,
+        "name": "Meldergruppe 7",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "7": {
+        "address": 7,
+        "name": "Meldergruppe 8",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "8": {
+        "address": 8,
+        "name": "Meldergruppe 9",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "9": {
+        "address": 9,
+        "name": "Meldergruppe 10",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "10": {
+        "address": 10,
+        "name": "Meldergruppe 11",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "11": {
+        "address": 11,
+        "name": "Meldergruppe 12",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "12": {
+        "address": 12,
+        "name": "Meldergruppe 13",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "13": {
+        "address": 13,
+        "name": "Meldergruppe 14",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "14": {
+        "address": 14,
+        "name": "Meldergruppe 15",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "15": {
+        "address": 15,
+        "name": "Meldergruppe 16",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "16": {
+        "address": 16,
+        "name": "Meldergruppe 17",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "17": {
+        "address": 17,
+        "name": "Meldergruppe 18",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "18": {
+        "address": 18,
+        "name": "Meldergruppe 19",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "19": {
+        "address": 19,
+        "name": "Meldergruppe 20",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "20": {
+        "address": 20,
+        "name": "Meldergruppe 21",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "21": {
+        "address": 21,
+        "name": "Meldergruppe 22",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "22": {
+        "address": 22,
+        "name": "Meldergruppe 23",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "23": {
+        "address": 23,
+        "name": "Meldergruppe 24",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "24": {
+        "address": 24,
+        "name": "Meldergruppe 25",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "25": {
+        "address": 25,
+        "name": "Meldergruppe 26",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "26": {
+        "address": 26,
+        "name": "Meldergruppe 27",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "27": {
+        "address": 27,
+        "name": "Meldergruppe 28",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "28": {
+        "address": 28,
+        "name": "Meldergruppe 29",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "29": {
+        "address": 29,
+        "name": "Meldergruppe 30",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "30": {
+        "address": 30,
+        "name": "Meldergruppe 31",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "31": {
+        "address": 31,
+        "name": "Meldergruppe 32",
+        "type": "meldergruppen",
+        "active": false
+      },
+      "40": {
+        "address": 40,
+        "name": "Melderbus Strang 1 Adresse 1",
+        "type": "melderbus",
+        "active": false
+      },
+      "41": {
+        "address": 41,
+        "name": "Melderbus Strang 1 Adresse 2",
+        "type": "melderbus",
+        "active": false
+      },
+      "42": {
+        "address": 42,
+        "name": "Melderbus Strang 1 Adresse 3",
+        "type": "melderbus",
+        "active": false
+      },
+      "43": {
+        "address": 43,
+        "name": "Melderbus Strang 1 Adresse 4",
+        "type": "melderbus",
+        "active": false
+      },
+      "44": {
+        "address": 44,
+        "name": "Melderbus Strang 1 Adresse 5",
+        "type": "melderbus",
+        "active": false
+      },
+      "45": {
+        "address": 45,
+        "name": "Melderbus Strang 1 Adresse 6",
+        "type": "melderbus",
+        "active": false
+      },
+      "46": {
+        "address": 46,
+        "name": "Melderbus Strang 1 Adresse 7",
+        "type": "melderbus",
+        "active": false
+      },
+      "47": {
+        "address": 47,
+        "name": "Melderbus Strang 1 Adresse 8",
+        "type": "melderbus",
+        "active": false
+      },
+      "48": {
+        "address": 48,
+        "name": "Melderbus Strang 1 Adresse 9",
+        "type": "melderbus",
+        "active": false
+      },
+      "49": {
+        "address": 49,
+        "name": "Melderbus Strang 1 Adresse 10",
+        "type": "melderbus",
+        "active": false
+      },
+      "50": {
+        "address": 50,
+        "name": "Melderbus Strang 1 Adresse 11",
+        "type": "melderbus",
+        "active": false
+      },
+      "51": {
+        "address": 51,
+        "name": "Melderbus Strang 1 Adresse 12",
+        "type": "melderbus",
+        "active": false
+      },
+      "52": {
+        "address": 52,
+        "name": "Melderbus Strang 1 Adresse 13",
+        "type": "melderbus",
+        "active": false
+      },
+      "53": {
+        "address": 53,
+        "name": "Melderbus Strang 1 Adresse 14",
+        "type": "melderbus",
+        "active": false
+      },
+      "54": {
+        "address": 54,
+        "name": "Melderbus Strang 1 Adresse 15",
+        "type": "melderbus",
+        "active": false
+      },
+      "55": {
+        "address": 55,
+        "name": "Melderbus Strang 1 Adresse 16",
+        "type": "melderbus",
+        "active": false
+      },
+      "56": {
+        "address": 56,
+        "name": "Melderbus Strang 1 Adresse 17",
+        "type": "melderbus",
+        "active": false
+      },
+      "57": {
+        "address": 57,
+        "name": "Melderbus Strang 1 Adresse 18",
+        "type": "melderbus",
+        "active": false
+      },
+      "58": {
+        "address": 58,
+        "name": "Melderbus Strang 1 Adresse 19",
+        "type": "melderbus",
+        "active": false
+      },
+      "59": {
+        "address": 59,
+        "name": "Melderbus Strang 1 Adresse 20",
+        "type": "melderbus",
+        "active": false
+      },
+      "60": {
+        "address": 60,
+        "name": "Melderbus Strang 1 Adresse 21",
+        "type": "melderbus",
+        "active": false
+      },
+      "61": {
+        "address": 61,
+        "name": "Melderbus Strang 1 Adresse 22",
+        "type": "melderbus",
+        "active": false
+      },
+      "62": {
+        "address": 62,
+        "name": "Melderbus Strang 1 Adresse 23",
+        "type": "melderbus",
+        "active": false
+      },
+      "63": {
+        "address": 63,
+        "name": "Melderbus Strang 1 Adresse 24",
+        "type": "melderbus",
+        "active": false
+      },
+      "64": {
+        "address": 64,
+        "name": "Melderbus Strang 1 Adresse 25",
+        "type": "melderbus",
+        "active": false
+      },
+      "65": {
+        "address": 65,
+        "name": "Melderbus Strang 1 Adresse 26",
+        "type": "melderbus",
+        "active": false
+      },
+      "66": {
+        "address": 66,
+        "name": "Melderbus Strang 1 Adresse 27",
+        "type": "melderbus",
+        "active": false
+      },
+      "67": {
+        "address": 67,
+        "name": "Melderbus Strang 1 Adresse 28",
+        "type": "melderbus",
+        "active": false
+      },
+      "68": {
+        "address": 68,
+        "name": "Melderbus Strang 1 Adresse 29",
+        "type": "melderbus",
+        "active": false
+      },
+      "69": {
+        "address": 69,
+        "name": "Melderbus Strang 1 Adresse 30",
+        "type": "melderbus",
+        "active": false
+      },
+      "70": {
+        "address": 70,
+        "name": "Melderbus Strang 1 Adresse 31",
+        "type": "melderbus",
+        "active": false
+      },
+      "71": {
+        "address": 71,
+        "name": "Melderbus Strang 1 Adresse 32",
+        "type": "melderbus",
+        "active": false
+      },
+      "72": {
+        "address": 72,
+        "name": "Melderbus Strang 1 Adresse 33",
+        "type": "melderbus",
+        "active": false
+      },
+      "73": {
+        "address": 73,
+        "name": "Melderbus Strang 1 Adresse 34",
+        "type": "melderbus",
+        "active": false
+      },
+      "74": {
+        "address": 74,
+        "name": "Melderbus Strang 1 Adresse 35",
+        "type": "melderbus",
+        "active": false
+      },
+      "75": {
+        "address": 75,
+        "name": "Melderbus Strang 1 Adresse 36",
+        "type": "melderbus",
+        "active": false
+      },
+      "76": {
+        "address": 76,
+        "name": "Melderbus Strang 1 Adresse 37",
+        "type": "melderbus",
+        "active": false
+      },
+      "77": {
+        "address": 77,
+        "name": "Melderbus Strang 1 Adresse 38",
+        "type": "melderbus",
+        "active": false
+      },
+      "78": {
+        "address": 78,
+        "name": "Melderbus Strang 1 Adresse 39",
+        "type": "melderbus",
+        "active": false
+      },
+      "79": {
+        "address": 79,
+        "name": "Melderbus Strang 1 Adresse 40",
+        "type": "melderbus",
+        "active": false
+      },
+      "80": {
+        "address": 80,
+        "name": "Melderbus Strang 1 Adresse 41",
+        "type": "melderbus",
+        "active": false
+      },
+      "81": {
+        "address": 81,
+        "name": "Melderbus Strang 1 Adresse 42",
+        "type": "melderbus",
+        "active": false
+      },
+      "82": {
+        "address": 82,
+        "name": "Melderbus Strang 1 Adresse 43",
+        "type": "melderbus",
+        "active": false
+      },
+      "83": {
+        "address": 83,
+        "name": "Melderbus Strang 1 Adresse 44",
+        "type": "melderbus",
+        "active": false
+      },
+      "84": {
+        "address": 84,
+        "name": "Melderbus Strang 1 Adresse 45",
+        "type": "melderbus",
+        "active": false
+      },
+      "85": {
+        "address": 85,
+        "name": "Melderbus Strang 1 Adresse 46",
+        "type": "melderbus",
+        "active": false
+      },
+      "86": {
+        "address": 86,
+        "name": "Melderbus Strang 1 Adresse 47",
+        "type": "melderbus",
+        "active": false
+      },
+      "87": {
+        "address": 87,
+        "name": "Melderbus Strang 1 Adresse 48",
+        "type": "melderbus",
+        "active": false
+      },
+      "88": {
+        "address": 88,
+        "name": "Melderbus Strang 1 Adresse 49",
+        "type": "melderbus",
+        "active": false
+      },
+      "89": {
+        "address": 89,
+        "name": "Melderbus Strang 1 Adresse 50",
+        "type": "melderbus",
+        "active": false
+      },
+      "90": {
+        "address": 90,
+        "name": "Melderbus Strang 1 Adresse 51",
+        "type": "melderbus",
+        "active": false
+      },
+      "91": {
+        "address": 91,
+        "name": "Melderbus Strang 1 Adresse 52",
+        "type": "melderbus",
+        "active": false
+      },
+      "92": {
+        "address": 92,
+        "name": "Melderbus Strang 1 Adresse 53",
+        "type": "melderbus",
+        "active": false
+      },
+      "93": {
+        "address": 93,
+        "name": "Melderbus Strang 1 Adresse 54",
+        "type": "melderbus",
+        "active": false
+      },
+      "94": {
+        "address": 94,
+        "name": "Melderbus Strang 1 Adresse 55",
+        "type": "melderbus",
+        "active": false
+      },
+      "95": {
+        "address": 95,
+        "name": "Melderbus Strang 1 Adresse 56",
+        "type": "melderbus",
+        "active": false
+      },
+      "96": {
+        "address": 96,
+        "name": "Melderbus Strang 1 Adresse 57",
+        "type": "melderbus",
+        "active": false
+      },
+      "97": {
+        "address": 97,
+        "name": "Melderbus Strang 1 Adresse 58",
+        "type": "melderbus",
+        "active": false
+      },
+      "98": {
+        "address": 98,
+        "name": "Melderbus Strang 1 Adresse 59",
+        "type": "melderbus",
+        "active": false
+      },
+      "99": {
+        "address": 99,
+        "name": "Melderbus Strang 1 Adresse 60",
+        "type": "melderbus",
+        "active": false
+      },
+      "100": {
+        "address": 100,
+        "name": "Melderbus Strang 1 Adresse 61",
+        "type": "melderbus",
+        "active": false
+      },
+      "101": {
+        "address": 101,
+        "name": "Melderbus Strang 1 Adresse 62",
+        "type": "melderbus",
+        "active": false
+      },
+      "102": {
+        "address": 102,
+        "name": "Melderbus Strang 1 Adresse 63",
+        "type": "melderbus",
+        "active": false
+      },
+      "103": {
+        "address": 103,
+        "name": "Eingang 0x0067",
+        "type": "melderbus",
+        "active": false
+      },
+      "104": {
+        "address": 104,
+        "name": "Melderbus Strang 2 Adresse 1",
+        "type": "melderbus",
+        "active": false
+      },
+      "105": {
+        "address": 105,
+        "name": "Melderbus Strang 2 Adresse 2",
+        "type": "melderbus",
+        "active": false
+      },
+      "106": {
+        "address": 106,
+        "name": "Melderbus Strang 2 Adresse 3",
+        "type": "melderbus",
+        "active": false
+      },
+      "107": {
+        "address": 107,
+        "name": "Melderbus Strang 2 Adresse 4",
+        "type": "melderbus",
+        "active": false
+      },
+      "108": {
+        "address": 108,
+        "name": "Melderbus Strang 2 Adresse 5",
+        "type": "melderbus",
+        "active": false
+      },
+      "109": {
+        "address": 109,
+        "name": "Melderbus Strang 2 Adresse 6",
+        "type": "melderbus",
+        "active": false
+      },
+      "110": {
+        "address": 110,
+        "name": "Melderbus Strang 2 Adresse 7",
+        "type": "melderbus",
+        "active": false
+      },
+      "111": {
+        "address": 111,
+        "name": "Melderbus Strang 2 Adresse 8",
+        "type": "melderbus",
+        "active": false
+      },
+      "112": {
+        "address": 112,
+        "name": "Melderbus Strang 2 Adresse 9",
+        "type": "melderbus",
+        "active": false
+      },
+      "113": {
+        "address": 113,
+        "name": "Melderbus Strang 2 Adresse 10",
+        "type": "melderbus",
+        "active": false
+      },
+      "114": {
+        "address": 114,
+        "name": "Melderbus Strang 2 Adresse 11",
+        "type": "melderbus",
+        "active": false
+      },
+      "115": {
+        "address": 115,
+        "name": "Melderbus Strang 2 Adresse 12",
+        "type": "melderbus",
+        "active": false
+      },
+      "116": {
+        "address": 116,
+        "name": "Melderbus Strang 2 Adresse 13",
+        "type": "melderbus",
+        "active": false
+      },
+      "117": {
+        "address": 117,
+        "name": "Melderbus Strang 2 Adresse 14",
+        "type": "melderbus",
+        "active": false
+      },
+      "118": {
+        "address": 118,
+        "name": "Melderbus Strang 2 Adresse 15",
+        "type": "melderbus",
+        "active": false
+      },
+      "119": {
+        "address": 119,
+        "name": "Melderbus Strang 2 Adresse 16",
+        "type": "melderbus",
+        "active": false
+      },
+      "120": {
+        "address": 120,
+        "name": "Melderbus Strang 2 Adresse 17",
+        "type": "melderbus",
+        "active": false
+      },
+      "121": {
+        "address": 121,
+        "name": "Melderbus Strang 2 Adresse 18",
+        "type": "melderbus",
+        "active": false
+      },
+      "122": {
+        "address": 122,
+        "name": "Melderbus Strang 2 Adresse 19",
+        "type": "melderbus",
+        "active": false
+      },
+      "123": {
+        "address": 123,
+        "name": "Melderbus Strang 2 Adresse 20",
+        "type": "melderbus",
+        "active": false
+      },
+      "124": {
+        "address": 124,
+        "name": "Melderbus Strang 2 Adresse 21",
+        "type": "melderbus",
+        "active": false
+      },
+      "125": {
+        "address": 125,
+        "name": "Melderbus Strang 2 Adresse 22",
+        "type": "melderbus",
+        "active": false
+      },
+      "126": {
+        "address": 126,
+        "name": "Melderbus Strang 2 Adresse 23",
+        "type": "melderbus",
+        "active": false
+      },
+      "127": {
+        "address": 127,
+        "name": "Melderbus Strang 2 Adresse 24",
+        "type": "melderbus",
+        "active": false
+      },
+      "128": {
+        "address": 128,
+        "name": "Melderbus Strang 2 Adresse 25",
+        "type": "melderbus",
+        "active": false
+      },
+      "129": {
+        "address": 129,
+        "name": "Melderbus Strang 2 Adresse 26",
+        "type": "melderbus",
+        "active": false
+      },
+      "130": {
+        "address": 130,
+        "name": "Melderbus Strang 2 Adresse 27",
+        "type": "melderbus",
+        "active": false
+      },
+      "131": {
+        "address": 131,
+        "name": "Melderbus Strang 2 Adresse 28",
+        "type": "melderbus",
+        "active": false
+      },
+      "132": {
+        "address": 132,
+        "name": "Melderbus Strang 2 Adresse 29",
+        "type": "melderbus",
+        "active": false
+      },
+      "133": {
+        "address": 133,
+        "name": "Melderbus Strang 2 Adresse 30",
+        "type": "melderbus",
+        "active": false
+      },
+      "134": {
+        "address": 134,
+        "name": "Melderbus Strang 2 Adresse 31",
+        "type": "melderbus",
+        "active": false
+      },
+      "135": {
+        "address": 135,
+        "name": "Melderbus Strang 2 Adresse 32",
+        "type": "melderbus",
+        "active": false
+      },
+      "136": {
+        "address": 136,
+        "name": "Melderbus Strang 2 Adresse 33",
+        "type": "melderbus",
+        "active": false
+      },
+      "137": {
+        "address": 137,
+        "name": "Melderbus Strang 2 Adresse 34",
+        "type": "melderbus",
+        "active": false
+      },
+      "138": {
+        "address": 138,
+        "name": "Melderbus Strang 2 Adresse 35",
+        "type": "melderbus",
+        "active": false
+      },
+      "139": {
+        "address": 139,
+        "name": "Melderbus Strang 2 Adresse 36",
+        "type": "melderbus",
+        "active": false
+      },
+      "140": {
+        "address": 140,
+        "name": "Melderbus Strang 2 Adresse 37",
+        "type": "melderbus",
+        "active": false
+      },
+      "141": {
+        "address": 141,
+        "name": "Melderbus Strang 2 Adresse 38",
+        "type": "melderbus",
+        "active": false
+      },
+      "142": {
+        "address": 142,
+        "name": "Melderbus Strang 2 Adresse 39",
+        "type": "melderbus",
+        "active": false
+      },
+      "143": {
+        "address": 143,
+        "name": "Melderbus Strang 2 Adresse 40",
+        "type": "melderbus",
+        "active": false
+      },
+      "144": {
+        "address": 144,
+        "name": "Melderbus Strang 2 Adresse 41",
+        "type": "melderbus",
+        "active": false
+      },
+      "145": {
+        "address": 145,
+        "name": "Melderbus Strang 2 Adresse 42",
+        "type": "melderbus",
+        "active": false
+      },
+      "146": {
+        "address": 146,
+        "name": "Melderbus Strang 2 Adresse 43",
+        "type": "melderbus",
+        "active": false
+      },
+      "147": {
+        "address": 147,
+        "name": "Melderbus Strang 2 Adresse 44",
+        "type": "melderbus",
+        "active": false
+      },
+      "148": {
+        "address": 148,
+        "name": "Melderbus Strang 2 Adresse 45",
+        "type": "melderbus",
+        "active": false
+      },
+      "149": {
+        "address": 149,
+        "name": "Melderbus Strang 2 Adresse 46",
+        "type": "melderbus",
+        "active": false
+      },
+      "150": {
+        "address": 150,
+        "name": "Melderbus Strang 2 Adresse 47",
+        "type": "melderbus",
+        "active": false
+      },
+      "151": {
+        "address": 151,
+        "name": "Melderbus Strang 2 Adresse 48",
+        "type": "melderbus",
+        "active": false
+      },
+      "152": {
+        "address": 152,
+        "name": "Melderbus Strang 2 Adresse 49",
+        "type": "melderbus",
+        "active": false
+      },
+      "153": {
+        "address": 153,
+        "name": "Melderbus Strang 2 Adresse 50",
+        "type": "melderbus",
+        "active": false
+      },
+      "154": {
+        "address": 154,
+        "name": "Melderbus Strang 2 Adresse 51",
+        "type": "melderbus",
+        "active": false
+      },
+      "155": {
+        "address": 155,
+        "name": "Melderbus Strang 2 Adresse 52",
+        "type": "melderbus",
+        "active": false
+      },
+      "156": {
+        "address": 156,
+        "name": "Melderbus Strang 2 Adresse 53",
+        "type": "melderbus",
+        "active": false
+      },
+      "157": {
+        "address": 157,
+        "name": "Melderbus Strang 2 Adresse 54",
+        "type": "melderbus",
+        "active": false
+      },
+      "158": {
+        "address": 158,
+        "name": "Melderbus Strang 2 Adresse 55",
+        "type": "melderbus",
+        "active": false
+      },
+      "159": {
+        "address": 159,
+        "name": "Melderbus Strang 2 Adresse 56",
+        "type": "melderbus",
+        "active": false
+      },
+      "160": {
+        "address": 160,
+        "name": "Melderbus Strang 2 Adresse 57",
+        "type": "melderbus",
+        "active": false
+      },
+      "161": {
+        "address": 161,
+        "name": "Melderbus Strang 2 Adresse 58",
+        "type": "melderbus",
+        "active": false
+      },
+      "162": {
+        "address": 162,
+        "name": "Melderbus Strang 2 Adresse 59",
+        "type": "melderbus",
+        "active": false
+      },
+      "163": {
+        "address": 163,
+        "name": "Melderbus Strang 2 Adresse 60",
+        "type": "melderbus",
+        "active": false
+      },
+      "164": {
+        "address": 164,
+        "name": "Melderbus Strang 2 Adresse 61",
+        "type": "melderbus",
+        "active": false
+      },
+      "165": {
+        "address": 165,
+        "name": "Melderbus Strang 2 Adresse 62",
+        "type": "melderbus",
+        "active": false
+      },
+      "166": {
+        "address": 166,
+        "name": "Melderbus Strang 2 Adresse 63",
+        "type": "melderbus",
+        "active": false
+      },
+      "178": {
+        "address": 178,
+        "name": "Bedienteil 0 Keine Antwort",
+        "type": "bedienteile",
+        "active": true
+      }
+    },
+    "outputs": {
+      "1280": {
+        "address": 1280,
+        "name": "ÜG TA1",
+        "active": true
+      },
+      "1281": {
+        "address": 1281,
+        "name": "ÜG TA2",
+        "active": false
+      },
+      "1282": {
+        "address": 1282,
+        "name": "ÜG TA3",
+        "active": true
+      },
+      "1283": {
+        "address": 1283,
+        "name": "ÜG TA4",
+        "active": false
+      },
+      "1284": {
+        "address": 1284,
+        "name": "ÜG TA5",
+        "active": true
+      },
+      "1285": {
+        "address": 1285,
+        "name": "ÜG TA6",
+        "active": true
+      },
+      "1286": {
+        "address": 1286,
+        "name": "ÜG TA7",
+        "active": true
+      },
+      "1287": {
+        "address": 1287,
+        "name": "ÜG TA8",
+        "active": true
+      },
+      "1288": {
+        "address": 1288,
+        "name": "Relais 1",
+        "active": false
+      },
+      "1289": {
+        "address": 1289,
+        "name": "Relais 2",
+        "active": false
+      },
+      "1290": {
+        "address": 1290,
+        "name": "Relais 3",
+        "active": false
+      },
+      "1291": {
+        "address": 1291,
+        "name": "OSG (Optischer Signalgeber)",
+        "active": false
+      },
+      "1292": {
+        "address": 1292,
+        "name": "ASG1 (Akustischer Signalgeber 1)",
+        "active": false
+      },
+      "1293": {
+        "address": 1293,
+        "name": "ASG2 (Akustischer Signalgeber 2)",
+        "active": false
+      },
+      "1294": {
+        "address": 1294,
+        "name": "Ausgang 0x050E",
+        "active": false
+      },
+      "1295": {
+        "address": 1295,
+        "name": "Ausgang 0x050F",
+        "active": false
+      },
+      "1296": {
+        "address": 1296,
+        "name": "Ausgang 0x0510",
+        "active": false
+      },
+      "1297": {
+        "address": 1297,
+        "name": "Ausgang 0x0511",
+        "active": false
+      },
+      "1298": {
+        "address": 1298,
+        "name": "Ausgang 0x0512",
+        "active": false
+      },
+      "1299": {
+        "address": 1299,
+        "name": "Ausgang 0x0513",
+        "active": false
+      },
+      "1300": {
+        "address": 1300,
+        "name": "Ausgang 0x0514",
+        "active": true
+      },
+      "1301": {
+        "address": 1301,
+        "name": "Ausgang 0x0515",
+        "active": false
+      },
+      "1302": {
+        "address": 1302,
+        "name": "Ausgang 0x0516",
+        "active": false
+      },
+      "1303": {
+        "address": 1303,
+        "name": "Ausgang 0x0517",
+        "active": false
+      },
+      "1304": {
+        "address": 1304,
+        "name": "Ausgang 0x0518",
+        "active": false
+      },
+      "1305": {
+        "address": 1305,
+        "name": "Ausgang 0x0519",
+        "active": false
+      },
+      "1306": {
+        "address": 1306,
+        "name": "Ausgang 0x051A",
+        "active": false
+      },
+      "1307": {
+        "address": 1307,
+        "name": "Ausgang 0x051B",
+        "active": false
+      },
+      "1308": {
+        "address": 1308,
+        "name": "Ausgang 0x051C",
+        "active": false
+      },
+      "1309": {
+        "address": 1309,
+        "name": "Ausgang 0x051D",
+        "active": false
+      },
+      "1310": {
+        "address": 1310,
+        "name": "Ausgang 0x051E",
+        "active": false
+      },
+      "1311": {
+        "address": 1311,
+        "name": "Ausgang 0x051F",
+        "active": false
+      },
+      "1528": {
+        "address": 1528,
+        "name": "Ausgang 0x05F8",
+        "active": true
+      },
+      "1534": {
+        "address": 1534,
+        "name": "Ausgang 0x05FE",
+        "active": true
+      }
+    }
+  },
+  "filtering_notes": {
+    "inputs": "Included active inputs, detector groups (0x0000-0x001F), and detector bus components",
+    "outputs": "Included master outputs (0x0500-0x051F) and active outputs",
+    "areas": "All discovered areas included"
+  }
+}

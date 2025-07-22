@@ -1,0 +1,9 @@
+Area_Number,Name,Disarmed,Armed_Home,Armed_Away,Alarm,Trouble,Status_Summary
+1,Bereich 1,True,False,False,False,False,Disarmed
+2,Bereich 2,True,False,False,False,False,Disarmed
+3,Bereich 3,True,False,False,False,False,Disarmed
+4,Bereich 4,True,False,False,False,False,Disarmed
+5,Bereich 5,True,False,False,False,False,Disarmed
+6,Bereich 6,True,False,False,False,False,Disarmed
+7,Bereich 7,True,False,False,False,False,Disarmed
+8,Bereich 8,True,False,False,False,False,Disarmed

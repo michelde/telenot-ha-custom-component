@@ -1,0 +1,9213 @@
+{
+  "scan_info": {
+    "timestamp": "2025-07-22T22:26:44.698579",
+    "host": "vh-telenot-serial.waldsteg.home",
+    "port": 8234,
+    "duration_seconds": 60
+  },
+  "areas": {
+    "1": {
+      "area": 1,
+      "name": "Bereich 1",
+      "status_bits": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      }
+    },
+    "2": {
+      "area": 2,
+      "name": "Bereich 2",
+      "status_bits": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": true,
+        "6": true,
+        "7": false
+      }
+    },
+    "3": {
+      "area": 3,
+      "name": "Bereich 3",
+      "status_bits": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": true,
+        "6": true,
+        "7": false
+      }
+    },
+    "4": {
+      "area": 4,
+      "name": "Bereich 4",
+      "status_bits": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": true,
+        "6": true,
+        "7": false
+      }
+    },
+    "5": {
+      "area": 5,
+      "name": "Bereich 5",
+      "status_bits": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": true,
+        "6": true,
+        "7": false
+      }
+    },
+    "6": {
+      "area": 6,
+      "name": "Bereich 6",
+      "status_bits": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": true,
+        "6": true,
+        "7": false
+      }
+    },
+    "7": {
+      "area": 7,
+      "name": "Bereich 7",
+      "status_bits": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": true,
+        "6": true,
+        "7": false
+      }
+    },
+    "8": {
+      "area": 8,
+      "name": "Bereich 8",
+      "status_bits": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": true,
+        "6": true,
+        "7": false
+      }
+    }
+  },
+  "inputs": {
+    "0": {
+      "address": 0,
+      "name": "Meldergruppe 1",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "1": {
+      "address": 1,
+      "name": "Meldergruppe 2",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "2": {
+      "address": 2,
+      "name": "Meldergruppe 3",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "3": {
+      "address": 3,
+      "name": "Meldergruppe 4",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "4": {
+      "address": 4,
+      "name": "Meldergruppe 5",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "5": {
+      "address": 5,
+      "name": "Meldergruppe 6",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "6": {
+      "address": 6,
+      "name": "Meldergruppe 7",
+      "type": "meldergruppen",
+      "active": true
+    },
+    "7": {
+      "address": 7,
+      "name": "Meldergruppe 8",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "8": {
+      "address": 8,
+      "name": "Meldergruppe 9",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "9": {
+      "address": 9,
+      "name": "Meldergruppe 10",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "10": {
+      "address": 10,
+      "name": "Meldergruppe 11",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "11": {
+      "address": 11,
+      "name": "Meldergruppe 12",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "12": {
+      "address": 12,
+      "name": "Meldergruppe 13",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "13": {
+      "address": 13,
+      "name": "Meldergruppe 14",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "14": {
+      "address": 14,
+      "name": "Meldergruppe 15",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "15": {
+      "address": 15,
+      "name": "Meldergruppe 16",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "16": {
+      "address": 16,
+      "name": "Meldergruppe 17",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "17": {
+      "address": 17,
+      "name": "Meldergruppe 18",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "18": {
+      "address": 18,
+      "name": "Meldergruppe 19",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "19": {
+      "address": 19,
+      "name": "Meldergruppe 20",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "20": {
+      "address": 20,
+      "name": "Meldergruppe 21",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "21": {
+      "address": 21,
+      "name": "Meldergruppe 22",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "22": {
+      "address": 22,
+      "name": "Meldergruppe 23",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "23": {
+      "address": 23,
+      "name": "Meldergruppe 24",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "24": {
+      "address": 24,
+      "name": "Meldergruppe 25",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "25": {
+      "address": 25,
+      "name": "Meldergruppe 26",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "26": {
+      "address": 26,
+      "name": "Meldergruppe 27",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "27": {
+      "address": 27,
+      "name": "Meldergruppe 28",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "28": {
+      "address": 28,
+      "name": "Meldergruppe 29",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "29": {
+      "address": 29,
+      "name": "Meldergruppe 30",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "30": {
+      "address": 30,
+      "name": "Meldergruppe 31",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "31": {
+      "address": 31,
+      "name": "Meldergruppe 32",
+      "type": "meldergruppen",
+      "active": false
+    },
+    "32": {
+      "address": 32,
+      "name": "Eingang 0x0020",
+      "type": "unknown",
+      "active": false
+    },
+    "33": {
+      "address": 33,
+      "name": "Eingang 0x0021",
+      "type": "unknown",
+      "active": false
+    },
+    "34": {
+      "address": 34,
+      "name": "Eingang 0x0022",
+      "type": "unknown",
+      "active": false
+    },
+    "35": {
+      "address": 35,
+      "name": "Eingang 0x0023",
+      "type": "unknown",
+      "active": false
+    },
+    "36": {
+      "address": 36,
+      "name": "Eingang 0x0024",
+      "type": "unknown",
+      "active": false
+    },
+    "37": {
+      "address": 37,
+      "name": "Eingang 0x0025",
+      "type": "unknown",
+      "active": false
+    },
+    "38": {
+      "address": 38,
+      "name": "Eingang 0x0026",
+      "type": "unknown",
+      "active": false
+    },
+    "39": {
+      "address": 39,
+      "name": "Eingang 0x0027",
+      "type": "unknown",
+      "active": false
+    },
+    "40": {
+      "address": 40,
+      "name": "Melderbus Strang 1 Adresse 1",
+      "type": "melderbus",
+      "active": false
+    },
+    "41": {
+      "address": 41,
+      "name": "Melderbus Strang 1 Adresse 2",
+      "type": "melderbus",
+      "active": false
+    },
+    "42": {
+      "address": 42,
+      "name": "Melderbus Strang 1 Adresse 3",
+      "type": "melderbus",
+      "active": false
+    },
+    "43": {
+      "address": 43,
+      "name": "Melderbus Strang 1 Adresse 4",
+      "type": "melderbus",
+      "active": false
+    },
+    "44": {
+      "address": 44,
+      "name": "Melderbus Strang 1 Adresse 5",
+      "type": "melderbus",
+      "active": false
+    },
+    "45": {
+      "address": 45,
+      "name": "Melderbus Strang 1 Adresse 6",
+      "type": "melderbus",
+      "active": false
+    },
+    "46": {
+      "address": 46,
+      "name": "Melderbus Strang 1 Adresse 7",
+      "type": "melderbus",
+      "active": false
+    },
+    "47": {
+      "address": 47,
+      "name": "Melderbus Strang 1 Adresse 8",
+      "type": "melderbus",
+      "active": false
+    },
+    "48": {
+      "address": 48,
+      "name": "Melderbus Strang 1 Adresse 9",
+      "type": "melderbus",
+      "active": false
+    },
+    "49": {
+      "address": 49,
+      "name": "Melderbus Strang 1 Adresse 10",
+      "type": "melderbus",
+      "active": false
+    },
+    "50": {
+      "address": 50,
+      "name": "Melderbus Strang 1 Adresse 11",
+      "type": "melderbus",
+      "active": false
+    },
+    "51": {
+      "address": 51,
+      "name": "Melderbus Strang 1 Adresse 12",
+      "type": "melderbus",
+      "active": false
+    },
+    "52": {
+      "address": 52,
+      "name": "Melderbus Strang 1 Adresse 13",
+      "type": "melderbus",
+      "active": false
+    },
+    "53": {
+      "address": 53,
+      "name": "Melderbus Strang 1 Adresse 14",
+      "type": "melderbus",
+      "active": false
+    },
+    "54": {
+      "address": 54,
+      "name": "Melderbus Strang 1 Adresse 15",
+      "type": "melderbus",
+      "active": false
+    },
+    "55": {
+      "address": 55,
+      "name": "Melderbus Strang 1 Adresse 16",
+      "type": "melderbus",
+      "active": false
+    },
+    "56": {
+      "address": 56,
+      "name": "Melderbus Strang 1 Adresse 17",
+      "type": "melderbus",
+      "active": false
+    },
+    "57": {
+      "address": 57,
+      "name": "Melderbus Strang 1 Adresse 18",
+      "type": "melderbus",
+      "active": false
+    },
+    "58": {
+      "address": 58,
+      "name": "Melderbus Strang 1 Adresse 19",
+      "type": "melderbus",
+      "active": false
+    },
+    "59": {
+      "address": 59,
+      "name": "Melderbus Strang 1 Adresse 20",
+      "type": "melderbus",
+      "active": false
+    },
+    "60": {
+      "address": 60,
+      "name": "Melderbus Strang 1 Adresse 21",
+      "type": "melderbus",
+      "active": false
+    },
+    "61": {
+      "address": 61,
+      "name": "Melderbus Strang 1 Adresse 22",
+      "type": "melderbus",
+      "active": false
+    },
+    "62": {
+      "address": 62,
+      "name": "Melderbus Strang 1 Adresse 23",
+      "type": "melderbus",
+      "active": false
+    },
+    "63": {
+      "address": 63,
+      "name": "Melderbus Strang 1 Adresse 24",
+      "type": "melderbus",
+      "active": false
+    },
+    "64": {
+      "address": 64,
+      "name": "Melderbus Strang 1 Adresse 25",
+      "type": "melderbus",
+      "active": false
+    },
+    "65": {
+      "address": 65,
+      "name": "Melderbus Strang 1 Adresse 26",
+      "type": "melderbus",
+      "active": false
+    },
+    "66": {
+      "address": 66,
+      "name": "Melderbus Strang 1 Adresse 27",
+      "type": "melderbus",
+      "active": false
+    },
+    "67": {
+      "address": 67,
+      "name": "Melderbus Strang 1 Adresse 28",
+      "type": "melderbus",
+      "active": false
+    },
+    "68": {
+      "address": 68,
+      "name": "Melderbus Strang 1 Adresse 29",
+      "type": "melderbus",
+      "active": false
+    },
+    "69": {
+      "address": 69,
+      "name": "Melderbus Strang 1 Adresse 30",
+      "type": "melderbus",
+      "active": false
+    },
+    "70": {
+      "address": 70,
+      "name": "Melderbus Strang 1 Adresse 31",
+      "type": "melderbus",
+      "active": false
+    },
+    "71": {
+      "address": 71,
+      "name": "Melderbus Strang 1 Adresse 32",
+      "type": "melderbus",
+      "active": false
+    },
+    "72": {
+      "address": 72,
+      "name": "Melderbus Strang 1 Adresse 33",
+      "type": "melderbus",
+      "active": false
+    },
+    "73": {
+      "address": 73,
+      "name": "Melderbus Strang 1 Adresse 34",
+      "type": "melderbus",
+      "active": false
+    },
+    "74": {
+      "address": 74,
+      "name": "Melderbus Strang 1 Adresse 35",
+      "type": "melderbus",
+      "active": false
+    },
+    "75": {
+      "address": 75,
+      "name": "Melderbus Strang 1 Adresse 36",
+      "type": "melderbus",
+      "active": false
+    },
+    "76": {
+      "address": 76,
+      "name": "Melderbus Strang 1 Adresse 37",
+      "type": "melderbus",
+      "active": false
+    },
+    "77": {
+      "address": 77,
+      "name": "Melderbus Strang 1 Adresse 38",
+      "type": "melderbus",
+      "active": false
+    },
+    "78": {
+      "address": 78,
+      "name": "Melderbus Strang 1 Adresse 39",
+      "type": "melderbus",
+      "active": false
+    },
+    "79": {
+      "address": 79,
+      "name": "Melderbus Strang 1 Adresse 40",
+      "type": "melderbus",
+      "active": false
+    },
+    "80": {
+      "address": 80,
+      "name": "Melderbus Strang 1 Adresse 41",
+      "type": "melderbus",
+      "active": false
+    },
+    "81": {
+      "address": 81,
+      "name": "Melderbus Strang 1 Adresse 42",
+      "type": "melderbus",
+      "active": false
+    },
+    "82": {
+      "address": 82,
+      "name": "Melderbus Strang 1 Adresse 43",
+      "type": "melderbus",
+      "active": false
+    },
+    "83": {
+      "address": 83,
+      "name": "Melderbus Strang 1 Adresse 44",
+      "type": "melderbus",
+      "active": false
+    },
+    "84": {
+      "address": 84,
+      "name": "Melderbus Strang 1 Adresse 45",
+      "type": "melderbus",
+      "active": false
+    },
+    "85": {
+      "address": 85,
+      "name": "Melderbus Strang 1 Adresse 46",
+      "type": "melderbus",
+      "active": false
+    },
+    "86": {
+      "address": 86,
+      "name": "Melderbus Strang 1 Adresse 47",
+      "type": "melderbus",
+      "active": false
+    },
+    "87": {
+      "address": 87,
+      "name": "Melderbus Strang 1 Adresse 48",
+      "type": "melderbus",
+      "active": false
+    },
+    "88": {
+      "address": 88,
+      "name": "Melderbus Strang 1 Adresse 49",
+      "type": "melderbus",
+      "active": false
+    },
+    "89": {
+      "address": 89,
+      "name": "Melderbus Strang 1 Adresse 50",
+      "type": "melderbus",
+      "active": false
+    },
+    "90": {
+      "address": 90,
+      "name": "Melderbus Strang 1 Adresse 51",
+      "type": "melderbus",
+      "active": false
+    },
+    "91": {
+      "address": 91,
+      "name": "Melderbus Strang 1 Adresse 52",
+      "type": "melderbus",
+      "active": false
+    },
+    "92": {
+      "address": 92,
+      "name": "Melderbus Strang 1 Adresse 53",
+      "type": "melderbus",
+      "active": false
+    },
+    "93": {
+      "address": 93,
+      "name": "Melderbus Strang 1 Adresse 54",
+      "type": "melderbus",
+      "active": false
+    },
+    "94": {
+      "address": 94,
+      "name": "Melderbus Strang 1 Adresse 55",
+      "type": "melderbus",
+      "active": false
+    },
+    "95": {
+      "address": 95,
+      "name": "Melderbus Strang 1 Adresse 56",
+      "type": "melderbus",
+      "active": false
+    },
+    "96": {
+      "address": 96,
+      "name": "Melderbus Strang 1 Adresse 57",
+      "type": "melderbus",
+      "active": false
+    },
+    "97": {
+      "address": 97,
+      "name": "Melderbus Strang 1 Adresse 58",
+      "type": "melderbus",
+      "active": false
+    },
+    "98": {
+      "address": 98,
+      "name": "Melderbus Strang 1 Adresse 59",
+      "type": "melderbus",
+      "active": false
+    },
+    "99": {
+      "address": 99,
+      "name": "Melderbus Strang 1 Adresse 60",
+      "type": "melderbus",
+      "active": false
+    },
+    "100": {
+      "address": 100,
+      "name": "Melderbus Strang 1 Adresse 61",
+      "type": "melderbus",
+      "active": false
+    },
+    "101": {
+      "address": 101,
+      "name": "Melderbus Strang 1 Adresse 62",
+      "type": "melderbus",
+      "active": false
+    },
+    "102": {
+      "address": 102,
+      "name": "Melderbus Strang 1 Adresse 63",
+      "type": "melderbus",
+      "active": false
+    },
+    "103": {
+      "address": 103,
+      "name": "Eingang 0x0067",
+      "type": "melderbus",
+      "active": false
+    },
+    "104": {
+      "address": 104,
+      "name": "Melderbus Strang 2 Adresse 1",
+      "type": "melderbus",
+      "active": false
+    },
+    "105": {
+      "address": 105,
+      "name": "Melderbus Strang 2 Adresse 2",
+      "type": "melderbus",
+      "active": false
+    },
+    "106": {
+      "address": 106,
+      "name": "Melderbus Strang 2 Adresse 3",
+      "type": "melderbus",
+      "active": false
+    },
+    "107": {
+      "address": 107,
+      "name": "Melderbus Strang 2 Adresse 4",
+      "type": "melderbus",
+      "active": false
+    },
+    "108": {
+      "address": 108,
+      "name": "Melderbus Strang 2 Adresse 5",
+      "type": "melderbus",
+      "active": false
+    },
+    "109": {
+      "address": 109,
+      "name": "Melderbus Strang 2 Adresse 6",
+      "type": "melderbus",
+      "active": false
+    },
+    "110": {
+      "address": 110,
+      "name": "Melderbus Strang 2 Adresse 7",
+      "type": "melderbus",
+      "active": false
+    },
+    "111": {
+      "address": 111,
+      "name": "Melderbus Strang 2 Adresse 8",
+      "type": "melderbus",
+      "active": false
+    },
+    "112": {
+      "address": 112,
+      "name": "Melderbus Strang 2 Adresse 9",
+      "type": "melderbus",
+      "active": false
+    },
+    "113": {
+      "address": 113,
+      "name": "Melderbus Strang 2 Adresse 10",
+      "type": "melderbus",
+      "active": false
+    },
+    "114": {
+      "address": 114,
+      "name": "Melderbus Strang 2 Adresse 11",
+      "type": "melderbus",
+      "active": false
+    },
+    "115": {
+      "address": 115,
+      "name": "Melderbus Strang 2 Adresse 12",
+      "type": "melderbus",
+      "active": false
+    },
+    "116": {
+      "address": 116,
+      "name": "Melderbus Strang 2 Adresse 13",
+      "type": "melderbus",
+      "active": false
+    },
+    "117": {
+      "address": 117,
+      "name": "Melderbus Strang 2 Adresse 14",
+      "type": "melderbus",
+      "active": false
+    },
+    "118": {
+      "address": 118,
+      "name": "Melderbus Strang 2 Adresse 15",
+      "type": "melderbus",
+      "active": false
+    },
+    "119": {
+      "address": 119,
+      "name": "Melderbus Strang 2 Adresse 16",
+      "type": "melderbus",
+      "active": false
+    },
+    "120": {
+      "address": 120,
+      "name": "Melderbus Strang 2 Adresse 17",
+      "type": "melderbus",
+      "active": false
+    },
+    "121": {
+      "address": 121,
+      "name": "Melderbus Strang 2 Adresse 18",
+      "type": "melderbus",
+      "active": false
+    },
+    "122": {
+      "address": 122,
+      "name": "Melderbus Strang 2 Adresse 19",
+      "type": "melderbus",
+      "active": false
+    },
+    "123": {
+      "address": 123,
+      "name": "Melderbus Strang 2 Adresse 20",
+      "type": "melderbus",
+      "active": false
+    },
+    "124": {
+      "address": 124,
+      "name": "Melderbus Strang 2 Adresse 21",
+      "type": "melderbus",
+      "active": false
+    },
+    "125": {
+      "address": 125,
+      "name": "Melderbus Strang 2 Adresse 22",
+      "type": "melderbus",
+      "active": false
+    },
+    "126": {
+      "address": 126,
+      "name": "Melderbus Strang 2 Adresse 23",
+      "type": "melderbus",
+      "active": false
+    },
+    "127": {
+      "address": 127,
+      "name": "Melderbus Strang 2 Adresse 24",
+      "type": "melderbus",
+      "active": false
+    },
+    "128": {
+      "address": 128,
+      "name": "Melderbus Strang 2 Adresse 25",
+      "type": "melderbus",
+      "active": false
+    },
+    "129": {
+      "address": 129,
+      "name": "Melderbus Strang 2 Adresse 26",
+      "type": "melderbus",
+      "active": false
+    },
+    "130": {
+      "address": 130,
+      "name": "Melderbus Strang 2 Adresse 27",
+      "type": "melderbus",
+      "active": false
+    },
+    "131": {
+      "address": 131,
+      "name": "Melderbus Strang 2 Adresse 28",
+      "type": "melderbus",
+      "active": false
+    },
+    "132": {
+      "address": 132,
+      "name": "Melderbus Strang 2 Adresse 29",
+      "type": "melderbus",
+      "active": false
+    },
+    "133": {
+      "address": 133,
+      "name": "Melderbus Strang 2 Adresse 30",
+      "type": "melderbus",
+      "active": false
+    },
+    "134": {
+      "address": 134,
+      "name": "Melderbus Strang 2 Adresse 31",
+      "type": "melderbus",
+      "active": false
+    },
+    "135": {
+      "address": 135,
+      "name": "Melderbus Strang 2 Adresse 32",
+      "type": "melderbus",
+      "active": false
+    },
+    "136": {
+      "address": 136,
+      "name": "Melderbus Strang 2 Adresse 33",
+      "type": "melderbus",
+      "active": false
+    },
+    "137": {
+      "address": 137,
+      "name": "Melderbus Strang 2 Adresse 34",
+      "type": "melderbus",
+      "active": false
+    },
+    "138": {
+      "address": 138,
+      "name": "Melderbus Strang 2 Adresse 35",
+      "type": "melderbus",
+      "active": false
+    },
+    "139": {
+      "address": 139,
+      "name": "Melderbus Strang 2 Adresse 36",
+      "type": "melderbus",
+      "active": false
+    },
+    "140": {
+      "address": 140,
+      "name": "Melderbus Strang 2 Adresse 37",
+      "type": "melderbus",
+      "active": false
+    },
+    "141": {
+      "address": 141,
+      "name": "Melderbus Strang 2 Adresse 38",
+      "type": "melderbus",
+      "active": false
+    },
+    "142": {
+      "address": 142,
+      "name": "Melderbus Strang 2 Adresse 39",
+      "type": "melderbus",
+      "active": false
+    },
+    "143": {
+      "address": 143,
+      "name": "Melderbus Strang 2 Adresse 40",
+      "type": "melderbus",
+      "active": false
+    },
+    "144": {
+      "address": 144,
+      "name": "Melderbus Strang 2 Adresse 41",
+      "type": "melderbus",
+      "active": false
+    },
+    "145": {
+      "address": 145,
+      "name": "Melderbus Strang 2 Adresse 42",
+      "type": "melderbus",
+      "active": false
+    },
+    "146": {
+      "address": 146,
+      "name": "Melderbus Strang 2 Adresse 43",
+      "type": "melderbus",
+      "active": false
+    },
+    "147": {
+      "address": 147,
+      "name": "Melderbus Strang 2 Adresse 44",
+      "type": "melderbus",
+      "active": false
+    },
+    "148": {
+      "address": 148,
+      "name": "Melderbus Strang 2 Adresse 45",
+      "type": "melderbus",
+      "active": false
+    },
+    "149": {
+      "address": 149,
+      "name": "Melderbus Strang 2 Adresse 46",
+      "type": "melderbus",
+      "active": false
+    },
+    "150": {
+      "address": 150,
+      "name": "Melderbus Strang 2 Adresse 47",
+      "type": "melderbus",
+      "active": false
+    },
+    "151": {
+      "address": 151,
+      "name": "Melderbus Strang 2 Adresse 48",
+      "type": "melderbus",
+      "active": false
+    },
+    "152": {
+      "address": 152,
+      "name": "Melderbus Strang 2 Adresse 49",
+      "type": "melderbus",
+      "active": false
+    },
+    "153": {
+      "address": 153,
+      "name": "Melderbus Strang 2 Adresse 50",
+      "type": "melderbus",
+      "active": false
+    },
+    "154": {
+      "address": 154,
+      "name": "Melderbus Strang 2 Adresse 51",
+      "type": "melderbus",
+      "active": false
+    },
+    "155": {
+      "address": 155,
+      "name": "Melderbus Strang 2 Adresse 52",
+      "type": "melderbus",
+      "active": false
+    },
+    "156": {
+      "address": 156,
+      "name": "Melderbus Strang 2 Adresse 53",
+      "type": "melderbus",
+      "active": false
+    },
+    "157": {
+      "address": 157,
+      "name": "Melderbus Strang 2 Adresse 54",
+      "type": "melderbus",
+      "active": false
+    },
+    "158": {
+      "address": 158,
+      "name": "Melderbus Strang 2 Adresse 55",
+      "type": "melderbus",
+      "active": false
+    },
+    "159": {
+      "address": 159,
+      "name": "Melderbus Strang 2 Adresse 56",
+      "type": "melderbus",
+      "active": false
+    },
+    "160": {
+      "address": 160,
+      "name": "Melderbus Strang 2 Adresse 57",
+      "type": "melderbus",
+      "active": false
+    },
+    "161": {
+      "address": 161,
+      "name": "Melderbus Strang 2 Adresse 58",
+      "type": "melderbus",
+      "active": false
+    },
+    "162": {
+      "address": 162,
+      "name": "Melderbus Strang 2 Adresse 59",
+      "type": "melderbus",
+      "active": false
+    },
+    "163": {
+      "address": 163,
+      "name": "Melderbus Strang 2 Adresse 60",
+      "type": "melderbus",
+      "active": false
+    },
+    "164": {
+      "address": 164,
+      "name": "Melderbus Strang 2 Adresse 61",
+      "type": "melderbus",
+      "active": false
+    },
+    "165": {
+      "address": 165,
+      "name": "Melderbus Strang 2 Adresse 62",
+      "type": "melderbus",
+      "active": false
+    },
+    "166": {
+      "address": 166,
+      "name": "Melderbus Strang 2 Adresse 63",
+      "type": "melderbus",
+      "active": false
+    },
+    "167": {
+      "address": 167,
+      "name": "Eingang 0x00A7",
+      "type": "unknown",
+      "active": false
+    },
+    "168": {
+      "address": 168,
+      "name": "Eingang 0x00A8",
+      "type": "unknown",
+      "active": false
+    },
+    "169": {
+      "address": 169,
+      "name": "Eingang 0x00A9",
+      "type": "unknown",
+      "active": false
+    },
+    "170": {
+      "address": 170,
+      "name": "Eingang 0x00AA",
+      "type": "unknown",
+      "active": false
+    },
+    "171": {
+      "address": 171,
+      "name": "Eingang 0x00AB",
+      "type": "unknown",
+      "active": false
+    },
+    "172": {
+      "address": 172,
+      "name": "Eingang 0x00AC",
+      "type": "unknown",
+      "active": false
+    },
+    "173": {
+      "address": 173,
+      "name": "Eingang 0x00AD",
+      "type": "unknown",
+      "active": false
+    },
+    "174": {
+      "address": 174,
+      "name": "Eingang 0x00AE",
+      "type": "unknown",
+      "active": false
+    },
+    "175": {
+      "address": 175,
+      "name": "Eingang 0x00AF",
+      "type": "unknown",
+      "active": false
+    },
+    "176": {
+      "address": 176,
+      "name": "Bedienteil 0 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "177": {
+      "address": 177,
+      "name": "Bedienteil 0 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "178": {
+      "address": 178,
+      "name": "Bedienteil 0 Keine Antwort",
+      "type": "bedienteile",
+      "active": true
+    },
+    "179": {
+      "address": 179,
+      "name": "Bedienteil 0 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "180": {
+      "address": 180,
+      "name": "Bedienteil 1 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "181": {
+      "address": 181,
+      "name": "Bedienteil 1 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "182": {
+      "address": 182,
+      "name": "Bedienteil 1 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "183": {
+      "address": 183,
+      "name": "Bedienteil 1 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "184": {
+      "address": 184,
+      "name": "Bedienteil 2 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "185": {
+      "address": 185,
+      "name": "Bedienteil 2 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "186": {
+      "address": 186,
+      "name": "Bedienteil 2 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "187": {
+      "address": 187,
+      "name": "Bedienteil 2 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "188": {
+      "address": 188,
+      "name": "Bedienteil 3 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "189": {
+      "address": 189,
+      "name": "Bedienteil 3 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "190": {
+      "address": 190,
+      "name": "Bedienteil 3 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "191": {
+      "address": 191,
+      "name": "Bedienteil 3 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "192": {
+      "address": 192,
+      "name": "Bedienteil 4 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "193": {
+      "address": 193,
+      "name": "Bedienteil 4 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "194": {
+      "address": 194,
+      "name": "Bedienteil 4 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "195": {
+      "address": 195,
+      "name": "Bedienteil 4 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "196": {
+      "address": 196,
+      "name": "Bedienteil 5 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "197": {
+      "address": 197,
+      "name": "Bedienteil 5 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "198": {
+      "address": 198,
+      "name": "Bedienteil 5 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "199": {
+      "address": 199,
+      "name": "Bedienteil 5 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "200": {
+      "address": 200,
+      "name": "Bedienteil 6 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "201": {
+      "address": 201,
+      "name": "Bedienteil 6 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "202": {
+      "address": 202,
+      "name": "Bedienteil 6 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "203": {
+      "address": 203,
+      "name": "Bedienteil 6 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "204": {
+      "address": 204,
+      "name": "Bedienteil 7 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "205": {
+      "address": 205,
+      "name": "Bedienteil 7 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "206": {
+      "address": 206,
+      "name": "Bedienteil 7 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "207": {
+      "address": 207,
+      "name": "Bedienteil 7 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "208": {
+      "address": 208,
+      "name": "Bedienteil 8 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "209": {
+      "address": 209,
+      "name": "Bedienteil 8 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "210": {
+      "address": 210,
+      "name": "Bedienteil 8 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "211": {
+      "address": 211,
+      "name": "Bedienteil 8 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "212": {
+      "address": 212,
+      "name": "Bedienteil 9 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "213": {
+      "address": 213,
+      "name": "Bedienteil 9 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "214": {
+      "address": 214,
+      "name": "Bedienteil 9 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "215": {
+      "address": 215,
+      "name": "Bedienteil 9 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "216": {
+      "address": 216,
+      "name": "Bedienteil 10 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "217": {
+      "address": 217,
+      "name": "Bedienteil 10 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "218": {
+      "address": 218,
+      "name": "Bedienteil 10 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "219": {
+      "address": 219,
+      "name": "Bedienteil 10 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "220": {
+      "address": 220,
+      "name": "Bedienteil 11 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "221": {
+      "address": 221,
+      "name": "Bedienteil 11 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "222": {
+      "address": 222,
+      "name": "Bedienteil 11 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "223": {
+      "address": 223,
+      "name": "Bedienteil 11 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "224": {
+      "address": 224,
+      "name": "Bedienteil 12 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "225": {
+      "address": 225,
+      "name": "Bedienteil 12 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "226": {
+      "address": 226,
+      "name": "Bedienteil 12 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "227": {
+      "address": 227,
+      "name": "Bedienteil 12 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "228": {
+      "address": 228,
+      "name": "Bedienteil 13 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "229": {
+      "address": 229,
+      "name": "Bedienteil 13 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "230": {
+      "address": 230,
+      "name": "Bedienteil 13 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "231": {
+      "address": 231,
+      "name": "Bedienteil 13 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "232": {
+      "address": 232,
+      "name": "Bedienteil 14 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "233": {
+      "address": 233,
+      "name": "Bedienteil 14 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "234": {
+      "address": 234,
+      "name": "Bedienteil 14 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "235": {
+      "address": 235,
+      "name": "Bedienteil 14 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "236": {
+      "address": 236,
+      "name": "Bedienteil 15 Deckelkontakt BT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "237": {
+      "address": 237,
+      "name": "Bedienteil 15 Deckelkontakt AT",
+      "type": "bedienteile",
+      "active": false
+    },
+    "238": {
+      "address": 238,
+      "name": "Bedienteil 15 Keine Antwort",
+      "type": "bedienteile",
+      "active": false
+    },
+    "239": {
+      "address": 239,
+      "name": "Bedienteil 15 Sondertaste",
+      "type": "bedienteile",
+      "active": false
+    },
+    "240": {
+      "address": 240,
+      "name": "Eingang 0x00F0",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "241": {
+      "address": 241,
+      "name": "Eingang 0x00F1",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "242": {
+      "address": 242,
+      "name": "Eingang 0x00F2",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "243": {
+      "address": 243,
+      "name": "Eingang 0x00F3",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "244": {
+      "address": 244,
+      "name": "Eingang 0x00F4",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "245": {
+      "address": 245,
+      "name": "Eingang 0x00F5",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "246": {
+      "address": 246,
+      "name": "Eingang 0x00F6",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "247": {
+      "address": 247,
+      "name": "Eingang 0x00F7",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "248": {
+      "address": 248,
+      "name": "Eingang 0x00F8",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "249": {
+      "address": 249,
+      "name": "Eingang 0x00F9",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "250": {
+      "address": 250,
+      "name": "Eingang 0x00FA",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "251": {
+      "address": 251,
+      "name": "Eingang 0x00FB",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "252": {
+      "address": 252,
+      "name": "Eingang 0x00FC",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "253": {
+      "address": 253,
+      "name": "Eingang 0x00FD",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "254": {
+      "address": 254,
+      "name": "Eingang 0x00FE",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "255": {
+      "address": 255,
+      "name": "Eingang 0x00FF",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "256": {
+      "address": 256,
+      "name": "Eingang 0x0100",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "257": {
+      "address": 257,
+      "name": "Eingang 0x0101",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "258": {
+      "address": 258,
+      "name": "Eingang 0x0102",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "259": {
+      "address": 259,
+      "name": "Eingang 0x0103",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "260": {
+      "address": 260,
+      "name": "Eingang 0x0104",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "261": {
+      "address": 261,
+      "name": "Eingang 0x0105",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "262": {
+      "address": 262,
+      "name": "Eingang 0x0106",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "263": {
+      "address": 263,
+      "name": "Eingang 0x0107",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "264": {
+      "address": 264,
+      "name": "Eingang 0x0108",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "265": {
+      "address": 265,
+      "name": "Eingang 0x0109",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "266": {
+      "address": 266,
+      "name": "Eingang 0x010A",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "267": {
+      "address": 267,
+      "name": "Eingang 0x010B",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "268": {
+      "address": 268,
+      "name": "Eingang 0x010C",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "269": {
+      "address": 269,
+      "name": "Eingang 0x010D",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "270": {
+      "address": 270,
+      "name": "Eingang 0x010E",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "271": {
+      "address": 271,
+      "name": "Eingang 0x010F",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "272": {
+      "address": 272,
+      "name": "Eingang 0x0110",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "273": {
+      "address": 273,
+      "name": "Eingang 0x0111",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "274": {
+      "address": 274,
+      "name": "Eingang 0x0112",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "275": {
+      "address": 275,
+      "name": "Eingang 0x0113",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "276": {
+      "address": 276,
+      "name": "Eingang 0x0114",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "277": {
+      "address": 277,
+      "name": "Eingang 0x0115",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "278": {
+      "address": 278,
+      "name": "Eingang 0x0116",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "279": {
+      "address": 279,
+      "name": "Eingang 0x0117",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "280": {
+      "address": 280,
+      "name": "Eingang 0x0118",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "281": {
+      "address": 281,
+      "name": "Eingang 0x0119",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "282": {
+      "address": 282,
+      "name": "Eingang 0x011A",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "283": {
+      "address": 283,
+      "name": "Eingang 0x011B",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "284": {
+      "address": 284,
+      "name": "Eingang 0x011C",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "285": {
+      "address": 285,
+      "name": "Eingang 0x011D",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "286": {
+      "address": 286,
+      "name": "Eingang 0x011E",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "287": {
+      "address": 287,
+      "name": "Eingang 0x011F",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "288": {
+      "address": 288,
+      "name": "Eingang 0x0120",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "289": {
+      "address": 289,
+      "name": "Eingang 0x0121",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "290": {
+      "address": 290,
+      "name": "Eingang 0x0122",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "291": {
+      "address": 291,
+      "name": "Eingang 0x0123",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "292": {
+      "address": 292,
+      "name": "Eingang 0x0124",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "293": {
+      "address": 293,
+      "name": "Eingang 0x0125",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "294": {
+      "address": 294,
+      "name": "Eingang 0x0126",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "295": {
+      "address": 295,
+      "name": "Eingang 0x0127",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "296": {
+      "address": 296,
+      "name": "Eingang 0x0128",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "297": {
+      "address": 297,
+      "name": "Eingang 0x0129",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "298": {
+      "address": 298,
+      "name": "Eingang 0x012A",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "299": {
+      "address": 299,
+      "name": "Eingang 0x012B",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "300": {
+      "address": 300,
+      "name": "Eingang 0x012C",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "301": {
+      "address": 301,
+      "name": "Eingang 0x012D",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "302": {
+      "address": 302,
+      "name": "Eingang 0x012E",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "303": {
+      "address": 303,
+      "name": "Eingang 0x012F",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "304": {
+      "address": 304,
+      "name": "Eingang 0x0130",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "305": {
+      "address": 305,
+      "name": "Eingang 0x0131",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "306": {
+      "address": 306,
+      "name": "Eingang 0x0132",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "307": {
+      "address": 307,
+      "name": "Eingang 0x0133",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "308": {
+      "address": 308,
+      "name": "Eingang 0x0134",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "309": {
+      "address": 309,
+      "name": "Eingang 0x0135",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "310": {
+      "address": 310,
+      "name": "Eingang 0x0136",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "311": {
+      "address": 311,
+      "name": "Eingang 0x0137",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "312": {
+      "address": 312,
+      "name": "Eingang 0x0138",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "313": {
+      "address": 313,
+      "name": "Eingang 0x0139",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "314": {
+      "address": 314,
+      "name": "Eingang 0x013A",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "315": {
+      "address": 315,
+      "name": "Eingang 0x013B",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "316": {
+      "address": 316,
+      "name": "Eingang 0x013C",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "317": {
+      "address": 317,
+      "name": "Eingang 0x013D",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "318": {
+      "address": 318,
+      "name": "Eingang 0x013E",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "319": {
+      "address": 319,
+      "name": "Eingang 0x013F",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "320": {
+      "address": 320,
+      "name": "Eingang 0x0140",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "321": {
+      "address": 321,
+      "name": "Eingang 0x0141",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "322": {
+      "address": 322,
+      "name": "Eingang 0x0142",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "323": {
+      "address": 323,
+      "name": "Eingang 0x0143",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "324": {
+      "address": 324,
+      "name": "Eingang 0x0144",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "325": {
+      "address": 325,
+      "name": "Eingang 0x0145",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "326": {
+      "address": 326,
+      "name": "Eingang 0x0146",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "327": {
+      "address": 327,
+      "name": "Eingang 0x0147",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "328": {
+      "address": 328,
+      "name": "Eingang 0x0148",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "329": {
+      "address": 329,
+      "name": "Eingang 0x0149",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "330": {
+      "address": 330,
+      "name": "Eingang 0x014A",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "331": {
+      "address": 331,
+      "name": "Eingang 0x014B",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "332": {
+      "address": 332,
+      "name": "Eingang 0x014C",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "333": {
+      "address": 333,
+      "name": "Eingang 0x014D",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "334": {
+      "address": 334,
+      "name": "Eingang 0x014E",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "335": {
+      "address": 335,
+      "name": "Eingang 0x014F",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "336": {
+      "address": 336,
+      "name": "Eingang 0x0150",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "337": {
+      "address": 337,
+      "name": "Eingang 0x0151",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "338": {
+      "address": 338,
+      "name": "Eingang 0x0152",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "339": {
+      "address": 339,
+      "name": "Eingang 0x0153",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "340": {
+      "address": 340,
+      "name": "Eingang 0x0154",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "341": {
+      "address": 341,
+      "name": "Eingang 0x0155",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "342": {
+      "address": 342,
+      "name": "Eingang 0x0156",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "343": {
+      "address": 343,
+      "name": "Eingang 0x0157",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "344": {
+      "address": 344,
+      "name": "Eingang 0x0158",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "345": {
+      "address": 345,
+      "name": "Eingang 0x0159",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "346": {
+      "address": 346,
+      "name": "Eingang 0x015A",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "347": {
+      "address": 347,
+      "name": "Eingang 0x015B",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "348": {
+      "address": 348,
+      "name": "Eingang 0x015C",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "349": {
+      "address": 349,
+      "name": "Eingang 0x015D",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "350": {
+      "address": 350,
+      "name": "Eingang 0x015E",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "351": {
+      "address": 351,
+      "name": "Eingang 0x015F",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "352": {
+      "address": 352,
+      "name": "Eingang 0x0160",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "353": {
+      "address": 353,
+      "name": "Eingang 0x0161",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "354": {
+      "address": 354,
+      "name": "Eingang 0x0162",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "355": {
+      "address": 355,
+      "name": "Eingang 0x0163",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "356": {
+      "address": 356,
+      "name": "Eingang 0x0164",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "357": {
+      "address": 357,
+      "name": "Eingang 0x0165",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "358": {
+      "address": 358,
+      "name": "Eingang 0x0166",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "359": {
+      "address": 359,
+      "name": "Eingang 0x0167",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "360": {
+      "address": 360,
+      "name": "Eingang 0x0168",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "361": {
+      "address": 361,
+      "name": "Eingang 0x0169",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "362": {
+      "address": 362,
+      "name": "Eingang 0x016A",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "363": {
+      "address": 363,
+      "name": "Eingang 0x016B",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "364": {
+      "address": 364,
+      "name": "Eingang 0x016C",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "365": {
+      "address": 365,
+      "name": "Eingang 0x016D",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "366": {
+      "address": 366,
+      "name": "Eingang 0x016E",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "367": {
+      "address": 367,
+      "name": "Eingang 0x016F",
+      "type": "comlock410_0_7",
+      "active": false
+    },
+    "368": {
+      "address": 368,
+      "name": "Eingang 0x0170",
+      "type": "comslave",
+      "active": false
+    },
+    "369": {
+      "address": 369,
+      "name": "Eingang 0x0171",
+      "type": "comslave",
+      "active": false
+    },
+    "370": {
+      "address": 370,
+      "name": "Eingang 0x0172",
+      "type": "comslave",
+      "active": false
+    },
+    "371": {
+      "address": 371,
+      "name": "Eingang 0x0173",
+      "type": "comslave",
+      "active": false
+    },
+    "372": {
+      "address": 372,
+      "name": "Eingang 0x0174",
+      "type": "comslave",
+      "active": false
+    },
+    "373": {
+      "address": 373,
+      "name": "Eingang 0x0175",
+      "type": "comslave",
+      "active": false
+    },
+    "374": {
+      "address": 374,
+      "name": "Eingang 0x0176",
+      "type": "comslave",
+      "active": false
+    },
+    "375": {
+      "address": 375,
+      "name": "Eingang 0x0177",
+      "type": "comslave",
+      "active": false
+    },
+    "376": {
+      "address": 376,
+      "name": "Eingang 0x0178",
+      "type": "comslave",
+      "active": false
+    },
+    "377": {
+      "address": 377,
+      "name": "Eingang 0x0179",
+      "type": "comslave",
+      "active": false
+    },
+    "378": {
+      "address": 378,
+      "name": "Eingang 0x017A",
+      "type": "comslave",
+      "active": false
+    },
+    "379": {
+      "address": 379,
+      "name": "Eingang 0x017B",
+      "type": "comslave",
+      "active": false
+    },
+    "380": {
+      "address": 380,
+      "name": "Eingang 0x017C",
+      "type": "comslave",
+      "active": false
+    },
+    "381": {
+      "address": 381,
+      "name": "Eingang 0x017D",
+      "type": "comslave",
+      "active": false
+    },
+    "382": {
+      "address": 382,
+      "name": "Eingang 0x017E",
+      "type": "comslave",
+      "active": false
+    },
+    "383": {
+      "address": 383,
+      "name": "Eingang 0x017F",
+      "type": "comslave",
+      "active": false
+    },
+    "384": {
+      "address": 384,
+      "name": "Eingang 0x0180",
+      "type": "comslave",
+      "active": false
+    },
+    "385": {
+      "address": 385,
+      "name": "Eingang 0x0181",
+      "type": "comslave",
+      "active": false
+    },
+    "386": {
+      "address": 386,
+      "name": "Eingang 0x0182",
+      "type": "comslave",
+      "active": false
+    },
+    "387": {
+      "address": 387,
+      "name": "Eingang 0x0183",
+      "type": "comslave",
+      "active": false
+    },
+    "388": {
+      "address": 388,
+      "name": "Eingang 0x0184",
+      "type": "comslave",
+      "active": false
+    },
+    "389": {
+      "address": 389,
+      "name": "Eingang 0x0185",
+      "type": "comslave",
+      "active": false
+    },
+    "390": {
+      "address": 390,
+      "name": "Eingang 0x0186",
+      "type": "comslave",
+      "active": false
+    },
+    "391": {
+      "address": 391,
+      "name": "Eingang 0x0187",
+      "type": "comslave",
+      "active": false
+    },
+    "392": {
+      "address": 392,
+      "name": "Eingang 0x0188",
+      "type": "comslave",
+      "active": false
+    },
+    "393": {
+      "address": 393,
+      "name": "Eingang 0x0189",
+      "type": "comslave",
+      "active": false
+    },
+    "394": {
+      "address": 394,
+      "name": "Eingang 0x018A",
+      "type": "comslave",
+      "active": false
+    },
+    "395": {
+      "address": 395,
+      "name": "Eingang 0x018B",
+      "type": "comslave",
+      "active": false
+    },
+    "396": {
+      "address": 396,
+      "name": "Eingang 0x018C",
+      "type": "comslave",
+      "active": false
+    },
+    "397": {
+      "address": 397,
+      "name": "Eingang 0x018D",
+      "type": "comslave",
+      "active": false
+    },
+    "398": {
+      "address": 398,
+      "name": "Eingang 0x018E",
+      "type": "comslave",
+      "active": false
+    },
+    "399": {
+      "address": 399,
+      "name": "Eingang 0x018F",
+      "type": "comslave",
+      "active": false
+    },
+    "400": {
+      "address": 400,
+      "name": "Eingang 0x0190",
+      "type": "comslave",
+      "active": false
+    },
+    "401": {
+      "address": 401,
+      "name": "Eingang 0x0191",
+      "type": "comslave",
+      "active": false
+    },
+    "402": {
+      "address": 402,
+      "name": "Eingang 0x0192",
+      "type": "comslave",
+      "active": false
+    },
+    "403": {
+      "address": 403,
+      "name": "Eingang 0x0193",
+      "type": "comslave",
+      "active": false
+    },
+    "404": {
+      "address": 404,
+      "name": "Eingang 0x0194",
+      "type": "comslave",
+      "active": false
+    },
+    "405": {
+      "address": 405,
+      "name": "Eingang 0x0195",
+      "type": "comslave",
+      "active": false
+    },
+    "406": {
+      "address": 406,
+      "name": "Eingang 0x0196",
+      "type": "comslave",
+      "active": false
+    },
+    "407": {
+      "address": 407,
+      "name": "Eingang 0x0197",
+      "type": "comslave",
+      "active": false
+    },
+    "408": {
+      "address": 408,
+      "name": "Eingang 0x0198",
+      "type": "comslave",
+      "active": false
+    },
+    "409": {
+      "address": 409,
+      "name": "Eingang 0x0199",
+      "type": "comslave",
+      "active": false
+    },
+    "410": {
+      "address": 410,
+      "name": "Eingang 0x019A",
+      "type": "comslave",
+      "active": false
+    },
+    "411": {
+      "address": 411,
+      "name": "Eingang 0x019B",
+      "type": "comslave",
+      "active": false
+    },
+    "412": {
+      "address": 412,
+      "name": "Eingang 0x019C",
+      "type": "comslave",
+      "active": false
+    },
+    "413": {
+      "address": 413,
+      "name": "Eingang 0x019D",
+      "type": "comslave",
+      "active": false
+    },
+    "414": {
+      "address": 414,
+      "name": "Eingang 0x019E",
+      "type": "comslave",
+      "active": false
+    },
+    "415": {
+      "address": 415,
+      "name": "Eingang 0x019F",
+      "type": "comslave",
+      "active": false
+    },
+    "416": {
+      "address": 416,
+      "name": "Eingang 0x01A0",
+      "type": "comslave",
+      "active": false
+    },
+    "417": {
+      "address": 417,
+      "name": "Eingang 0x01A1",
+      "type": "comslave",
+      "active": false
+    },
+    "418": {
+      "address": 418,
+      "name": "Eingang 0x01A2",
+      "type": "comslave",
+      "active": false
+    },
+    "419": {
+      "address": 419,
+      "name": "Eingang 0x01A3",
+      "type": "comslave",
+      "active": false
+    },
+    "420": {
+      "address": 420,
+      "name": "Eingang 0x01A4",
+      "type": "comslave",
+      "active": false
+    },
+    "421": {
+      "address": 421,
+      "name": "Eingang 0x01A5",
+      "type": "comslave",
+      "active": false
+    },
+    "422": {
+      "address": 422,
+      "name": "Eingang 0x01A6",
+      "type": "comslave",
+      "active": false
+    },
+    "423": {
+      "address": 423,
+      "name": "Eingang 0x01A7",
+      "type": "comslave",
+      "active": false
+    },
+    "424": {
+      "address": 424,
+      "name": "Eingang 0x01A8",
+      "type": "comslave",
+      "active": false
+    },
+    "425": {
+      "address": 425,
+      "name": "Eingang 0x01A9",
+      "type": "comslave",
+      "active": false
+    },
+    "426": {
+      "address": 426,
+      "name": "Eingang 0x01AA",
+      "type": "comslave",
+      "active": false
+    },
+    "427": {
+      "address": 427,
+      "name": "Eingang 0x01AB",
+      "type": "comslave",
+      "active": false
+    },
+    "428": {
+      "address": 428,
+      "name": "Eingang 0x01AC",
+      "type": "comslave",
+      "active": false
+    },
+    "429": {
+      "address": 429,
+      "name": "Eingang 0x01AD",
+      "type": "comslave",
+      "active": false
+    },
+    "430": {
+      "address": 430,
+      "name": "Eingang 0x01AE",
+      "type": "comslave",
+      "active": false
+    },
+    "431": {
+      "address": 431,
+      "name": "Eingang 0x01AF",
+      "type": "comslave",
+      "active": false
+    },
+    "432": {
+      "address": 432,
+      "name": "Eingang 0x01B0",
+      "type": "comslave",
+      "active": false
+    },
+    "433": {
+      "address": 433,
+      "name": "Eingang 0x01B1",
+      "type": "comslave",
+      "active": false
+    },
+    "434": {
+      "address": 434,
+      "name": "Eingang 0x01B2",
+      "type": "comslave",
+      "active": false
+    },
+    "435": {
+      "address": 435,
+      "name": "Eingang 0x01B3",
+      "type": "comslave",
+      "active": false
+    },
+    "436": {
+      "address": 436,
+      "name": "Eingang 0x01B4",
+      "type": "comslave",
+      "active": false
+    },
+    "437": {
+      "address": 437,
+      "name": "Eingang 0x01B5",
+      "type": "comslave",
+      "active": false
+    },
+    "438": {
+      "address": 438,
+      "name": "Eingang 0x01B6",
+      "type": "comslave",
+      "active": false
+    },
+    "439": {
+      "address": 439,
+      "name": "Eingang 0x01B7",
+      "type": "comslave",
+      "active": false
+    },
+    "440": {
+      "address": 440,
+      "name": "Eingang 0x01B8",
+      "type": "comslave",
+      "active": false
+    },
+    "441": {
+      "address": 441,
+      "name": "Eingang 0x01B9",
+      "type": "comslave",
+      "active": false
+    },
+    "442": {
+      "address": 442,
+      "name": "Eingang 0x01BA",
+      "type": "comslave",
+      "active": false
+    },
+    "443": {
+      "address": 443,
+      "name": "Eingang 0x01BB",
+      "type": "comslave",
+      "active": false
+    },
+    "444": {
+      "address": 444,
+      "name": "Eingang 0x01BC",
+      "type": "comslave",
+      "active": false
+    },
+    "445": {
+      "address": 445,
+      "name": "Eingang 0x01BD",
+      "type": "comslave",
+      "active": false
+    },
+    "446": {
+      "address": 446,
+      "name": "Eingang 0x01BE",
+      "type": "comslave",
+      "active": false
+    },
+    "447": {
+      "address": 447,
+      "name": "Eingang 0x01BF",
+      "type": "comslave",
+      "active": false
+    },
+    "448": {
+      "address": 448,
+      "name": "Eingang 0x01C0",
+      "type": "comslave",
+      "active": false
+    },
+    "449": {
+      "address": 449,
+      "name": "Eingang 0x01C1",
+      "type": "comslave",
+      "active": false
+    },
+    "450": {
+      "address": 450,
+      "name": "Eingang 0x01C2",
+      "type": "comslave",
+      "active": false
+    },
+    "451": {
+      "address": 451,
+      "name": "Eingang 0x01C3",
+      "type": "comslave",
+      "active": false
+    },
+    "452": {
+      "address": 452,
+      "name": "Eingang 0x01C4",
+      "type": "comslave",
+      "active": false
+    },
+    "453": {
+      "address": 453,
+      "name": "Eingang 0x01C5",
+      "type": "comslave",
+      "active": false
+    },
+    "454": {
+      "address": 454,
+      "name": "Eingang 0x01C6",
+      "type": "comslave",
+      "active": false
+    },
+    "455": {
+      "address": 455,
+      "name": "Eingang 0x01C7",
+      "type": "comslave",
+      "active": false
+    },
+    "456": {
+      "address": 456,
+      "name": "Eingang 0x01C8",
+      "type": "comslave",
+      "active": false
+    },
+    "457": {
+      "address": 457,
+      "name": "Eingang 0x01C9",
+      "type": "comslave",
+      "active": false
+    },
+    "458": {
+      "address": 458,
+      "name": "Eingang 0x01CA",
+      "type": "comslave",
+      "active": false
+    },
+    "459": {
+      "address": 459,
+      "name": "Eingang 0x01CB",
+      "type": "comslave",
+      "active": false
+    },
+    "460": {
+      "address": 460,
+      "name": "Eingang 0x01CC",
+      "type": "comslave",
+      "active": false
+    },
+    "461": {
+      "address": 461,
+      "name": "Eingang 0x01CD",
+      "type": "comslave",
+      "active": false
+    },
+    "462": {
+      "address": 462,
+      "name": "Eingang 0x01CE",
+      "type": "comslave",
+      "active": false
+    },
+    "463": {
+      "address": 463,
+      "name": "Eingang 0x01CF",
+      "type": "comslave",
+      "active": false
+    },
+    "464": {
+      "address": 464,
+      "name": "Eingang 0x01D0",
+      "type": "comslave",
+      "active": false
+    },
+    "465": {
+      "address": 465,
+      "name": "Eingang 0x01D1",
+      "type": "comslave",
+      "active": false
+    },
+    "466": {
+      "address": 466,
+      "name": "Eingang 0x01D2",
+      "type": "comslave",
+      "active": false
+    },
+    "467": {
+      "address": 467,
+      "name": "Eingang 0x01D3",
+      "type": "comslave",
+      "active": false
+    },
+    "468": {
+      "address": 468,
+      "name": "Eingang 0x01D4",
+      "type": "comslave",
+      "active": false
+    },
+    "469": {
+      "address": 469,
+      "name": "Eingang 0x01D5",
+      "type": "comslave",
+      "active": false
+    },
+    "470": {
+      "address": 470,
+      "name": "Eingang 0x01D6",
+      "type": "comslave",
+      "active": false
+    },
+    "471": {
+      "address": 471,
+      "name": "Eingang 0x01D7",
+      "type": "comslave",
+      "active": false
+    },
+    "472": {
+      "address": 472,
+      "name": "Eingang 0x01D8",
+      "type": "comslave",
+      "active": false
+    },
+    "473": {
+      "address": 473,
+      "name": "Eingang 0x01D9",
+      "type": "comslave",
+      "active": false
+    },
+    "474": {
+      "address": 474,
+      "name": "Eingang 0x01DA",
+      "type": "comslave",
+      "active": false
+    },
+    "475": {
+      "address": 475,
+      "name": "Eingang 0x01DB",
+      "type": "comslave",
+      "active": false
+    },
+    "476": {
+      "address": 476,
+      "name": "Eingang 0x01DC",
+      "type": "comslave",
+      "active": false
+    },
+    "477": {
+      "address": 477,
+      "name": "Eingang 0x01DD",
+      "type": "comslave",
+      "active": false
+    },
+    "478": {
+      "address": 478,
+      "name": "Eingang 0x01DE",
+      "type": "comslave",
+      "active": false
+    },
+    "479": {
+      "address": 479,
+      "name": "Eingang 0x01DF",
+      "type": "comslave",
+      "active": false
+    },
+    "480": {
+      "address": 480,
+      "name": "Eingang 0x01E0",
+      "type": "comslave",
+      "active": false
+    },
+    "481": {
+      "address": 481,
+      "name": "Eingang 0x01E1",
+      "type": "comslave",
+      "active": false
+    },
+    "482": {
+      "address": 482,
+      "name": "Eingang 0x01E2",
+      "type": "comslave",
+      "active": false
+    },
+    "483": {
+      "address": 483,
+      "name": "Eingang 0x01E3",
+      "type": "comslave",
+      "active": false
+    },
+    "484": {
+      "address": 484,
+      "name": "Eingang 0x01E4",
+      "type": "comslave",
+      "active": false
+    },
+    "485": {
+      "address": 485,
+      "name": "Eingang 0x01E5",
+      "type": "comslave",
+      "active": false
+    },
+    "486": {
+      "address": 486,
+      "name": "Eingang 0x01E6",
+      "type": "comslave",
+      "active": false
+    },
+    "487": {
+      "address": 487,
+      "name": "Eingang 0x01E7",
+      "type": "comslave",
+      "active": false
+    },
+    "488": {
+      "address": 488,
+      "name": "Eingang 0x01E8",
+      "type": "comslave",
+      "active": false
+    },
+    "489": {
+      "address": 489,
+      "name": "Eingang 0x01E9",
+      "type": "comslave",
+      "active": false
+    },
+    "490": {
+      "address": 490,
+      "name": "Eingang 0x01EA",
+      "type": "comslave",
+      "active": false
+    },
+    "491": {
+      "address": 491,
+      "name": "Eingang 0x01EB",
+      "type": "comslave",
+      "active": false
+    },
+    "492": {
+      "address": 492,
+      "name": "Eingang 0x01EC",
+      "type": "comslave",
+      "active": false
+    },
+    "493": {
+      "address": 493,
+      "name": "Eingang 0x01ED",
+      "type": "comslave",
+      "active": false
+    },
+    "494": {
+      "address": 494,
+      "name": "Eingang 0x01EE",
+      "type": "comslave",
+      "active": false
+    },
+    "495": {
+      "address": 495,
+      "name": "Eingang 0x01EF",
+      "type": "comslave",
+      "active": false
+    },
+    "496": {
+      "address": 496,
+      "name": "Eingang 0x01F0",
+      "type": "comslave",
+      "active": false
+    },
+    "497": {
+      "address": 497,
+      "name": "Eingang 0x01F1",
+      "type": "comslave",
+      "active": false
+    },
+    "498": {
+      "address": 498,
+      "name": "Eingang 0x01F2",
+      "type": "comslave",
+      "active": false
+    },
+    "499": {
+      "address": 499,
+      "name": "Eingang 0x01F3",
+      "type": "comslave",
+      "active": false
+    },
+    "500": {
+      "address": 500,
+      "name": "Eingang 0x01F4",
+      "type": "comslave",
+      "active": false
+    },
+    "501": {
+      "address": 501,
+      "name": "Eingang 0x01F5",
+      "type": "comslave",
+      "active": false
+    },
+    "502": {
+      "address": 502,
+      "name": "Eingang 0x01F6",
+      "type": "comslave",
+      "active": false
+    },
+    "503": {
+      "address": 503,
+      "name": "Eingang 0x01F7",
+      "type": "comslave",
+      "active": false
+    },
+    "504": {
+      "address": 504,
+      "name": "Eingang 0x01F8",
+      "type": "comslave",
+      "active": false
+    },
+    "505": {
+      "address": 505,
+      "name": "Eingang 0x01F9",
+      "type": "comslave",
+      "active": false
+    },
+    "506": {
+      "address": 506,
+      "name": "Eingang 0x01FA",
+      "type": "comslave",
+      "active": false
+    },
+    "507": {
+      "address": 507,
+      "name": "Eingang 0x01FB",
+      "type": "comslave",
+      "active": false
+    },
+    "508": {
+      "address": 508,
+      "name": "Eingang 0x01FC",
+      "type": "comslave",
+      "active": false
+    },
+    "509": {
+      "address": 509,
+      "name": "Eingang 0x01FD",
+      "type": "comslave",
+      "active": false
+    },
+    "510": {
+      "address": 510,
+      "name": "Eingang 0x01FE",
+      "type": "comslave",
+      "active": false
+    },
+    "511": {
+      "address": 511,
+      "name": "Eingang 0x01FF",
+      "type": "comslave",
+      "active": false
+    },
+    "512": {
+      "address": 512,
+      "name": "Eingang 0x0200",
+      "type": "comslave",
+      "active": false
+    },
+    "513": {
+      "address": 513,
+      "name": "Eingang 0x0201",
+      "type": "comslave",
+      "active": false
+    },
+    "514": {
+      "address": 514,
+      "name": "Eingang 0x0202",
+      "type": "comslave",
+      "active": false
+    },
+    "515": {
+      "address": 515,
+      "name": "Eingang 0x0203",
+      "type": "comslave",
+      "active": false
+    },
+    "516": {
+      "address": 516,
+      "name": "Eingang 0x0204",
+      "type": "comslave",
+      "active": false
+    },
+    "517": {
+      "address": 517,
+      "name": "Eingang 0x0205",
+      "type": "comslave",
+      "active": false
+    },
+    "518": {
+      "address": 518,
+      "name": "Eingang 0x0206",
+      "type": "comslave",
+      "active": false
+    },
+    "519": {
+      "address": 519,
+      "name": "Eingang 0x0207",
+      "type": "comslave",
+      "active": false
+    },
+    "520": {
+      "address": 520,
+      "name": "Eingang 0x0208",
+      "type": "comslave",
+      "active": false
+    },
+    "521": {
+      "address": 521,
+      "name": "Eingang 0x0209",
+      "type": "comslave",
+      "active": false
+    },
+    "522": {
+      "address": 522,
+      "name": "Eingang 0x020A",
+      "type": "comslave",
+      "active": false
+    },
+    "523": {
+      "address": 523,
+      "name": "Eingang 0x020B",
+      "type": "comslave",
+      "active": false
+    },
+    "524": {
+      "address": 524,
+      "name": "Eingang 0x020C",
+      "type": "comslave",
+      "active": false
+    },
+    "525": {
+      "address": 525,
+      "name": "Eingang 0x020D",
+      "type": "comslave",
+      "active": false
+    },
+    "526": {
+      "address": 526,
+      "name": "Eingang 0x020E",
+      "type": "comslave",
+      "active": false
+    },
+    "527": {
+      "address": 527,
+      "name": "Eingang 0x020F",
+      "type": "comslave",
+      "active": false
+    },
+    "528": {
+      "address": 528,
+      "name": "Eingang 0x0210",
+      "type": "comslave",
+      "active": false
+    },
+    "529": {
+      "address": 529,
+      "name": "Eingang 0x0211",
+      "type": "comslave",
+      "active": false
+    },
+    "530": {
+      "address": 530,
+      "name": "Eingang 0x0212",
+      "type": "comslave",
+      "active": false
+    },
+    "531": {
+      "address": 531,
+      "name": "Eingang 0x0213",
+      "type": "comslave",
+      "active": false
+    },
+    "532": {
+      "address": 532,
+      "name": "Eingang 0x0214",
+      "type": "comslave",
+      "active": false
+    },
+    "533": {
+      "address": 533,
+      "name": "Eingang 0x0215",
+      "type": "comslave",
+      "active": false
+    },
+    "534": {
+      "address": 534,
+      "name": "Eingang 0x0216",
+      "type": "comslave",
+      "active": false
+    },
+    "535": {
+      "address": 535,
+      "name": "Eingang 0x0217",
+      "type": "comslave",
+      "active": false
+    },
+    "536": {
+      "address": 536,
+      "name": "Eingang 0x0218",
+      "type": "comslave",
+      "active": false
+    },
+    "537": {
+      "address": 537,
+      "name": "Eingang 0x0219",
+      "type": "comslave",
+      "active": false
+    },
+    "538": {
+      "address": 538,
+      "name": "Eingang 0x021A",
+      "type": "comslave",
+      "active": false
+    },
+    "539": {
+      "address": 539,
+      "name": "Eingang 0x021B",
+      "type": "comslave",
+      "active": false
+    },
+    "540": {
+      "address": 540,
+      "name": "Eingang 0x021C",
+      "type": "comslave",
+      "active": false
+    },
+    "541": {
+      "address": 541,
+      "name": "Eingang 0x021D",
+      "type": "comslave",
+      "active": false
+    },
+    "542": {
+      "address": 542,
+      "name": "Eingang 0x021E",
+      "type": "comslave",
+      "active": false
+    },
+    "543": {
+      "address": 543,
+      "name": "Eingang 0x021F",
+      "type": "comslave",
+      "active": false
+    },
+    "544": {
+      "address": 544,
+      "name": "Eingang 0x0220",
+      "type": "comslave",
+      "active": false
+    },
+    "545": {
+      "address": 545,
+      "name": "Eingang 0x0221",
+      "type": "comslave",
+      "active": false
+    },
+    "546": {
+      "address": 546,
+      "name": "Eingang 0x0222",
+      "type": "comslave",
+      "active": false
+    },
+    "547": {
+      "address": 547,
+      "name": "Eingang 0x0223",
+      "type": "comslave",
+      "active": false
+    },
+    "548": {
+      "address": 548,
+      "name": "Eingang 0x0224",
+      "type": "comslave",
+      "active": false
+    },
+    "549": {
+      "address": 549,
+      "name": "Eingang 0x0225",
+      "type": "comslave",
+      "active": false
+    },
+    "550": {
+      "address": 550,
+      "name": "Eingang 0x0226",
+      "type": "comslave",
+      "active": false
+    },
+    "551": {
+      "address": 551,
+      "name": "Eingang 0x0227",
+      "type": "comslave",
+      "active": false
+    },
+    "552": {
+      "address": 552,
+      "name": "Eingang 0x0228",
+      "type": "comslave",
+      "active": false
+    },
+    "553": {
+      "address": 553,
+      "name": "Eingang 0x0229",
+      "type": "comslave",
+      "active": false
+    },
+    "554": {
+      "address": 554,
+      "name": "Eingang 0x022A",
+      "type": "comslave",
+      "active": false
+    },
+    "555": {
+      "address": 555,
+      "name": "Eingang 0x022B",
+      "type": "comslave",
+      "active": false
+    },
+    "556": {
+      "address": 556,
+      "name": "Eingang 0x022C",
+      "type": "comslave",
+      "active": false
+    },
+    "557": {
+      "address": 557,
+      "name": "Eingang 0x022D",
+      "type": "comslave",
+      "active": false
+    },
+    "558": {
+      "address": 558,
+      "name": "Eingang 0x022E",
+      "type": "comslave",
+      "active": false
+    },
+    "559": {
+      "address": 559,
+      "name": "Eingang 0x022F",
+      "type": "comslave",
+      "active": false
+    },
+    "560": {
+      "address": 560,
+      "name": "Eingang 0x0230",
+      "type": "comslave",
+      "active": false
+    },
+    "561": {
+      "address": 561,
+      "name": "Eingang 0x0231",
+      "type": "comslave",
+      "active": false
+    },
+    "562": {
+      "address": 562,
+      "name": "Eingang 0x0232",
+      "type": "comslave",
+      "active": false
+    },
+    "563": {
+      "address": 563,
+      "name": "Eingang 0x0233",
+      "type": "comslave",
+      "active": false
+    },
+    "564": {
+      "address": 564,
+      "name": "Eingang 0x0234",
+      "type": "comslave",
+      "active": false
+    },
+    "565": {
+      "address": 565,
+      "name": "Eingang 0x0235",
+      "type": "comslave",
+      "active": false
+    },
+    "566": {
+      "address": 566,
+      "name": "Eingang 0x0236",
+      "type": "comslave",
+      "active": false
+    },
+    "567": {
+      "address": 567,
+      "name": "Eingang 0x0237",
+      "type": "comslave",
+      "active": false
+    },
+    "568": {
+      "address": 568,
+      "name": "Eingang 0x0238",
+      "type": "comslave",
+      "active": false
+    },
+    "569": {
+      "address": 569,
+      "name": "Eingang 0x0239",
+      "type": "comslave",
+      "active": false
+    },
+    "570": {
+      "address": 570,
+      "name": "Eingang 0x023A",
+      "type": "comslave",
+      "active": false
+    },
+    "571": {
+      "address": 571,
+      "name": "Eingang 0x023B",
+      "type": "comslave",
+      "active": false
+    },
+    "572": {
+      "address": 572,
+      "name": "Eingang 0x023C",
+      "type": "comslave",
+      "active": false
+    },
+    "573": {
+      "address": 573,
+      "name": "Eingang 0x023D",
+      "type": "comslave",
+      "active": false
+    },
+    "574": {
+      "address": 574,
+      "name": "Eingang 0x023E",
+      "type": "comslave",
+      "active": false
+    },
+    "575": {
+      "address": 575,
+      "name": "Eingang 0x023F",
+      "type": "comslave",
+      "active": false
+    },
+    "576": {
+      "address": 576,
+      "name": "Eingang 0x0240",
+      "type": "comslave",
+      "active": false
+    },
+    "577": {
+      "address": 577,
+      "name": "Eingang 0x0241",
+      "type": "comslave",
+      "active": false
+    },
+    "578": {
+      "address": 578,
+      "name": "Eingang 0x0242",
+      "type": "comslave",
+      "active": false
+    },
+    "579": {
+      "address": 579,
+      "name": "Eingang 0x0243",
+      "type": "comslave",
+      "active": false
+    },
+    "580": {
+      "address": 580,
+      "name": "Eingang 0x0244",
+      "type": "comslave",
+      "active": false
+    },
+    "581": {
+      "address": 581,
+      "name": "Eingang 0x0245",
+      "type": "comslave",
+      "active": false
+    },
+    "582": {
+      "address": 582,
+      "name": "Eingang 0x0246",
+      "type": "comslave",
+      "active": false
+    },
+    "583": {
+      "address": 583,
+      "name": "Eingang 0x0247",
+      "type": "comslave",
+      "active": false
+    },
+    "584": {
+      "address": 584,
+      "name": "Eingang 0x0248",
+      "type": "comslave",
+      "active": false
+    },
+    "585": {
+      "address": 585,
+      "name": "Eingang 0x0249",
+      "type": "comslave",
+      "active": false
+    },
+    "586": {
+      "address": 586,
+      "name": "Eingang 0x024A",
+      "type": "comslave",
+      "active": false
+    },
+    "587": {
+      "address": 587,
+      "name": "Eingang 0x024B",
+      "type": "comslave",
+      "active": false
+    },
+    "588": {
+      "address": 588,
+      "name": "Eingang 0x024C",
+      "type": "comslave",
+      "active": false
+    },
+    "589": {
+      "address": 589,
+      "name": "Eingang 0x024D",
+      "type": "comslave",
+      "active": false
+    },
+    "590": {
+      "address": 590,
+      "name": "Eingang 0x024E",
+      "type": "comslave",
+      "active": false
+    },
+    "591": {
+      "address": 591,
+      "name": "Eingang 0x024F",
+      "type": "comslave",
+      "active": false
+    },
+    "592": {
+      "address": 592,
+      "name": "Eingang 0x0250",
+      "type": "comslave",
+      "active": false
+    },
+    "593": {
+      "address": 593,
+      "name": "Eingang 0x0251",
+      "type": "comslave",
+      "active": false
+    },
+    "594": {
+      "address": 594,
+      "name": "Eingang 0x0252",
+      "type": "comslave",
+      "active": false
+    },
+    "595": {
+      "address": 595,
+      "name": "Eingang 0x0253",
+      "type": "comslave",
+      "active": false
+    },
+    "596": {
+      "address": 596,
+      "name": "Eingang 0x0254",
+      "type": "comslave",
+      "active": false
+    },
+    "597": {
+      "address": 597,
+      "name": "Eingang 0x0255",
+      "type": "comslave",
+      "active": false
+    },
+    "598": {
+      "address": 598,
+      "name": "Eingang 0x0256",
+      "type": "comslave",
+      "active": false
+    },
+    "599": {
+      "address": 599,
+      "name": "Eingang 0x0257",
+      "type": "comslave",
+      "active": false
+    },
+    "600": {
+      "address": 600,
+      "name": "Eingang 0x0258",
+      "type": "comslave",
+      "active": false
+    },
+    "601": {
+      "address": 601,
+      "name": "Eingang 0x0259",
+      "type": "comslave",
+      "active": false
+    },
+    "602": {
+      "address": 602,
+      "name": "Eingang 0x025A",
+      "type": "comslave",
+      "active": false
+    },
+    "603": {
+      "address": 603,
+      "name": "Eingang 0x025B",
+      "type": "comslave",
+      "active": false
+    },
+    "604": {
+      "address": 604,
+      "name": "Eingang 0x025C",
+      "type": "comslave",
+      "active": false
+    },
+    "605": {
+      "address": 605,
+      "name": "Eingang 0x025D",
+      "type": "comslave",
+      "active": false
+    },
+    "606": {
+      "address": 606,
+      "name": "Eingang 0x025E",
+      "type": "comslave",
+      "active": false
+    },
+    "607": {
+      "address": 607,
+      "name": "Eingang 0x025F",
+      "type": "comslave",
+      "active": false
+    },
+    "608": {
+      "address": 608,
+      "name": "Eingang 0x0260",
+      "type": "comslave",
+      "active": false
+    },
+    "609": {
+      "address": 609,
+      "name": "Eingang 0x0261",
+      "type": "comslave",
+      "active": false
+    },
+    "610": {
+      "address": 610,
+      "name": "Eingang 0x0262",
+      "type": "comslave",
+      "active": false
+    },
+    "611": {
+      "address": 611,
+      "name": "Eingang 0x0263",
+      "type": "comslave",
+      "active": false
+    },
+    "612": {
+      "address": 612,
+      "name": "Eingang 0x0264",
+      "type": "comslave",
+      "active": false
+    },
+    "613": {
+      "address": 613,
+      "name": "Eingang 0x0265",
+      "type": "comslave",
+      "active": false
+    },
+    "614": {
+      "address": 614,
+      "name": "Eingang 0x0266",
+      "type": "comslave",
+      "active": false
+    },
+    "615": {
+      "address": 615,
+      "name": "Eingang 0x0267",
+      "type": "comslave",
+      "active": false
+    },
+    "616": {
+      "address": 616,
+      "name": "Eingang 0x0268",
+      "type": "comslave",
+      "active": false
+    },
+    "617": {
+      "address": 617,
+      "name": "Eingang 0x0269",
+      "type": "comslave",
+      "active": false
+    },
+    "618": {
+      "address": 618,
+      "name": "Eingang 0x026A",
+      "type": "comslave",
+      "active": false
+    },
+    "619": {
+      "address": 619,
+      "name": "Eingang 0x026B",
+      "type": "comslave",
+      "active": false
+    },
+    "620": {
+      "address": 620,
+      "name": "Eingang 0x026C",
+      "type": "comslave",
+      "active": false
+    },
+    "621": {
+      "address": 621,
+      "name": "Eingang 0x026D",
+      "type": "comslave",
+      "active": false
+    },
+    "622": {
+      "address": 622,
+      "name": "Eingang 0x026E",
+      "type": "comslave",
+      "active": false
+    },
+    "623": {
+      "address": 623,
+      "name": "Eingang 0x026F",
+      "type": "comslave",
+      "active": false
+    },
+    "624": {
+      "address": 624,
+      "name": "Eingang 0x0270",
+      "type": "comslave",
+      "active": false
+    },
+    "625": {
+      "address": 625,
+      "name": "Eingang 0x0271",
+      "type": "comslave",
+      "active": false
+    },
+    "626": {
+      "address": 626,
+      "name": "Eingang 0x0272",
+      "type": "comslave",
+      "active": false
+    },
+    "627": {
+      "address": 627,
+      "name": "Eingang 0x0273",
+      "type": "comslave",
+      "active": false
+    },
+    "628": {
+      "address": 628,
+      "name": "Eingang 0x0274",
+      "type": "comslave",
+      "active": false
+    },
+    "629": {
+      "address": 629,
+      "name": "Eingang 0x0275",
+      "type": "comslave",
+      "active": false
+    },
+    "630": {
+      "address": 630,
+      "name": "Eingang 0x0276",
+      "type": "comslave",
+      "active": false
+    },
+    "631": {
+      "address": 631,
+      "name": "Eingang 0x0277",
+      "type": "comslave",
+      "active": false
+    },
+    "632": {
+      "address": 632,
+      "name": "Eingang 0x0278",
+      "type": "comslave",
+      "active": false
+    },
+    "633": {
+      "address": 633,
+      "name": "Eingang 0x0279",
+      "type": "comslave",
+      "active": false
+    },
+    "634": {
+      "address": 634,
+      "name": "Eingang 0x027A",
+      "type": "comslave",
+      "active": false
+    },
+    "635": {
+      "address": 635,
+      "name": "Eingang 0x027B",
+      "type": "comslave",
+      "active": false
+    },
+    "636": {
+      "address": 636,
+      "name": "Eingang 0x027C",
+      "type": "comslave",
+      "active": false
+    },
+    "637": {
+      "address": 637,
+      "name": "Eingang 0x027D",
+      "type": "comslave",
+      "active": false
+    },
+    "638": {
+      "address": 638,
+      "name": "Eingang 0x027E",
+      "type": "comslave",
+      "active": false
+    },
+    "639": {
+      "address": 639,
+      "name": "Eingang 0x027F",
+      "type": "comslave",
+      "active": false
+    },
+    "640": {
+      "address": 640,
+      "name": "Eingang 0x0280",
+      "type": "comslave",
+      "active": false
+    },
+    "641": {
+      "address": 641,
+      "name": "Eingang 0x0281",
+      "type": "comslave",
+      "active": false
+    },
+    "642": {
+      "address": 642,
+      "name": "Eingang 0x0282",
+      "type": "comslave",
+      "active": false
+    },
+    "643": {
+      "address": 643,
+      "name": "Eingang 0x0283",
+      "type": "comslave",
+      "active": false
+    },
+    "644": {
+      "address": 644,
+      "name": "Eingang 0x0284",
+      "type": "comslave",
+      "active": false
+    },
+    "645": {
+      "address": 645,
+      "name": "Eingang 0x0285",
+      "type": "comslave",
+      "active": false
+    },
+    "646": {
+      "address": 646,
+      "name": "Eingang 0x0286",
+      "type": "comslave",
+      "active": false
+    },
+    "647": {
+      "address": 647,
+      "name": "Eingang 0x0287",
+      "type": "comslave",
+      "active": false
+    },
+    "648": {
+      "address": 648,
+      "name": "Eingang 0x0288",
+      "type": "comslave",
+      "active": false
+    },
+    "649": {
+      "address": 649,
+      "name": "Eingang 0x0289",
+      "type": "comslave",
+      "active": false
+    },
+    "650": {
+      "address": 650,
+      "name": "Eingang 0x028A",
+      "type": "comslave",
+      "active": false
+    },
+    "651": {
+      "address": 651,
+      "name": "Eingang 0x028B",
+      "type": "comslave",
+      "active": false
+    },
+    "652": {
+      "address": 652,
+      "name": "Eingang 0x028C",
+      "type": "comslave",
+      "active": false
+    },
+    "653": {
+      "address": 653,
+      "name": "Eingang 0x028D",
+      "type": "comslave",
+      "active": false
+    },
+    "654": {
+      "address": 654,
+      "name": "Eingang 0x028E",
+      "type": "comslave",
+      "active": false
+    },
+    "655": {
+      "address": 655,
+      "name": "Eingang 0x028F",
+      "type": "comslave",
+      "active": false
+    },
+    "656": {
+      "address": 656,
+      "name": "Eingang 0x0290",
+      "type": "comslave",
+      "active": false
+    },
+    "657": {
+      "address": 657,
+      "name": "Eingang 0x0291",
+      "type": "comslave",
+      "active": false
+    },
+    "658": {
+      "address": 658,
+      "name": "Eingang 0x0292",
+      "type": "comslave",
+      "active": false
+    },
+    "659": {
+      "address": 659,
+      "name": "Eingang 0x0293",
+      "type": "comslave",
+      "active": false
+    },
+    "660": {
+      "address": 660,
+      "name": "Eingang 0x0294",
+      "type": "comslave",
+      "active": false
+    },
+    "661": {
+      "address": 661,
+      "name": "Eingang 0x0295",
+      "type": "comslave",
+      "active": false
+    },
+    "662": {
+      "address": 662,
+      "name": "Eingang 0x0296",
+      "type": "comslave",
+      "active": false
+    },
+    "663": {
+      "address": 663,
+      "name": "Eingang 0x0297",
+      "type": "comslave",
+      "active": false
+    },
+    "664": {
+      "address": 664,
+      "name": "Eingang 0x0298",
+      "type": "comslave",
+      "active": false
+    },
+    "665": {
+      "address": 665,
+      "name": "Eingang 0x0299",
+      "type": "comslave",
+      "active": false
+    },
+    "666": {
+      "address": 666,
+      "name": "Eingang 0x029A",
+      "type": "comslave",
+      "active": false
+    },
+    "667": {
+      "address": 667,
+      "name": "Eingang 0x029B",
+      "type": "comslave",
+      "active": false
+    },
+    "668": {
+      "address": 668,
+      "name": "Eingang 0x029C",
+      "type": "comslave",
+      "active": false
+    },
+    "669": {
+      "address": 669,
+      "name": "Eingang 0x029D",
+      "type": "comslave",
+      "active": false
+    },
+    "670": {
+      "address": 670,
+      "name": "Eingang 0x029E",
+      "type": "comslave",
+      "active": false
+    },
+    "671": {
+      "address": 671,
+      "name": "Eingang 0x029F",
+      "type": "comslave",
+      "active": false
+    },
+    "672": {
+      "address": 672,
+      "name": "Eingang 0x02A0",
+      "type": "comslave",
+      "active": false
+    },
+    "673": {
+      "address": 673,
+      "name": "Eingang 0x02A1",
+      "type": "comslave",
+      "active": false
+    },
+    "674": {
+      "address": 674,
+      "name": "Eingang 0x02A2",
+      "type": "comslave",
+      "active": false
+    },
+    "675": {
+      "address": 675,
+      "name": "Eingang 0x02A3",
+      "type": "comslave",
+      "active": false
+    },
+    "676": {
+      "address": 676,
+      "name": "Eingang 0x02A4",
+      "type": "comslave",
+      "active": false
+    },
+    "677": {
+      "address": 677,
+      "name": "Eingang 0x02A5",
+      "type": "comslave",
+      "active": false
+    },
+    "678": {
+      "address": 678,
+      "name": "Eingang 0x02A6",
+      "type": "comslave",
+      "active": false
+    },
+    "679": {
+      "address": 679,
+      "name": "Eingang 0x02A7",
+      "type": "comslave",
+      "active": false
+    },
+    "680": {
+      "address": 680,
+      "name": "Eingang 0x02A8",
+      "type": "comslave",
+      "active": false
+    },
+    "681": {
+      "address": 681,
+      "name": "Eingang 0x02A9",
+      "type": "comslave",
+      "active": false
+    },
+    "682": {
+      "address": 682,
+      "name": "Eingang 0x02AA",
+      "type": "comslave",
+      "active": false
+    },
+    "683": {
+      "address": 683,
+      "name": "Eingang 0x02AB",
+      "type": "comslave",
+      "active": false
+    },
+    "684": {
+      "address": 684,
+      "name": "Eingang 0x02AC",
+      "type": "comslave",
+      "active": false
+    },
+    "685": {
+      "address": 685,
+      "name": "Eingang 0x02AD",
+      "type": "comslave",
+      "active": false
+    },
+    "686": {
+      "address": 686,
+      "name": "Eingang 0x02AE",
+      "type": "comslave",
+      "active": false
+    },
+    "687": {
+      "address": 687,
+      "name": "Eingang 0x02AF",
+      "type": "comslave",
+      "active": false
+    },
+    "688": {
+      "address": 688,
+      "name": "Eingang 0x02B0",
+      "type": "comslave",
+      "active": false
+    },
+    "689": {
+      "address": 689,
+      "name": "Eingang 0x02B1",
+      "type": "comslave",
+      "active": false
+    },
+    "690": {
+      "address": 690,
+      "name": "Eingang 0x02B2",
+      "type": "comslave",
+      "active": false
+    },
+    "691": {
+      "address": 691,
+      "name": "Eingang 0x02B3",
+      "type": "comslave",
+      "active": false
+    },
+    "692": {
+      "address": 692,
+      "name": "Eingang 0x02B4",
+      "type": "comslave",
+      "active": false
+    },
+    "693": {
+      "address": 693,
+      "name": "Eingang 0x02B5",
+      "type": "comslave",
+      "active": false
+    },
+    "694": {
+      "address": 694,
+      "name": "Eingang 0x02B6",
+      "type": "comslave",
+      "active": false
+    },
+    "695": {
+      "address": 695,
+      "name": "Eingang 0x02B7",
+      "type": "comslave",
+      "active": false
+    },
+    "696": {
+      "address": 696,
+      "name": "Eingang 0x02B8",
+      "type": "comslave",
+      "active": false
+    },
+    "697": {
+      "address": 697,
+      "name": "Eingang 0x02B9",
+      "type": "comslave",
+      "active": false
+    },
+    "698": {
+      "address": 698,
+      "name": "Eingang 0x02BA",
+      "type": "comslave",
+      "active": false
+    },
+    "699": {
+      "address": 699,
+      "name": "Eingang 0x02BB",
+      "type": "comslave",
+      "active": false
+    },
+    "700": {
+      "address": 700,
+      "name": "Eingang 0x02BC",
+      "type": "comslave",
+      "active": false
+    },
+    "701": {
+      "address": 701,
+      "name": "Eingang 0x02BD",
+      "type": "comslave",
+      "active": false
+    },
+    "702": {
+      "address": 702,
+      "name": "Eingang 0x02BE",
+      "type": "comslave",
+      "active": false
+    },
+    "703": {
+      "address": 703,
+      "name": "Eingang 0x02BF",
+      "type": "comslave",
+      "active": false
+    },
+    "704": {
+      "address": 704,
+      "name": "Eingang 0x02C0",
+      "type": "comslave",
+      "active": false
+    },
+    "705": {
+      "address": 705,
+      "name": "Eingang 0x02C1",
+      "type": "comslave",
+      "active": false
+    },
+    "706": {
+      "address": 706,
+      "name": "Eingang 0x02C2",
+      "type": "comslave",
+      "active": false
+    },
+    "707": {
+      "address": 707,
+      "name": "Eingang 0x02C3",
+      "type": "comslave",
+      "active": false
+    },
+    "708": {
+      "address": 708,
+      "name": "Eingang 0x02C4",
+      "type": "comslave",
+      "active": false
+    },
+    "709": {
+      "address": 709,
+      "name": "Eingang 0x02C5",
+      "type": "comslave",
+      "active": false
+    },
+    "710": {
+      "address": 710,
+      "name": "Eingang 0x02C6",
+      "type": "comslave",
+      "active": false
+    },
+    "711": {
+      "address": 711,
+      "name": "Eingang 0x02C7",
+      "type": "comslave",
+      "active": false
+    },
+    "712": {
+      "address": 712,
+      "name": "Eingang 0x02C8",
+      "type": "comslave",
+      "active": false
+    },
+    "713": {
+      "address": 713,
+      "name": "Eingang 0x02C9",
+      "type": "comslave",
+      "active": false
+    },
+    "714": {
+      "address": 714,
+      "name": "Eingang 0x02CA",
+      "type": "comslave",
+      "active": false
+    },
+    "715": {
+      "address": 715,
+      "name": "Eingang 0x02CB",
+      "type": "comslave",
+      "active": false
+    },
+    "716": {
+      "address": 716,
+      "name": "Eingang 0x02CC",
+      "type": "comslave",
+      "active": false
+    },
+    "717": {
+      "address": 717,
+      "name": "Eingang 0x02CD",
+      "type": "comslave",
+      "active": false
+    },
+    "718": {
+      "address": 718,
+      "name": "Eingang 0x02CE",
+      "type": "comslave",
+      "active": false
+    },
+    "719": {
+      "address": 719,
+      "name": "Eingang 0x02CF",
+      "type": "comslave",
+      "active": false
+    },
+    "720": {
+      "address": 720,
+      "name": "Eingang 0x02D0",
+      "type": "comslave",
+      "active": false
+    },
+    "721": {
+      "address": 721,
+      "name": "Eingang 0x02D1",
+      "type": "comslave",
+      "active": false
+    },
+    "722": {
+      "address": 722,
+      "name": "Eingang 0x02D2",
+      "type": "comslave",
+      "active": false
+    },
+    "723": {
+      "address": 723,
+      "name": "Eingang 0x02D3",
+      "type": "comslave",
+      "active": false
+    },
+    "724": {
+      "address": 724,
+      "name": "Eingang 0x02D4",
+      "type": "comslave",
+      "active": false
+    },
+    "725": {
+      "address": 725,
+      "name": "Eingang 0x02D5",
+      "type": "comslave",
+      "active": false
+    },
+    "726": {
+      "address": 726,
+      "name": "Eingang 0x02D6",
+      "type": "comslave",
+      "active": false
+    },
+    "727": {
+      "address": 727,
+      "name": "Eingang 0x02D7",
+      "type": "comslave",
+      "active": false
+    },
+    "728": {
+      "address": 728,
+      "name": "Eingang 0x02D8",
+      "type": "comslave",
+      "active": false
+    },
+    "729": {
+      "address": 729,
+      "name": "Eingang 0x02D9",
+      "type": "comslave",
+      "active": false
+    },
+    "730": {
+      "address": 730,
+      "name": "Eingang 0x02DA",
+      "type": "comslave",
+      "active": false
+    },
+    "731": {
+      "address": 731,
+      "name": "Eingang 0x02DB",
+      "type": "comslave",
+      "active": false
+    },
+    "732": {
+      "address": 732,
+      "name": "Eingang 0x02DC",
+      "type": "comslave",
+      "active": false
+    },
+    "733": {
+      "address": 733,
+      "name": "Eingang 0x02DD",
+      "type": "comslave",
+      "active": false
+    },
+    "734": {
+      "address": 734,
+      "name": "Eingang 0x02DE",
+      "type": "comslave",
+      "active": false
+    },
+    "735": {
+      "address": 735,
+      "name": "Eingang 0x02DF",
+      "type": "comslave",
+      "active": false
+    },
+    "736": {
+      "address": 736,
+      "name": "Eingang 0x02E0",
+      "type": "comslave",
+      "active": false
+    },
+    "737": {
+      "address": 737,
+      "name": "Eingang 0x02E1",
+      "type": "comslave",
+      "active": false
+    },
+    "738": {
+      "address": 738,
+      "name": "Eingang 0x02E2",
+      "type": "comslave",
+      "active": false
+    },
+    "739": {
+      "address": 739,
+      "name": "Eingang 0x02E3",
+      "type": "comslave",
+      "active": false
+    },
+    "740": {
+      "address": 740,
+      "name": "Eingang 0x02E4",
+      "type": "comslave",
+      "active": false
+    },
+    "741": {
+      "address": 741,
+      "name": "Eingang 0x02E5",
+      "type": "comslave",
+      "active": false
+    },
+    "742": {
+      "address": 742,
+      "name": "Eingang 0x02E6",
+      "type": "comslave",
+      "active": false
+    },
+    "743": {
+      "address": 743,
+      "name": "Eingang 0x02E7",
+      "type": "comslave",
+      "active": false
+    },
+    "744": {
+      "address": 744,
+      "name": "Eingang 0x02E8",
+      "type": "comslave",
+      "active": false
+    },
+    "745": {
+      "address": 745,
+      "name": "Eingang 0x02E9",
+      "type": "comslave",
+      "active": false
+    },
+    "746": {
+      "address": 746,
+      "name": "Eingang 0x02EA",
+      "type": "comslave",
+      "active": false
+    },
+    "747": {
+      "address": 747,
+      "name": "Eingang 0x02EB",
+      "type": "comslave",
+      "active": false
+    },
+    "748": {
+      "address": 748,
+      "name": "Eingang 0x02EC",
+      "type": "comslave",
+      "active": false
+    },
+    "749": {
+      "address": 749,
+      "name": "Eingang 0x02ED",
+      "type": "comslave",
+      "active": false
+    },
+    "750": {
+      "address": 750,
+      "name": "Eingang 0x02EE",
+      "type": "comslave",
+      "active": false
+    },
+    "751": {
+      "address": 751,
+      "name": "Eingang 0x02EF",
+      "type": "comslave",
+      "active": false
+    },
+    "752": {
+      "address": 752,
+      "name": "Eingang 0x02F0",
+      "type": "comslave",
+      "active": false
+    },
+    "753": {
+      "address": 753,
+      "name": "Eingang 0x02F1",
+      "type": "comslave",
+      "active": false
+    },
+    "754": {
+      "address": 754,
+      "name": "Eingang 0x02F2",
+      "type": "comslave",
+      "active": false
+    },
+    "755": {
+      "address": 755,
+      "name": "Eingang 0x02F3",
+      "type": "comslave",
+      "active": false
+    },
+    "756": {
+      "address": 756,
+      "name": "Eingang 0x02F4",
+      "type": "comslave",
+      "active": false
+    },
+    "757": {
+      "address": 757,
+      "name": "Eingang 0x02F5",
+      "type": "comslave",
+      "active": false
+    },
+    "758": {
+      "address": 758,
+      "name": "Eingang 0x02F6",
+      "type": "comslave",
+      "active": false
+    },
+    "759": {
+      "address": 759,
+      "name": "Eingang 0x02F7",
+      "type": "comslave",
+      "active": false
+    },
+    "760": {
+      "address": 760,
+      "name": "Eingang 0x02F8",
+      "type": "comslave",
+      "active": false
+    },
+    "761": {
+      "address": 761,
+      "name": "Eingang 0x02F9",
+      "type": "comslave",
+      "active": false
+    },
+    "762": {
+      "address": 762,
+      "name": "Eingang 0x02FA",
+      "type": "comslave",
+      "active": false
+    },
+    "763": {
+      "address": 763,
+      "name": "Eingang 0x02FB",
+      "type": "comslave",
+      "active": false
+    },
+    "764": {
+      "address": 764,
+      "name": "Eingang 0x02FC",
+      "type": "comslave",
+      "active": false
+    },
+    "765": {
+      "address": 765,
+      "name": "Eingang 0x02FD",
+      "type": "comslave",
+      "active": false
+    },
+    "766": {
+      "address": 766,
+      "name": "Eingang 0x02FE",
+      "type": "comslave",
+      "active": false
+    },
+    "767": {
+      "address": 767,
+      "name": "Eingang 0x02FF",
+      "type": "comslave",
+      "active": false
+    },
+    "768": {
+      "address": 768,
+      "name": "Eingang 0x0300",
+      "type": "comslave",
+      "active": false
+    },
+    "769": {
+      "address": 769,
+      "name": "Eingang 0x0301",
+      "type": "comslave",
+      "active": false
+    },
+    "770": {
+      "address": 770,
+      "name": "Eingang 0x0302",
+      "type": "comslave",
+      "active": false
+    },
+    "771": {
+      "address": 771,
+      "name": "Eingang 0x0303",
+      "type": "comslave",
+      "active": false
+    },
+    "772": {
+      "address": 772,
+      "name": "Eingang 0x0304",
+      "type": "comslave",
+      "active": false
+    },
+    "773": {
+      "address": 773,
+      "name": "Eingang 0x0305",
+      "type": "comslave",
+      "active": false
+    },
+    "774": {
+      "address": 774,
+      "name": "Eingang 0x0306",
+      "type": "comslave",
+      "active": false
+    },
+    "775": {
+      "address": 775,
+      "name": "Eingang 0x0307",
+      "type": "comslave",
+      "active": false
+    },
+    "776": {
+      "address": 776,
+      "name": "Eingang 0x0308",
+      "type": "comslave",
+      "active": false
+    },
+    "777": {
+      "address": 777,
+      "name": "Eingang 0x0309",
+      "type": "comslave",
+      "active": false
+    },
+    "778": {
+      "address": 778,
+      "name": "Eingang 0x030A",
+      "type": "comslave",
+      "active": false
+    },
+    "779": {
+      "address": 779,
+      "name": "Eingang 0x030B",
+      "type": "comslave",
+      "active": false
+    },
+    "780": {
+      "address": 780,
+      "name": "Eingang 0x030C",
+      "type": "comslave",
+      "active": false
+    },
+    "781": {
+      "address": 781,
+      "name": "Eingang 0x030D",
+      "type": "comslave",
+      "active": false
+    },
+    "782": {
+      "address": 782,
+      "name": "Eingang 0x030E",
+      "type": "comslave",
+      "active": false
+    },
+    "783": {
+      "address": 783,
+      "name": "Eingang 0x030F",
+      "type": "comslave",
+      "active": false
+    },
+    "784": {
+      "address": 784,
+      "name": "Eingang 0x0310",
+      "type": "comslave",
+      "active": false
+    },
+    "785": {
+      "address": 785,
+      "name": "Eingang 0x0311",
+      "type": "comslave",
+      "active": false
+    },
+    "786": {
+      "address": 786,
+      "name": "Eingang 0x0312",
+      "type": "comslave",
+      "active": false
+    },
+    "787": {
+      "address": 787,
+      "name": "Eingang 0x0313",
+      "type": "comslave",
+      "active": false
+    },
+    "788": {
+      "address": 788,
+      "name": "Eingang 0x0314",
+      "type": "comslave",
+      "active": false
+    },
+    "789": {
+      "address": 789,
+      "name": "Eingang 0x0315",
+      "type": "comslave",
+      "active": false
+    },
+    "790": {
+      "address": 790,
+      "name": "Eingang 0x0316",
+      "type": "comslave",
+      "active": false
+    },
+    "791": {
+      "address": 791,
+      "name": "Eingang 0x0317",
+      "type": "comslave",
+      "active": false
+    },
+    "792": {
+      "address": 792,
+      "name": "Eingang 0x0318",
+      "type": "comslave",
+      "active": false
+    },
+    "793": {
+      "address": 793,
+      "name": "Eingang 0x0319",
+      "type": "comslave",
+      "active": false
+    },
+    "794": {
+      "address": 794,
+      "name": "Eingang 0x031A",
+      "type": "comslave",
+      "active": false
+    },
+    "795": {
+      "address": 795,
+      "name": "Eingang 0x031B",
+      "type": "comslave",
+      "active": false
+    },
+    "796": {
+      "address": 796,
+      "name": "Eingang 0x031C",
+      "type": "comslave",
+      "active": false
+    },
+    "797": {
+      "address": 797,
+      "name": "Eingang 0x031D",
+      "type": "comslave",
+      "active": false
+    },
+    "798": {
+      "address": 798,
+      "name": "Eingang 0x031E",
+      "type": "comslave",
+      "active": false
+    },
+    "799": {
+      "address": 799,
+      "name": "Eingang 0x031F",
+      "type": "comslave",
+      "active": false
+    },
+    "800": {
+      "address": 800,
+      "name": "Eingang 0x0320",
+      "type": "comslave",
+      "active": false
+    },
+    "801": {
+      "address": 801,
+      "name": "Eingang 0x0321",
+      "type": "comslave",
+      "active": false
+    },
+    "802": {
+      "address": 802,
+      "name": "Eingang 0x0322",
+      "type": "comslave",
+      "active": false
+    },
+    "803": {
+      "address": 803,
+      "name": "Eingang 0x0323",
+      "type": "comslave",
+      "active": false
+    },
+    "804": {
+      "address": 804,
+      "name": "Eingang 0x0324",
+      "type": "comslave",
+      "active": false
+    },
+    "805": {
+      "address": 805,
+      "name": "Eingang 0x0325",
+      "type": "comslave",
+      "active": false
+    },
+    "806": {
+      "address": 806,
+      "name": "Eingang 0x0326",
+      "type": "comslave",
+      "active": false
+    },
+    "807": {
+      "address": 807,
+      "name": "Eingang 0x0327",
+      "type": "comslave",
+      "active": false
+    },
+    "808": {
+      "address": 808,
+      "name": "Eingang 0x0328",
+      "type": "comslave",
+      "active": false
+    },
+    "809": {
+      "address": 809,
+      "name": "Eingang 0x0329",
+      "type": "comslave",
+      "active": false
+    },
+    "810": {
+      "address": 810,
+      "name": "Eingang 0x032A",
+      "type": "comslave",
+      "active": false
+    },
+    "811": {
+      "address": 811,
+      "name": "Eingang 0x032B",
+      "type": "comslave",
+      "active": false
+    },
+    "812": {
+      "address": 812,
+      "name": "Eingang 0x032C",
+      "type": "comslave",
+      "active": false
+    },
+    "813": {
+      "address": 813,
+      "name": "Eingang 0x032D",
+      "type": "comslave",
+      "active": false
+    },
+    "814": {
+      "address": 814,
+      "name": "Eingang 0x032E",
+      "type": "comslave",
+      "active": false
+    },
+    "815": {
+      "address": 815,
+      "name": "Eingang 0x032F",
+      "type": "comslave",
+      "active": false
+    },
+    "816": {
+      "address": 816,
+      "name": "Eingang 0x0330",
+      "type": "comslave",
+      "active": false
+    },
+    "817": {
+      "address": 817,
+      "name": "Eingang 0x0331",
+      "type": "comslave",
+      "active": false
+    },
+    "818": {
+      "address": 818,
+      "name": "Eingang 0x0332",
+      "type": "comslave",
+      "active": false
+    },
+    "819": {
+      "address": 819,
+      "name": "Eingang 0x0333",
+      "type": "comslave",
+      "active": false
+    },
+    "820": {
+      "address": 820,
+      "name": "Eingang 0x0334",
+      "type": "comslave",
+      "active": false
+    },
+    "821": {
+      "address": 821,
+      "name": "Eingang 0x0335",
+      "type": "comslave",
+      "active": false
+    },
+    "822": {
+      "address": 822,
+      "name": "Eingang 0x0336",
+      "type": "comslave",
+      "active": false
+    },
+    "823": {
+      "address": 823,
+      "name": "Eingang 0x0337",
+      "type": "comslave",
+      "active": false
+    },
+    "824": {
+      "address": 824,
+      "name": "Eingang 0x0338",
+      "type": "comslave",
+      "active": false
+    },
+    "825": {
+      "address": 825,
+      "name": "Eingang 0x0339",
+      "type": "comslave",
+      "active": false
+    },
+    "826": {
+      "address": 826,
+      "name": "Eingang 0x033A",
+      "type": "comslave",
+      "active": false
+    },
+    "827": {
+      "address": 827,
+      "name": "Eingang 0x033B",
+      "type": "comslave",
+      "active": false
+    },
+    "828": {
+      "address": 828,
+      "name": "Eingang 0x033C",
+      "type": "comslave",
+      "active": false
+    },
+    "829": {
+      "address": 829,
+      "name": "Eingang 0x033D",
+      "type": "comslave",
+      "active": false
+    },
+    "830": {
+      "address": 830,
+      "name": "Eingang 0x033E",
+      "type": "comslave",
+      "active": false
+    },
+    "831": {
+      "address": 831,
+      "name": "Eingang 0x033F",
+      "type": "comslave",
+      "active": false
+    },
+    "832": {
+      "address": 832,
+      "name": "Eingang 0x0340",
+      "type": "comslave",
+      "active": false
+    },
+    "833": {
+      "address": 833,
+      "name": "Eingang 0x0341",
+      "type": "comslave",
+      "active": false
+    },
+    "834": {
+      "address": 834,
+      "name": "Eingang 0x0342",
+      "type": "comslave",
+      "active": false
+    },
+    "835": {
+      "address": 835,
+      "name": "Eingang 0x0343",
+      "type": "comslave",
+      "active": false
+    },
+    "836": {
+      "address": 836,
+      "name": "Eingang 0x0344",
+      "type": "comslave",
+      "active": false
+    },
+    "837": {
+      "address": 837,
+      "name": "Eingang 0x0345",
+      "type": "comslave",
+      "active": false
+    },
+    "838": {
+      "address": 838,
+      "name": "Eingang 0x0346",
+      "type": "comslave",
+      "active": false
+    },
+    "839": {
+      "address": 839,
+      "name": "Eingang 0x0347",
+      "type": "comslave",
+      "active": false
+    },
+    "840": {
+      "address": 840,
+      "name": "Eingang 0x0348",
+      "type": "comslave",
+      "active": false
+    },
+    "841": {
+      "address": 841,
+      "name": "Eingang 0x0349",
+      "type": "comslave",
+      "active": false
+    },
+    "842": {
+      "address": 842,
+      "name": "Eingang 0x034A",
+      "type": "comslave",
+      "active": false
+    },
+    "843": {
+      "address": 843,
+      "name": "Eingang 0x034B",
+      "type": "comslave",
+      "active": false
+    },
+    "844": {
+      "address": 844,
+      "name": "Eingang 0x034C",
+      "type": "comslave",
+      "active": false
+    },
+    "845": {
+      "address": 845,
+      "name": "Eingang 0x034D",
+      "type": "comslave",
+      "active": false
+    },
+    "846": {
+      "address": 846,
+      "name": "Eingang 0x034E",
+      "type": "comslave",
+      "active": false
+    },
+    "847": {
+      "address": 847,
+      "name": "Eingang 0x034F",
+      "type": "comslave",
+      "active": false
+    },
+    "848": {
+      "address": 848,
+      "name": "Eingang 0x0350",
+      "type": "comslave",
+      "active": false
+    },
+    "849": {
+      "address": 849,
+      "name": "Eingang 0x0351",
+      "type": "comslave",
+      "active": false
+    },
+    "850": {
+      "address": 850,
+      "name": "Eingang 0x0352",
+      "type": "comslave",
+      "active": false
+    },
+    "851": {
+      "address": 851,
+      "name": "Eingang 0x0353",
+      "type": "comslave",
+      "active": false
+    },
+    "852": {
+      "address": 852,
+      "name": "Eingang 0x0354",
+      "type": "comslave",
+      "active": false
+    },
+    "853": {
+      "address": 853,
+      "name": "Eingang 0x0355",
+      "type": "comslave",
+      "active": false
+    },
+    "854": {
+      "address": 854,
+      "name": "Eingang 0x0356",
+      "type": "comslave",
+      "active": false
+    },
+    "855": {
+      "address": 855,
+      "name": "Eingang 0x0357",
+      "type": "comslave",
+      "active": false
+    },
+    "856": {
+      "address": 856,
+      "name": "Eingang 0x0358",
+      "type": "comslave",
+      "active": false
+    },
+    "857": {
+      "address": 857,
+      "name": "Eingang 0x0359",
+      "type": "comslave",
+      "active": false
+    },
+    "858": {
+      "address": 858,
+      "name": "Eingang 0x035A",
+      "type": "comslave",
+      "active": false
+    },
+    "859": {
+      "address": 859,
+      "name": "Eingang 0x035B",
+      "type": "comslave",
+      "active": false
+    },
+    "860": {
+      "address": 860,
+      "name": "Eingang 0x035C",
+      "type": "comslave",
+      "active": false
+    },
+    "861": {
+      "address": 861,
+      "name": "Eingang 0x035D",
+      "type": "comslave",
+      "active": false
+    },
+    "862": {
+      "address": 862,
+      "name": "Eingang 0x035E",
+      "type": "comslave",
+      "active": false
+    },
+    "863": {
+      "address": 863,
+      "name": "Eingang 0x035F",
+      "type": "comslave",
+      "active": false
+    },
+    "864": {
+      "address": 864,
+      "name": "Eingang 0x0360",
+      "type": "comslave",
+      "active": false
+    },
+    "865": {
+      "address": 865,
+      "name": "Eingang 0x0361",
+      "type": "comslave",
+      "active": false
+    },
+    "866": {
+      "address": 866,
+      "name": "Eingang 0x0362",
+      "type": "comslave",
+      "active": false
+    },
+    "867": {
+      "address": 867,
+      "name": "Eingang 0x0363",
+      "type": "comslave",
+      "active": false
+    },
+    "868": {
+      "address": 868,
+      "name": "Eingang 0x0364",
+      "type": "comslave",
+      "active": false
+    },
+    "869": {
+      "address": 869,
+      "name": "Eingang 0x0365",
+      "type": "comslave",
+      "active": false
+    },
+    "870": {
+      "address": 870,
+      "name": "Eingang 0x0366",
+      "type": "comslave",
+      "active": false
+    },
+    "871": {
+      "address": 871,
+      "name": "Eingang 0x0367",
+      "type": "comslave",
+      "active": false
+    },
+    "872": {
+      "address": 872,
+      "name": "Eingang 0x0368",
+      "type": "comslave",
+      "active": false
+    },
+    "873": {
+      "address": 873,
+      "name": "Eingang 0x0369",
+      "type": "comslave",
+      "active": false
+    },
+    "874": {
+      "address": 874,
+      "name": "Eingang 0x036A",
+      "type": "comslave",
+      "active": false
+    },
+    "875": {
+      "address": 875,
+      "name": "Eingang 0x036B",
+      "type": "comslave",
+      "active": false
+    },
+    "876": {
+      "address": 876,
+      "name": "Eingang 0x036C",
+      "type": "comslave",
+      "active": false
+    },
+    "877": {
+      "address": 877,
+      "name": "Eingang 0x036D",
+      "type": "comslave",
+      "active": false
+    },
+    "878": {
+      "address": 878,
+      "name": "Eingang 0x036E",
+      "type": "comslave",
+      "active": false
+    },
+    "879": {
+      "address": 879,
+      "name": "Eingang 0x036F",
+      "type": "comslave",
+      "active": false
+    },
+    "880": {
+      "address": 880,
+      "name": "Eingang 0x0370",
+      "type": "comslave",
+      "active": false
+    },
+    "881": {
+      "address": 881,
+      "name": "Eingang 0x0371",
+      "type": "comslave",
+      "active": false
+    },
+    "882": {
+      "address": 882,
+      "name": "Eingang 0x0372",
+      "type": "comslave",
+      "active": false
+    },
+    "883": {
+      "address": 883,
+      "name": "Eingang 0x0373",
+      "type": "comslave",
+      "active": false
+    },
+    "884": {
+      "address": 884,
+      "name": "Eingang 0x0374",
+      "type": "comslave",
+      "active": false
+    },
+    "885": {
+      "address": 885,
+      "name": "Eingang 0x0375",
+      "type": "comslave",
+      "active": false
+    },
+    "886": {
+      "address": 886,
+      "name": "Eingang 0x0376",
+      "type": "comslave",
+      "active": false
+    },
+    "887": {
+      "address": 887,
+      "name": "Eingang 0x0377",
+      "type": "comslave",
+      "active": false
+    },
+    "888": {
+      "address": 888,
+      "name": "Eingang 0x0378",
+      "type": "comslave",
+      "active": false
+    },
+    "889": {
+      "address": 889,
+      "name": "Eingang 0x0379",
+      "type": "comslave",
+      "active": false
+    },
+    "890": {
+      "address": 890,
+      "name": "Eingang 0x037A",
+      "type": "comslave",
+      "active": false
+    },
+    "891": {
+      "address": 891,
+      "name": "Eingang 0x037B",
+      "type": "comslave",
+      "active": false
+    },
+    "892": {
+      "address": 892,
+      "name": "Eingang 0x037C",
+      "type": "comslave",
+      "active": false
+    },
+    "893": {
+      "address": 893,
+      "name": "Eingang 0x037D",
+      "type": "comslave",
+      "active": false
+    },
+    "894": {
+      "address": 894,
+      "name": "Eingang 0x037E",
+      "type": "comslave",
+      "active": false
+    },
+    "895": {
+      "address": 895,
+      "name": "Eingang 0x037F",
+      "type": "comslave",
+      "active": false
+    },
+    "896": {
+      "address": 896,
+      "name": "Eingang 0x0380",
+      "type": "unknown",
+      "active": false
+    },
+    "897": {
+      "address": 897,
+      "name": "Eingang 0x0381",
+      "type": "unknown",
+      "active": false
+    },
+    "898": {
+      "address": 898,
+      "name": "Eingang 0x0382",
+      "type": "unknown",
+      "active": false
+    },
+    "899": {
+      "address": 899,
+      "name": "Eingang 0x0383",
+      "type": "unknown",
+      "active": false
+    },
+    "900": {
+      "address": 900,
+      "name": "Eingang 0x0384",
+      "type": "unknown",
+      "active": false
+    },
+    "901": {
+      "address": 901,
+      "name": "Eingang 0x0385",
+      "type": "unknown",
+      "active": false
+    },
+    "902": {
+      "address": 902,
+      "name": "Eingang 0x0386",
+      "type": "unknown",
+      "active": false
+    },
+    "903": {
+      "address": 903,
+      "name": "Eingang 0x0387",
+      "type": "unknown",
+      "active": false
+    },
+    "904": {
+      "address": 904,
+      "name": "Eingang 0x0388",
+      "type": "unknown",
+      "active": false
+    },
+    "905": {
+      "address": 905,
+      "name": "Eingang 0x0389",
+      "type": "unknown",
+      "active": false
+    },
+    "906": {
+      "address": 906,
+      "name": "Eingang 0x038A",
+      "type": "unknown",
+      "active": false
+    },
+    "907": {
+      "address": 907,
+      "name": "Eingang 0x038B",
+      "type": "unknown",
+      "active": false
+    },
+    "908": {
+      "address": 908,
+      "name": "Eingang 0x038C",
+      "type": "unknown",
+      "active": false
+    },
+    "909": {
+      "address": 909,
+      "name": "Eingang 0x038D",
+      "type": "unknown",
+      "active": false
+    },
+    "910": {
+      "address": 910,
+      "name": "Eingang 0x038E",
+      "type": "unknown",
+      "active": false
+    },
+    "911": {
+      "address": 911,
+      "name": "Eingang 0x038F",
+      "type": "unknown",
+      "active": false
+    },
+    "912": {
+      "address": 912,
+      "name": "Eingang 0x0390",
+      "type": "unknown",
+      "active": false
+    },
+    "913": {
+      "address": 913,
+      "name": "Eingang 0x0391",
+      "type": "unknown",
+      "active": false
+    },
+    "914": {
+      "address": 914,
+      "name": "Eingang 0x0392",
+      "type": "unknown",
+      "active": false
+    },
+    "915": {
+      "address": 915,
+      "name": "Eingang 0x0393",
+      "type": "unknown",
+      "active": false
+    },
+    "916": {
+      "address": 916,
+      "name": "Eingang 0x0394",
+      "type": "unknown",
+      "active": false
+    },
+    "917": {
+      "address": 917,
+      "name": "Eingang 0x0395",
+      "type": "unknown",
+      "active": false
+    },
+    "918": {
+      "address": 918,
+      "name": "Eingang 0x0396",
+      "type": "unknown",
+      "active": false
+    },
+    "919": {
+      "address": 919,
+      "name": "Eingang 0x0397",
+      "type": "unknown",
+      "active": false
+    },
+    "920": {
+      "address": 920,
+      "name": "Eingang 0x0398",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "921": {
+      "address": 921,
+      "name": "Eingang 0x0399",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "922": {
+      "address": 922,
+      "name": "Eingang 0x039A",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "923": {
+      "address": 923,
+      "name": "Eingang 0x039B",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "924": {
+      "address": 924,
+      "name": "Eingang 0x039C",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "925": {
+      "address": 925,
+      "name": "Eingang 0x039D",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "926": {
+      "address": 926,
+      "name": "Eingang 0x039E",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "927": {
+      "address": 927,
+      "name": "Eingang 0x039F",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "928": {
+      "address": 928,
+      "name": "Eingang 0x03A0",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "929": {
+      "address": 929,
+      "name": "Eingang 0x03A1",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "930": {
+      "address": 930,
+      "name": "Eingang 0x03A2",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "931": {
+      "address": 931,
+      "name": "Eingang 0x03A3",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "932": {
+      "address": 932,
+      "name": "Eingang 0x03A4",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "933": {
+      "address": 933,
+      "name": "Eingang 0x03A5",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "934": {
+      "address": 934,
+      "name": "Eingang 0x03A6",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "935": {
+      "address": 935,
+      "name": "Eingang 0x03A7",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "936": {
+      "address": 936,
+      "name": "Eingang 0x03A8",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "937": {
+      "address": 937,
+      "name": "Eingang 0x03A9",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "938": {
+      "address": 938,
+      "name": "Eingang 0x03AA",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "939": {
+      "address": 939,
+      "name": "Eingang 0x03AB",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "940": {
+      "address": 940,
+      "name": "Eingang 0x03AC",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "941": {
+      "address": 941,
+      "name": "Eingang 0x03AD",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "942": {
+      "address": 942,
+      "name": "Eingang 0x03AE",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "943": {
+      "address": 943,
+      "name": "Eingang 0x03AF",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "944": {
+      "address": 944,
+      "name": "Eingang 0x03B0",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "945": {
+      "address": 945,
+      "name": "Eingang 0x03B1",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "946": {
+      "address": 946,
+      "name": "Eingang 0x03B2",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "947": {
+      "address": 947,
+      "name": "Eingang 0x03B3",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "948": {
+      "address": 948,
+      "name": "Eingang 0x03B4",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "949": {
+      "address": 949,
+      "name": "Eingang 0x03B5",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "950": {
+      "address": 950,
+      "name": "Eingang 0x03B6",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "951": {
+      "address": 951,
+      "name": "Eingang 0x03B7",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "952": {
+      "address": 952,
+      "name": "Eingang 0x03B8",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "953": {
+      "address": 953,
+      "name": "Eingang 0x03B9",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "954": {
+      "address": 954,
+      "name": "Eingang 0x03BA",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "955": {
+      "address": 955,
+      "name": "Eingang 0x03BB",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "956": {
+      "address": 956,
+      "name": "Eingang 0x03BC",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "957": {
+      "address": 957,
+      "name": "Eingang 0x03BD",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "958": {
+      "address": 958,
+      "name": "Eingang 0x03BE",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "959": {
+      "address": 959,
+      "name": "Eingang 0x03BF",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "960": {
+      "address": 960,
+      "name": "Eingang 0x03C0",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "961": {
+      "address": 961,
+      "name": "Eingang 0x03C1",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "962": {
+      "address": 962,
+      "name": "Eingang 0x03C2",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "963": {
+      "address": 963,
+      "name": "Eingang 0x03C3",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "964": {
+      "address": 964,
+      "name": "Eingang 0x03C4",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "965": {
+      "address": 965,
+      "name": "Eingang 0x03C5",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "966": {
+      "address": 966,
+      "name": "Eingang 0x03C6",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "967": {
+      "address": 967,
+      "name": "Eingang 0x03C7",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "968": {
+      "address": 968,
+      "name": "Eingang 0x03C8",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "969": {
+      "address": 969,
+      "name": "Eingang 0x03C9",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "970": {
+      "address": 970,
+      "name": "Eingang 0x03CA",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "971": {
+      "address": 971,
+      "name": "Eingang 0x03CB",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "972": {
+      "address": 972,
+      "name": "Eingang 0x03CC",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "973": {
+      "address": 973,
+      "name": "Eingang 0x03CD",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "974": {
+      "address": 974,
+      "name": "Eingang 0x03CE",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "975": {
+      "address": 975,
+      "name": "Eingang 0x03CF",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "976": {
+      "address": 976,
+      "name": "Eingang 0x03D0",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "977": {
+      "address": 977,
+      "name": "Eingang 0x03D1",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "978": {
+      "address": 978,
+      "name": "Eingang 0x03D2",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "979": {
+      "address": 979,
+      "name": "Eingang 0x03D3",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "980": {
+      "address": 980,
+      "name": "Eingang 0x03D4",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "981": {
+      "address": 981,
+      "name": "Eingang 0x03D5",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "982": {
+      "address": 982,
+      "name": "Eingang 0x03D6",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "983": {
+      "address": 983,
+      "name": "Eingang 0x03D7",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "984": {
+      "address": 984,
+      "name": "Eingang 0x03D8",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "985": {
+      "address": 985,
+      "name": "Eingang 0x03D9",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "986": {
+      "address": 986,
+      "name": "Eingang 0x03DA",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "987": {
+      "address": 987,
+      "name": "Eingang 0x03DB",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "988": {
+      "address": 988,
+      "name": "Eingang 0x03DC",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "989": {
+      "address": 989,
+      "name": "Eingang 0x03DD",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "990": {
+      "address": 990,
+      "name": "Eingang 0x03DE",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "991": {
+      "address": 991,
+      "name": "Eingang 0x03DF",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "992": {
+      "address": 992,
+      "name": "Eingang 0x03E0",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "993": {
+      "address": 993,
+      "name": "Eingang 0x03E1",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "994": {
+      "address": 994,
+      "name": "Eingang 0x03E2",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "995": {
+      "address": 995,
+      "name": "Eingang 0x03E3",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "996": {
+      "address": 996,
+      "name": "Eingang 0x03E4",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "997": {
+      "address": 997,
+      "name": "Eingang 0x03E5",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "998": {
+      "address": 998,
+      "name": "Eingang 0x03E6",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "999": {
+      "address": 999,
+      "name": "Eingang 0x03E7",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1000": {
+      "address": 1000,
+      "name": "Eingang 0x03E8",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1001": {
+      "address": 1001,
+      "name": "Eingang 0x03E9",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1002": {
+      "address": 1002,
+      "name": "Eingang 0x03EA",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1003": {
+      "address": 1003,
+      "name": "Eingang 0x03EB",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1004": {
+      "address": 1004,
+      "name": "Eingang 0x03EC",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1005": {
+      "address": 1005,
+      "name": "Eingang 0x03ED",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1006": {
+      "address": 1006,
+      "name": "Eingang 0x03EE",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1007": {
+      "address": 1007,
+      "name": "Eingang 0x03EF",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1008": {
+      "address": 1008,
+      "name": "Eingang 0x03F0",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1009": {
+      "address": 1009,
+      "name": "Eingang 0x03F1",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1010": {
+      "address": 1010,
+      "name": "Eingang 0x03F2",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1011": {
+      "address": 1011,
+      "name": "Eingang 0x03F3",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1012": {
+      "address": 1012,
+      "name": "Eingang 0x03F4",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1013": {
+      "address": 1013,
+      "name": "Eingang 0x03F5",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1014": {
+      "address": 1014,
+      "name": "Eingang 0x03F6",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1015": {
+      "address": 1015,
+      "name": "Eingang 0x03F7",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1016": {
+      "address": 1016,
+      "name": "Eingang 0x03F8",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1017": {
+      "address": 1017,
+      "name": "Eingang 0x03F9",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1018": {
+      "address": 1018,
+      "name": "Eingang 0x03FA",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1019": {
+      "address": 1019,
+      "name": "Eingang 0x03FB",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1020": {
+      "address": 1020,
+      "name": "Eingang 0x03FC",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1021": {
+      "address": 1021,
+      "name": "Eingang 0x03FD",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1022": {
+      "address": 1022,
+      "name": "Eingang 0x03FE",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1023": {
+      "address": 1023,
+      "name": "Eingang 0x03FF",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1024": {
+      "address": 1024,
+      "name": "Eingang 0x0400",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1025": {
+      "address": 1025,
+      "name": "Eingang 0x0401",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1026": {
+      "address": 1026,
+      "name": "Eingang 0x0402",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1027": {
+      "address": 1027,
+      "name": "Eingang 0x0403",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1028": {
+      "address": 1028,
+      "name": "Eingang 0x0404",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1029": {
+      "address": 1029,
+      "name": "Eingang 0x0405",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1030": {
+      "address": 1030,
+      "name": "Eingang 0x0406",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1031": {
+      "address": 1031,
+      "name": "Eingang 0x0407",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1032": {
+      "address": 1032,
+      "name": "Eingang 0x0408",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1033": {
+      "address": 1033,
+      "name": "Eingang 0x0409",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1034": {
+      "address": 1034,
+      "name": "Eingang 0x040A",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1035": {
+      "address": 1035,
+      "name": "Eingang 0x040B",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1036": {
+      "address": 1036,
+      "name": "Eingang 0x040C",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1037": {
+      "address": 1037,
+      "name": "Eingang 0x040D",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1038": {
+      "address": 1038,
+      "name": "Eingang 0x040E",
+      "type": "comlock410_8_15",
+      "active": false
+    },
+    "1039": {
+      "address": 1039,
+      "name": "Eingang 0x040F",
+      "type": "comlock410_8_15",
+      "active": false
+    }
+  },
+  "outputs": {
+    "1280": {
+      "address": 1280,
+      "name": "ÜG TA1",
+      "active": true
+    },
+    "1281": {
+      "address": 1281,
+      "name": "ÜG TA2",
+      "active": true
+    },
+    "1282": {
+      "address": 1282,
+      "name": "ÜG TA3",
+      "active": true
+    },
+    "1283": {
+      "address": 1283,
+      "name": "ÜG TA4",
+      "active": true
+    },
+    "1284": {
+      "address": 1284,
+      "name": "ÜG TA5",
+      "active": true
+    },
+    "1285": {
+      "address": 1285,
+      "name": "ÜG TA6",
+      "active": true
+    },
+    "1286": {
+      "address": 1286,
+      "name": "ÜG TA7",
+      "active": true
+    },
+    "1287": {
+      "address": 1287,
+      "name": "ÜG TA8",
+      "active": true
+    },
+    "1288": {
+      "address": 1288,
+      "name": "Relais 1",
+      "active": false
+    },
+    "1289": {
+      "address": 1289,
+      "name": "Relais 2",
+      "active": false
+    },
+    "1290": {
+      "address": 1290,
+      "name": "Relais 3",
+      "active": false
+    },
+    "1291": {
+      "address": 1291,
+      "name": "OSG (Optischer Signalgeber)",
+      "active": false
+    },
+    "1292": {
+      "address": 1292,
+      "name": "ASG1 (Akustischer Signalgeber 1)",
+      "active": false
+    },
+    "1293": {
+      "address": 1293,
+      "name": "ASG2 (Akustischer Signalgeber 2)",
+      "active": false
+    },
+    "1294": {
+      "address": 1294,
+      "name": "Ausgang 0x050E",
+      "active": false
+    },
+    "1295": {
+      "address": 1295,
+      "name": "Ausgang 0x050F",
+      "active": false
+    },
+    "1296": {
+      "address": 1296,
+      "name": "Ausgang 0x0510",
+      "active": false
+    },
+    "1297": {
+      "address": 1297,
+      "name": "Ausgang 0x0511",
+      "active": false
+    },
+    "1298": {
+      "address": 1298,
+      "name": "Ausgang 0x0512",
+      "active": false
+    },
+    "1299": {
+      "address": 1299,
+      "name": "Ausgang 0x0513",
+      "active": false
+    },
+    "1300": {
+      "address": 1300,
+      "name": "Ausgang 0x0514",
+      "active": false
+    },
+    "1301": {
+      "address": 1301,
+      "name": "Ausgang 0x0515",
+      "active": false
+    },
+    "1302": {
+      "address": 1302,
+      "name": "Ausgang 0x0516",
+      "active": false
+    },
+    "1303": {
+      "address": 1303,
+      "name": "Ausgang 0x0517",
+      "active": false
+    },
+    "1304": {
+      "address": 1304,
+      "name": "Ausgang 0x0518",
+      "active": false
+    },
+    "1305": {
+      "address": 1305,
+      "name": "Ausgang 0x0519",
+      "active": false
+    },
+    "1306": {
+      "address": 1306,
+      "name": "Ausgang 0x051A",
+      "active": false
+    },
+    "1307": {
+      "address": 1307,
+      "name": "Ausgang 0x051B",
+      "active": false
+    },
+    "1308": {
+      "address": 1308,
+      "name": "Ausgang 0x051C",
+      "active": false
+    },
+    "1309": {
+      "address": 1309,
+      "name": "Ausgang 0x051D",
+      "active": false
+    },
+    "1310": {
+      "address": 1310,
+      "name": "Ausgang 0x051E",
+      "active": false
+    },
+    "1311": {
+      "address": 1311,
+      "name": "Ausgang 0x051F",
+      "active": false
+    },
+    "1312": {
+      "address": 1312,
+      "name": "Ausgang 0x0520",
+      "active": false
+    },
+    "1313": {
+      "address": 1313,
+      "name": "Ausgang 0x0521",
+      "active": false
+    },
+    "1314": {
+      "address": 1314,
+      "name": "Ausgang 0x0522",
+      "active": false
+    },
+    "1315": {
+      "address": 1315,
+      "name": "Ausgang 0x0523",
+      "active": false
+    },
+    "1316": {
+      "address": 1316,
+      "name": "Ausgang 0x0524",
+      "active": false
+    },
+    "1317": {
+      "address": 1317,
+      "name": "Ausgang 0x0525",
+      "active": false
+    },
+    "1318": {
+      "address": 1318,
+      "name": "Ausgang 0x0526",
+      "active": false
+    },
+    "1319": {
+      "address": 1319,
+      "name": "Ausgang 0x0527",
+      "active": false
+    },
+    "1320": {
+      "address": 1320,
+      "name": "Ausgang 0x0528",
+      "active": false
+    },
+    "1321": {
+      "address": 1321,
+      "name": "Ausgang 0x0529",
+      "active": false
+    },
+    "1322": {
+      "address": 1322,
+      "name": "Ausgang 0x052A",
+      "active": false
+    },
+    "1323": {
+      "address": 1323,
+      "name": "Ausgang 0x052B",
+      "active": false
+    },
+    "1324": {
+      "address": 1324,
+      "name": "Ausgang 0x052C",
+      "active": false
+    },
+    "1325": {
+      "address": 1325,
+      "name": "Ausgang 0x052D",
+      "active": false
+    },
+    "1326": {
+      "address": 1326,
+      "name": "Ausgang 0x052E",
+      "active": false
+    },
+    "1327": {
+      "address": 1327,
+      "name": "Ausgang 0x052F",
+      "active": false
+    },
+    "1392": {
+      "address": 1392,
+      "name": "Ausgang 0x0570",
+      "active": false
+    },
+    "1393": {
+      "address": 1393,
+      "name": "Ausgang 0x0571",
+      "active": false
+    },
+    "1394": {
+      "address": 1394,
+      "name": "Ausgang 0x0572",
+      "active": false
+    },
+    "1395": {
+      "address": 1395,
+      "name": "Ausgang 0x0573",
+      "active": false
+    },
+    "1396": {
+      "address": 1396,
+      "name": "Ausgang 0x0574",
+      "active": false
+    },
+    "1397": {
+      "address": 1397,
+      "name": "Ausgang 0x0575",
+      "active": false
+    },
+    "1398": {
+      "address": 1398,
+      "name": "Ausgang 0x0576",
+      "active": true
+    },
+    "1399": {
+      "address": 1399,
+      "name": "Ausgang 0x0577",
+      "active": false
+    },
+    "1400": {
+      "address": 1400,
+      "name": "Ausgang 0x0578",
+      "active": false
+    },
+    "1401": {
+      "address": 1401,
+      "name": "Ausgang 0x0579",
+      "active": false
+    },
+    "1402": {
+      "address": 1402,
+      "name": "Ausgang 0x057A",
+      "active": false
+    },
+    "1403": {
+      "address": 1403,
+      "name": "Ausgang 0x057B",
+      "active": false
+    },
+    "1404": {
+      "address": 1404,
+      "name": "Ausgang 0x057C",
+      "active": false
+    },
+    "1405": {
+      "address": 1405,
+      "name": "Ausgang 0x057D",
+      "active": false
+    },
+    "1406": {
+      "address": 1406,
+      "name": "Ausgang 0x057E",
+      "active": false
+    },
+    "1407": {
+      "address": 1407,
+      "name": "Ausgang 0x057F",
+      "active": false
+    },
+    "1408": {
+      "address": 1408,
+      "name": "Ausgang 0x0580",
+      "active": false
+    },
+    "1409": {
+      "address": 1409,
+      "name": "Ausgang 0x0581",
+      "active": false
+    },
+    "1410": {
+      "address": 1410,
+      "name": "Ausgang 0x0582",
+      "active": false
+    },
+    "1411": {
+      "address": 1411,
+      "name": "Ausgang 0x0583",
+      "active": false
+    },
+    "1412": {
+      "address": 1412,
+      "name": "Ausgang 0x0584",
+      "active": false
+    },
+    "1413": {
+      "address": 1413,
+      "name": "Ausgang 0x0585",
+      "active": false
+    },
+    "1414": {
+      "address": 1414,
+      "name": "Ausgang 0x0586",
+      "active": false
+    },
+    "1415": {
+      "address": 1415,
+      "name": "Ausgang 0x0587",
+      "active": false
+    },
+    "1416": {
+      "address": 1416,
+      "name": "Ausgang 0x0588",
+      "active": false
+    },
+    "1417": {
+      "address": 1417,
+      "name": "Ausgang 0x0589",
+      "active": false
+    },
+    "1418": {
+      "address": 1418,
+      "name": "Ausgang 0x058A",
+      "active": false
+    },
+    "1419": {
+      "address": 1419,
+      "name": "Ausgang 0x058B",
+      "active": false
+    },
+    "1420": {
+      "address": 1420,
+      "name": "Ausgang 0x058C",
+      "active": false
+    },
+    "1421": {
+      "address": 1421,
+      "name": "Ausgang 0x058D",
+      "active": false
+    },
+    "1422": {
+      "address": 1422,
+      "name": "Ausgang 0x058E",
+      "active": false
+    },
+    "1423": {
+      "address": 1423,
+      "name": "Ausgang 0x058F",
+      "active": false
+    },
+    "1424": {
+      "address": 1424,
+      "name": "Ausgang 0x0590",
+      "active": false
+    },
+    "1425": {
+      "address": 1425,
+      "name": "Ausgang 0x0591",
+      "active": false
+    },
+    "1426": {
+      "address": 1426,
+      "name": "Ausgang 0x0592",
+      "active": false
+    },
+    "1427": {
+      "address": 1427,
+      "name": "Ausgang 0x0593",
+      "active": false
+    },
+    "1428": {
+      "address": 1428,
+      "name": "Ausgang 0x0594",
+      "active": false
+    },
+    "1429": {
+      "address": 1429,
+      "name": "Ausgang 0x0595",
+      "active": false
+    },
+    "1430": {
+      "address": 1430,
+      "name": "Ausgang 0x0596",
+      "active": false
+    },
+    "1431": {
+      "address": 1431,
+      "name": "Ausgang 0x0597",
+      "active": false
+    },
+    "1432": {
+      "address": 1432,
+      "name": "Ausgang 0x0598",
+      "active": false
+    },
+    "1433": {
+      "address": 1433,
+      "name": "Ausgang 0x0599",
+      "active": false
+    },
+    "1434": {
+      "address": 1434,
+      "name": "Ausgang 0x059A",
+      "active": false
+    },
+    "1435": {
+      "address": 1435,
+      "name": "Ausgang 0x059B",
+      "active": false
+    },
+    "1436": {
+      "address": 1436,
+      "name": "Ausgang 0x059C",
+      "active": false
+    },
+    "1437": {
+      "address": 1437,
+      "name": "Ausgang 0x059D",
+      "active": false
+    },
+    "1438": {
+      "address": 1438,
+      "name": "Ausgang 0x059E",
+      "active": false
+    },
+    "1439": {
+      "address": 1439,
+      "name": "Ausgang 0x059F",
+      "active": false
+    },
+    "1440": {
+      "address": 1440,
+      "name": "Ausgang 0x05A0",
+      "active": false
+    },
+    "1441": {
+      "address": 1441,
+      "name": "Ausgang 0x05A1",
+      "active": false
+    },
+    "1442": {
+      "address": 1442,
+      "name": "Ausgang 0x05A2",
+      "active": false
+    },
+    "1443": {
+      "address": 1443,
+      "name": "Ausgang 0x05A3",
+      "active": false
+    },
+    "1444": {
+      "address": 1444,
+      "name": "Ausgang 0x05A4",
+      "active": false
+    },
+    "1445": {
+      "address": 1445,
+      "name": "Ausgang 0x05A5",
+      "active": false
+    },
+    "1446": {
+      "address": 1446,
+      "name": "Ausgang 0x05A6",
+      "active": false
+    },
+    "1447": {
+      "address": 1447,
+      "name": "Ausgang 0x05A7",
+      "active": false
+    },
+    "1448": {
+      "address": 1448,
+      "name": "Ausgang 0x05A8",
+      "active": false
+    },
+    "1449": {
+      "address": 1449,
+      "name": "Ausgang 0x05A9",
+      "active": false
+    },
+    "1450": {
+      "address": 1450,
+      "name": "Ausgang 0x05AA",
+      "active": false
+    },
+    "1451": {
+      "address": 1451,
+      "name": "Ausgang 0x05AB",
+      "active": false
+    },
+    "1452": {
+      "address": 1452,
+      "name": "Ausgang 0x05AC",
+      "active": false
+    },
+    "1453": {
+      "address": 1453,
+      "name": "Ausgang 0x05AD",
+      "active": false
+    },
+    "1454": {
+      "address": 1454,
+      "name": "Ausgang 0x05AE",
+      "active": false
+    },
+    "1455": {
+      "address": 1455,
+      "name": "Ausgang 0x05AF",
+      "active": false
+    },
+    "1456": {
+      "address": 1456,
+      "name": "Ausgang 0x05B0",
+      "active": false
+    },
+    "1457": {
+      "address": 1457,
+      "name": "Ausgang 0x05B1",
+      "active": false
+    },
+    "1458": {
+      "address": 1458,
+      "name": "Ausgang 0x05B2",
+      "active": false
+    },
+    "1459": {
+      "address": 1459,
+      "name": "Ausgang 0x05B3",
+      "active": false
+    },
+    "1460": {
+      "address": 1460,
+      "name": "Ausgang 0x05B4",
+      "active": false
+    },
+    "1461": {
+      "address": 1461,
+      "name": "Ausgang 0x05B5",
+      "active": false
+    },
+    "1462": {
+      "address": 1462,
+      "name": "Ausgang 0x05B6",
+      "active": false
+    },
+    "1463": {
+      "address": 1463,
+      "name": "Ausgang 0x05B7",
+      "active": false
+    },
+    "1464": {
+      "address": 1464,
+      "name": "Ausgang 0x05B8",
+      "active": false
+    },
+    "1465": {
+      "address": 1465,
+      "name": "Ausgang 0x05B9",
+      "active": false
+    },
+    "1466": {
+      "address": 1466,
+      "name": "Ausgang 0x05BA",
+      "active": false
+    },
+    "1467": {
+      "address": 1467,
+      "name": "Ausgang 0x05BB",
+      "active": false
+    },
+    "1468": {
+      "address": 1468,
+      "name": "Ausgang 0x05BC",
+      "active": false
+    },
+    "1469": {
+      "address": 1469,
+      "name": "Ausgang 0x05BD",
+      "active": false
+    },
+    "1470": {
+      "address": 1470,
+      "name": "Ausgang 0x05BE",
+      "active": false
+    },
+    "1471": {
+      "address": 1471,
+      "name": "Ausgang 0x05BF",
+      "active": false
+    },
+    "1472": {
+      "address": 1472,
+      "name": "Ausgang 0x05C0",
+      "active": false
+    },
+    "1473": {
+      "address": 1473,
+      "name": "Ausgang 0x05C1",
+      "active": false
+    },
+    "1474": {
+      "address": 1474,
+      "name": "Ausgang 0x05C2",
+      "active": false
+    },
+    "1475": {
+      "address": 1475,
+      "name": "Ausgang 0x05C3",
+      "active": false
+    },
+    "1476": {
+      "address": 1476,
+      "name": "Ausgang 0x05C4",
+      "active": false
+    },
+    "1477": {
+      "address": 1477,
+      "name": "Ausgang 0x05C5",
+      "active": false
+    },
+    "1478": {
+      "address": 1478,
+      "name": "Ausgang 0x05C6",
+      "active": false
+    },
+    "1479": {
+      "address": 1479,
+      "name": "Ausgang 0x05C7",
+      "active": false
+    },
+    "1480": {
+      "address": 1480,
+      "name": "Ausgang 0x05C8",
+      "active": false
+    },
+    "1481": {
+      "address": 1481,
+      "name": "Ausgang 0x05C9",
+      "active": false
+    },
+    "1482": {
+      "address": 1482,
+      "name": "Ausgang 0x05CA",
+      "active": false
+    },
+    "1483": {
+      "address": 1483,
+      "name": "Ausgang 0x05CB",
+      "active": false
+    },
+    "1484": {
+      "address": 1484,
+      "name": "Ausgang 0x05CC",
+      "active": false
+    },
+    "1485": {
+      "address": 1485,
+      "name": "Ausgang 0x05CD",
+      "active": false
+    },
+    "1486": {
+      "address": 1486,
+      "name": "Ausgang 0x05CE",
+      "active": false
+    },
+    "1487": {
+      "address": 1487,
+      "name": "Ausgang 0x05CF",
+      "active": false
+    },
+    "1488": {
+      "address": 1488,
+      "name": "Ausgang 0x05D0",
+      "active": false
+    },
+    "1489": {
+      "address": 1489,
+      "name": "Ausgang 0x05D1",
+      "active": false
+    },
+    "1490": {
+      "address": 1490,
+      "name": "Ausgang 0x05D2",
+      "active": false
+    },
+    "1491": {
+      "address": 1491,
+      "name": "Ausgang 0x05D3",
+      "active": false
+    },
+    "1492": {
+      "address": 1492,
+      "name": "Ausgang 0x05D4",
+      "active": false
+    },
+    "1493": {
+      "address": 1493,
+      "name": "Ausgang 0x05D5",
+      "active": false
+    },
+    "1494": {
+      "address": 1494,
+      "name": "Ausgang 0x05D6",
+      "active": false
+    },
+    "1495": {
+      "address": 1495,
+      "name": "Ausgang 0x05D7",
+      "active": false
+    },
+    "1496": {
+      "address": 1496,
+      "name": "Ausgang 0x05D8",
+      "active": false
+    },
+    "1497": {
+      "address": 1497,
+      "name": "Ausgang 0x05D9",
+      "active": false
+    },
+    "1498": {
+      "address": 1498,
+      "name": "Ausgang 0x05DA",
+      "active": false
+    },
+    "1499": {
+      "address": 1499,
+      "name": "Ausgang 0x05DB",
+      "active": false
+    },
+    "1500": {
+      "address": 1500,
+      "name": "Ausgang 0x05DC",
+      "active": false
+    },
+    "1501": {
+      "address": 1501,
+      "name": "Ausgang 0x05DD",
+      "active": false
+    },
+    "1502": {
+      "address": 1502,
+      "name": "Ausgang 0x05DE",
+      "active": false
+    },
+    "1503": {
+      "address": 1503,
+      "name": "Ausgang 0x05DF",
+      "active": false
+    },
+    "1504": {
+      "address": 1504,
+      "name": "Ausgang 0x05E0",
+      "active": false
+    },
+    "1505": {
+      "address": 1505,
+      "name": "Ausgang 0x05E1",
+      "active": false
+    },
+    "1506": {
+      "address": 1506,
+      "name": "Ausgang 0x05E2",
+      "active": false
+    },
+    "1507": {
+      "address": 1507,
+      "name": "Ausgang 0x05E3",
+      "active": false
+    },
+    "1508": {
+      "address": 1508,
+      "name": "Ausgang 0x05E4",
+      "active": false
+    },
+    "1509": {
+      "address": 1509,
+      "name": "Ausgang 0x05E5",
+      "active": false
+    },
+    "1510": {
+      "address": 1510,
+      "name": "Ausgang 0x05E6",
+      "active": false
+    },
+    "1511": {
+      "address": 1511,
+      "name": "Ausgang 0x05E7",
+      "active": false
+    },
+    "1512": {
+      "address": 1512,
+      "name": "Ausgang 0x05E8",
+      "active": false
+    },
+    "1513": {
+      "address": 1513,
+      "name": "Ausgang 0x05E9",
+      "active": false
+    },
+    "1514": {
+      "address": 1514,
+      "name": "Ausgang 0x05EA",
+      "active": false
+    },
+    "1515": {
+      "address": 1515,
+      "name": "Ausgang 0x05EB",
+      "active": false
+    },
+    "1516": {
+      "address": 1516,
+      "name": "Ausgang 0x05EC",
+      "active": false
+    },
+    "1517": {
+      "address": 1517,
+      "name": "Ausgang 0x05ED",
+      "active": false
+    },
+    "1518": {
+      "address": 1518,
+      "name": "Ausgang 0x05EE",
+      "active": false
+    },
+    "1519": {
+      "address": 1519,
+      "name": "Ausgang 0x05EF",
+      "active": false
+    },
+    "1520": {
+      "address": 1520,
+      "name": "Ausgang 0x05F0",
+      "active": false
+    },
+    "1521": {
+      "address": 1521,
+      "name": "Ausgang 0x05F1",
+      "active": false
+    },
+    "1522": {
+      "address": 1522,
+      "name": "Ausgang 0x05F2",
+      "active": false
+    },
+    "1523": {
+      "address": 1523,
+      "name": "Ausgang 0x05F3",
+      "active": false
+    },
+    "1524": {
+      "address": 1524,
+      "name": "Ausgang 0x05F4",
+      "active": false
+    },
+    "1525": {
+      "address": 1525,
+      "name": "Ausgang 0x05F5",
+      "active": false
+    },
+    "1526": {
+      "address": 1526,
+      "name": "Ausgang 0x05F6",
+      "active": false
+    },
+    "1527": {
+      "address": 1527,
+      "name": "Ausgang 0x05F7",
+      "active": false
+    },
+    "1528": {
+      "address": 1528,
+      "name": "Ausgang 0x05F8",
+      "active": true
+    },
+    "1529": {
+      "address": 1529,
+      "name": "Ausgang 0x05F9",
+      "active": false
+    },
+    "1530": {
+      "address": 1530,
+      "name": "Ausgang 0x05FA",
+      "active": false
+    },
+    "1531": {
+      "address": 1531,
+      "name": "Ausgang 0x05FB",
+      "active": false
+    },
+    "1532": {
+      "address": 1532,
+      "name": "Ausgang 0x05FC",
+      "active": false
+    },
+    "1533": {
+      "address": 1533,
+      "name": "Ausgang 0x05FD",
+      "active": false
+    },
+    "1534": {
+      "address": 1534,
+      "name": "Ausgang 0x05FE",
+      "active": true
+    },
+    "1535": {
+      "address": 1535,
+      "name": "Ausgang 0x05FF",
+      "active": false
+    },
+    "1536": {
+      "address": 1536,
+      "name": "Ausgang 0x0600",
+      "active": false
+    },
+    "1537": {
+      "address": 1537,
+      "name": "Ausgang 0x0601",
+      "active": false
+    },
+    "1538": {
+      "address": 1538,
+      "name": "Ausgang 0x0602",
+      "active": false
+    },
+    "1539": {
+      "address": 1539,
+      "name": "Ausgang 0x0603",
+      "active": false
+    },
+    "1540": {
+      "address": 1540,
+      "name": "Ausgang 0x0604",
+      "active": false
+    },
+    "1541": {
+      "address": 1541,
+      "name": "Ausgang 0x0605",
+      "active": false
+    },
+    "1542": {
+      "address": 1542,
+      "name": "Ausgang 0x0606",
+      "active": false
+    },
+    "1543": {
+      "address": 1543,
+      "name": "Ausgang 0x0607",
+      "active": false
+    },
+    "1544": {
+      "address": 1544,
+      "name": "Ausgang 0x0608",
+      "active": false
+    },
+    "1545": {
+      "address": 1545,
+      "name": "Ausgang 0x0609",
+      "active": false
+    },
+    "1546": {
+      "address": 1546,
+      "name": "Ausgang 0x060A",
+      "active": false
+    },
+    "1547": {
+      "address": 1547,
+      "name": "Ausgang 0x060B",
+      "active": false
+    },
+    "1548": {
+      "address": 1548,
+      "name": "Ausgang 0x060C",
+      "active": false
+    },
+    "1549": {
+      "address": 1549,
+      "name": "Ausgang 0x060D",
+      "active": false
+    },
+    "1550": {
+      "address": 1550,
+      "name": "Ausgang 0x060E",
+      "active": false
+    },
+    "1551": {
+      "address": 1551,
+      "name": "Ausgang 0x060F",
+      "active": false
+    },
+    "1552": {
+      "address": 1552,
+      "name": "Ausgang 0x0610",
+      "active": false
+    },
+    "1553": {
+      "address": 1553,
+      "name": "Ausgang 0x0611",
+      "active": false
+    },
+    "1554": {
+      "address": 1554,
+      "name": "Ausgang 0x0612",
+      "active": false
+    },
+    "1555": {
+      "address": 1555,
+      "name": "Ausgang 0x0613",
+      "active": false
+    },
+    "1556": {
+      "address": 1556,
+      "name": "Ausgang 0x0614",
+      "active": false
+    },
+    "1557": {
+      "address": 1557,
+      "name": "Ausgang 0x0615",
+      "active": false
+    },
+    "1558": {
+      "address": 1558,
+      "name": "Ausgang 0x0616",
+      "active": false
+    },
+    "1559": {
+      "address": 1559,
+      "name": "Ausgang 0x0617",
+      "active": false
+    },
+    "1560": {
+      "address": 1560,
+      "name": "Ausgang 0x0618",
+      "active": false
+    },
+    "1561": {
+      "address": 1561,
+      "name": "Ausgang 0x0619",
+      "active": false
+    },
+    "1562": {
+      "address": 1562,
+      "name": "Ausgang 0x061A",
+      "active": false
+    },
+    "1563": {
+      "address": 1563,
+      "name": "Ausgang 0x061B",
+      "active": false
+    },
+    "1564": {
+      "address": 1564,
+      "name": "Ausgang 0x061C",
+      "active": false
+    },
+    "1565": {
+      "address": 1565,
+      "name": "Ausgang 0x061D",
+      "active": false
+    },
+    "1566": {
+      "address": 1566,
+      "name": "Ausgang 0x061E",
+      "active": false
+    },
+    "1567": {
+      "address": 1567,
+      "name": "Ausgang 0x061F",
+      "active": false
+    },
+    "1568": {
+      "address": 1568,
+      "name": "Ausgang 0x0620",
+      "active": false
+    },
+    "1569": {
+      "address": 1569,
+      "name": "Ausgang 0x0621",
+      "active": false
+    },
+    "1570": {
+      "address": 1570,
+      "name": "Ausgang 0x0622",
+      "active": false
+    },
+    "1571": {
+      "address": 1571,
+      "name": "Ausgang 0x0623",
+      "active": false
+    },
+    "1572": {
+      "address": 1572,
+      "name": "Ausgang 0x0624",
+      "active": false
+    },
+    "1573": {
+      "address": 1573,
+      "name": "Ausgang 0x0625",
+      "active": false
+    },
+    "1574": {
+      "address": 1574,
+      "name": "Ausgang 0x0626",
+      "active": false
+    },
+    "1575": {
+      "address": 1575,
+      "name": "Ausgang 0x0627",
+      "active": false
+    },
+    "1576": {
+      "address": 1576,
+      "name": "Ausgang 0x0628",
+      "active": false
+    },
+    "1577": {
+      "address": 1577,
+      "name": "Ausgang 0x0629",
+      "active": false
+    },
+    "1578": {
+      "address": 1578,
+      "name": "Ausgang 0x062A",
+      "active": false
+    },
+    "1579": {
+      "address": 1579,
+      "name": "Ausgang 0x062B",
+      "active": false
+    },
+    "1580": {
+      "address": 1580,
+      "name": "Ausgang 0x062C",
+      "active": false
+    },
+    "1581": {
+      "address": 1581,
+      "name": "Ausgang 0x062D",
+      "active": false
+    },
+    "1582": {
+      "address": 1582,
+      "name": "Ausgang 0x062E",
+      "active": false
+    },
+    "1583": {
+      "address": 1583,
+      "name": "Ausgang 0x062F",
+      "active": false
+    },
+    "1584": {
+      "address": 1584,
+      "name": "Ausgang 0x0630",
+      "active": false
+    },
+    "1585": {
+      "address": 1585,
+      "name": "Ausgang 0x0631",
+      "active": false
+    },
+    "1586": {
+      "address": 1586,
+      "name": "Ausgang 0x0632",
+      "active": false
+    },
+    "1587": {
+      "address": 1587,
+      "name": "Ausgang 0x0633",
+      "active": false
+    },
+    "1588": {
+      "address": 1588,
+      "name": "Ausgang 0x0634",
+      "active": false
+    },
+    "1589": {
+      "address": 1589,
+      "name": "Ausgang 0x0635",
+      "active": false
+    },
+    "1590": {
+      "address": 1590,
+      "name": "Ausgang 0x0636",
+      "active": false
+    },
+    "1591": {
+      "address": 1591,
+      "name": "Ausgang 0x0637",
+      "active": false
+    },
+    "1592": {
+      "address": 1592,
+      "name": "Ausgang 0x0638",
+      "active": false
+    },
+    "1593": {
+      "address": 1593,
+      "name": "Ausgang 0x0639",
+      "active": false
+    },
+    "1594": {
+      "address": 1594,
+      "name": "Ausgang 0x063A",
+      "active": false
+    },
+    "1595": {
+      "address": 1595,
+      "name": "Ausgang 0x063B",
+      "active": false
+    },
+    "1596": {
+      "address": 1596,
+      "name": "Ausgang 0x063C",
+      "active": false
+    },
+    "1597": {
+      "address": 1597,
+      "name": "Ausgang 0x063D",
+      "active": false
+    },
+    "1598": {
+      "address": 1598,
+      "name": "Ausgang 0x063E",
+      "active": false
+    },
+    "1599": {
+      "address": 1599,
+      "name": "Ausgang 0x063F",
+      "active": false
+    },
+    "1600": {
+      "address": 1600,
+      "name": "Ausgang 0x0640",
+      "active": false
+    },
+    "1601": {
+      "address": 1601,
+      "name": "Ausgang 0x0641",
+      "active": false
+    },
+    "1602": {
+      "address": 1602,
+      "name": "Ausgang 0x0642",
+      "active": false
+    },
+    "1603": {
+      "address": 1603,
+      "name": "Ausgang 0x0643",
+      "active": false
+    },
+    "1604": {
+      "address": 1604,
+      "name": "Ausgang 0x0644",
+      "active": false
+    },
+    "1605": {
+      "address": 1605,
+      "name": "Ausgang 0x0645",
+      "active": false
+    },
+    "1606": {
+      "address": 1606,
+      "name": "Ausgang 0x0646",
+      "active": false
+    },
+    "1607": {
+      "address": 1607,
+      "name": "Ausgang 0x0647",
+      "active": false
+    },
+    "1608": {
+      "address": 1608,
+      "name": "Ausgang 0x0648",
+      "active": false
+    },
+    "1609": {
+      "address": 1609,
+      "name": "Ausgang 0x0649",
+      "active": false
+    },
+    "1610": {
+      "address": 1610,
+      "name": "Ausgang 0x064A",
+      "active": false
+    },
+    "1611": {
+      "address": 1611,
+      "name": "Ausgang 0x064B",
+      "active": false
+    },
+    "1612": {
+      "address": 1612,
+      "name": "Ausgang 0x064C",
+      "active": false
+    },
+    "1613": {
+      "address": 1613,
+      "name": "Ausgang 0x064D",
+      "active": false
+    },
+    "1614": {
+      "address": 1614,
+      "name": "Ausgang 0x064E",
+      "active": false
+    },
+    "1615": {
+      "address": 1615,
+      "name": "Ausgang 0x064F",
+      "active": false
+    },
+    "1616": {
+      "address": 1616,
+      "name": "Ausgang 0x0650",
+      "active": false
+    },
+    "1617": {
+      "address": 1617,
+      "name": "Ausgang 0x0651",
+      "active": false
+    },
+    "1618": {
+      "address": 1618,
+      "name": "Ausgang 0x0652",
+      "active": false
+    },
+    "1619": {
+      "address": 1619,
+      "name": "Ausgang 0x0653",
+      "active": false
+    },
+    "1620": {
+      "address": 1620,
+      "name": "Ausgang 0x0654",
+      "active": false
+    },
+    "1621": {
+      "address": 1621,
+      "name": "Ausgang 0x0655",
+      "active": false
+    },
+    "1622": {
+      "address": 1622,
+      "name": "Ausgang 0x0656",
+      "active": false
+    },
+    "1623": {
+      "address": 1623,
+      "name": "Ausgang 0x0657",
+      "active": false
+    },
+    "1624": {
+      "address": 1624,
+      "name": "Ausgang 0x0658",
+      "active": false
+    },
+    "1625": {
+      "address": 1625,
+      "name": "Ausgang 0x0659",
+      "active": false
+    },
+    "1626": {
+      "address": 1626,
+      "name": "Ausgang 0x065A",
+      "active": false
+    },
+    "1627": {
+      "address": 1627,
+      "name": "Ausgang 0x065B",
+      "active": false
+    },
+    "1628": {
+      "address": 1628,
+      "name": "Ausgang 0x065C",
+      "active": false
+    },
+    "1629": {
+      "address": 1629,
+      "name": "Ausgang 0x065D",
+      "active": false
+    },
+    "1630": {
+      "address": 1630,
+      "name": "Ausgang 0x065E",
+      "active": false
+    },
+    "1631": {
+      "address": 1631,
+      "name": "Ausgang 0x065F",
+      "active": false
+    },
+    "1632": {
+      "address": 1632,
+      "name": "Ausgang 0x0660",
+      "active": false
+    },
+    "1633": {
+      "address": 1633,
+      "name": "Ausgang 0x0661",
+      "active": false
+    },
+    "1634": {
+      "address": 1634,
+      "name": "Ausgang 0x0662",
+      "active": false
+    },
+    "1635": {
+      "address": 1635,
+      "name": "Ausgang 0x0663",
+      "active": false
+    },
+    "1636": {
+      "address": 1636,
+      "name": "Ausgang 0x0664",
+      "active": false
+    },
+    "1637": {
+      "address": 1637,
+      "name": "Ausgang 0x0665",
+      "active": false
+    },
+    "1638": {
+      "address": 1638,
+      "name": "Ausgang 0x0666",
+      "active": false
+    },
+    "1639": {
+      "address": 1639,
+      "name": "Ausgang 0x0667",
+      "active": false
+    },
+    "1640": {
+      "address": 1640,
+      "name": "Ausgang 0x0668",
+      "active": false
+    },
+    "1641": {
+      "address": 1641,
+      "name": "Ausgang 0x0669",
+      "active": false
+    },
+    "1642": {
+      "address": 1642,
+      "name": "Ausgang 0x066A",
+      "active": false
+    },
+    "1643": {
+      "address": 1643,
+      "name": "Ausgang 0x066B",
+      "active": false
+    },
+    "1644": {
+      "address": 1644,
+      "name": "Ausgang 0x066C",
+      "active": false
+    },
+    "1645": {
+      "address": 1645,
+      "name": "Ausgang 0x066D",
+      "active": false
+    },
+    "1646": {
+      "address": 1646,
+      "name": "Ausgang 0x066E",
+      "active": false
+    },
+    "1647": {
+      "address": 1647,
+      "name": "Ausgang 0x066F",
+      "active": false
+    },
+    "1648": {
+      "address": 1648,
+      "name": "Ausgang 0x0670",
+      "active": false
+    },
+    "1649": {
+      "address": 1649,
+      "name": "Ausgang 0x0671",
+      "active": false
+    },
+    "1650": {
+      "address": 1650,
+      "name": "Ausgang 0x0672",
+      "active": false
+    },
+    "1651": {
+      "address": 1651,
+      "name": "Ausgang 0x0673",
+      "active": false
+    },
+    "1652": {
+      "address": 1652,
+      "name": "Ausgang 0x0674",
+      "active": false
+    },
+    "1653": {
+      "address": 1653,
+      "name": "Ausgang 0x0675",
+      "active": false
+    },
+    "1654": {
+      "address": 1654,
+      "name": "Ausgang 0x0676",
+      "active": false
+    },
+    "1655": {
+      "address": 1655,
+      "name": "Ausgang 0x0677",
+      "active": false
+    },
+    "1656": {
+      "address": 1656,
+      "name": "Ausgang 0x0678",
+      "active": false
+    },
+    "1657": {
+      "address": 1657,
+      "name": "Ausgang 0x0679",
+      "active": false
+    },
+    "1658": {
+      "address": 1658,
+      "name": "Ausgang 0x067A",
+      "active": false
+    },
+    "1659": {
+      "address": 1659,
+      "name": "Ausgang 0x067B",
+      "active": false
+    },
+    "1660": {
+      "address": 1660,
+      "name": "Ausgang 0x067C",
+      "active": false
+    },
+    "1661": {
+      "address": 1661,
+      "name": "Ausgang 0x067D",
+      "active": false
+    },
+    "1662": {
+      "address": 1662,
+      "name": "Ausgang 0x067E",
+      "active": false
+    },
+    "1663": {
+      "address": 1663,
+      "name": "Ausgang 0x067F",
+      "active": false
+    },
+    "1664": {
+      "address": 1664,
+      "name": "Ausgang 0x0680",
+      "active": false
+    },
+    "1665": {
+      "address": 1665,
+      "name": "Ausgang 0x0681",
+      "active": false
+    },
+    "1666": {
+      "address": 1666,
+      "name": "Ausgang 0x0682",
+      "active": false
+    },
+    "1667": {
+      "address": 1667,
+      "name": "Ausgang 0x0683",
+      "active": false
+    },
+    "1668": {
+      "address": 1668,
+      "name": "Ausgang 0x0684",
+      "active": false
+    },
+    "1669": {
+      "address": 1669,
+      "name": "Ausgang 0x0685",
+      "active": false
+    },
+    "1670": {
+      "address": 1670,
+      "name": "Ausgang 0x0686",
+      "active": false
+    },
+    "1671": {
+      "address": 1671,
+      "name": "Ausgang 0x0687",
+      "active": false
+    },
+    "1672": {
+      "address": 1672,
+      "name": "Ausgang 0x0688",
+      "active": false
+    },
+    "1673": {
+      "address": 1673,
+      "name": "Ausgang 0x0689",
+      "active": false
+    },
+    "1674": {
+      "address": 1674,
+      "name": "Ausgang 0x068A",
+      "active": false
+    },
+    "1675": {
+      "address": 1675,
+      "name": "Ausgang 0x068B",
+      "active": false
+    },
+    "1676": {
+      "address": 1676,
+      "name": "Ausgang 0x068C",
+      "active": false
+    },
+    "1677": {
+      "address": 1677,
+      "name": "Ausgang 0x068D",
+      "active": false
+    },
+    "1678": {
+      "address": 1678,
+      "name": "Ausgang 0x068E",
+      "active": false
+    },
+    "1679": {
+      "address": 1679,
+      "name": "Ausgang 0x068F",
+      "active": false
+    },
+    "1680": {
+      "address": 1680,
+      "name": "Ausgang 0x0690",
+      "active": false
+    },
+    "1681": {
+      "address": 1681,
+      "name": "Ausgang 0x0691",
+      "active": false
+    },
+    "1682": {
+      "address": 1682,
+      "name": "Ausgang 0x0692",
+      "active": false
+    },
+    "1683": {
+      "address": 1683,
+      "name": "Ausgang 0x0693",
+      "active": false
+    },
+    "1684": {
+      "address": 1684,
+      "name": "Ausgang 0x0694",
+      "active": false
+    },
+    "1685": {
+      "address": 1685,
+      "name": "Ausgang 0x0695",
+      "active": false
+    },
+    "1686": {
+      "address": 1686,
+      "name": "Ausgang 0x0696",
+      "active": false
+    },
+    "1687": {
+      "address": 1687,
+      "name": "Ausgang 0x0697",
+      "active": false
+    },
+    "1688": {
+      "address": 1688,
+      "name": "Ausgang 0x0698",
+      "active": false
+    },
+    "1689": {
+      "address": 1689,
+      "name": "Ausgang 0x0699",
+      "active": false
+    },
+    "1690": {
+      "address": 1690,
+      "name": "Ausgang 0x069A",
+      "active": false
+    },
+    "1691": {
+      "address": 1691,
+      "name": "Ausgang 0x069B",
+      "active": false
+    },
+    "1692": {
+      "address": 1692,
+      "name": "Ausgang 0x069C",
+      "active": false
+    },
+    "1693": {
+      "address": 1693,
+      "name": "Ausgang 0x069D",
+      "active": false
+    },
+    "1694": {
+      "address": 1694,
+      "name": "Ausgang 0x069E",
+      "active": false
+    },
+    "1695": {
+      "address": 1695,
+      "name": "Ausgang 0x069F",
+      "active": false
+    },
+    "1696": {
+      "address": 1696,
+      "name": "Ausgang 0x06A0",
+      "active": false
+    },
+    "1697": {
+      "address": 1697,
+      "name": "Ausgang 0x06A1",
+      "active": false
+    },
+    "1698": {
+      "address": 1698,
+      "name": "Ausgang 0x06A2",
+      "active": false
+    },
+    "1699": {
+      "address": 1699,
+      "name": "Ausgang 0x06A3",
+      "active": false
+    },
+    "1700": {
+      "address": 1700,
+      "name": "Ausgang 0x06A4",
+      "active": false
+    },
+    "1701": {
+      "address": 1701,
+      "name": "Ausgang 0x06A5",
+      "active": false
+    },
+    "1702": {
+      "address": 1702,
+      "name": "Ausgang 0x06A6",
+      "active": false
+    },
+    "1703": {
+      "address": 1703,
+      "name": "Ausgang 0x06A7",
+      "active": false
+    },
+    "1704": {
+      "address": 1704,
+      "name": "Ausgang 0x06A8",
+      "active": false
+    },
+    "1705": {
+      "address": 1705,
+      "name": "Ausgang 0x06A9",
+      "active": false
+    },
+    "1706": {
+      "address": 1706,
+      "name": "Ausgang 0x06AA",
+      "active": false
+    },
+    "1707": {
+      "address": 1707,
+      "name": "Ausgang 0x06AB",
+      "active": false
+    },
+    "1708": {
+      "address": 1708,
+      "name": "Ausgang 0x06AC",
+      "active": false
+    },
+    "1709": {
+      "address": 1709,
+      "name": "Ausgang 0x06AD",
+      "active": false
+    },
+    "1710": {
+      "address": 1710,
+      "name": "Ausgang 0x06AE",
+      "active": false
+    },
+    "1711": {
+      "address": 1711,
+      "name": "Ausgang 0x06AF",
+      "active": false
+    },
+    "1712": {
+      "address": 1712,
+      "name": "Ausgang 0x06B0",
+      "active": false
+    },
+    "1713": {
+      "address": 1713,
+      "name": "Ausgang 0x06B1",
+      "active": false
+    },
+    "1714": {
+      "address": 1714,
+      "name": "Ausgang 0x06B2",
+      "active": false
+    },
+    "1715": {
+      "address": 1715,
+      "name": "Ausgang 0x06B3",
+      "active": false
+    },
+    "1716": {
+      "address": 1716,
+      "name": "Ausgang 0x06B4",
+      "active": false
+    },
+    "1717": {
+      "address": 1717,
+      "name": "Ausgang 0x06B5",
+      "active": false
+    },
+    "1718": {
+      "address": 1718,
+      "name": "Ausgang 0x06B6",
+      "active": false
+    },
+    "1719": {
+      "address": 1719,
+      "name": "Ausgang 0x06B7",
+      "active": false
+    },
+    "1720": {
+      "address": 1720,
+      "name": "Ausgang 0x06B8",
+      "active": false
+    },
+    "1721": {
+      "address": 1721,
+      "name": "Ausgang 0x06B9",
+      "active": false
+    },
+    "1722": {
+      "address": 1722,
+      "name": "Ausgang 0x06BA",
+      "active": false
+    },
+    "1723": {
+      "address": 1723,
+      "name": "Ausgang 0x06BB",
+      "active": false
+    },
+    "1724": {
+      "address": 1724,
+      "name": "Ausgang 0x06BC",
+      "active": false
+    },
+    "1725": {
+      "address": 1725,
+      "name": "Ausgang 0x06BD",
+      "active": false
+    },
+    "1726": {
+      "address": 1726,
+      "name": "Ausgang 0x06BE",
+      "active": false
+    },
+    "1727": {
+      "address": 1727,
+      "name": "Ausgang 0x06BF",
+      "active": false
+    },
+    "1728": {
+      "address": 1728,
+      "name": "Ausgang 0x06C0",
+      "active": false
+    },
+    "1729": {
+      "address": 1729,
+      "name": "Ausgang 0x06C1",
+      "active": false
+    },
+    "1730": {
+      "address": 1730,
+      "name": "Ausgang 0x06C2",
+      "active": false
+    },
+    "1731": {
+      "address": 1731,
+      "name": "Ausgang 0x06C3",
+      "active": false
+    },
+    "1732": {
+      "address": 1732,
+      "name": "Ausgang 0x06C4",
+      "active": false
+    },
+    "1733": {
+      "address": 1733,
+      "name": "Ausgang 0x06C5",
+      "active": false
+    },
+    "1734": {
+      "address": 1734,
+      "name": "Ausgang 0x06C6",
+      "active": false
+    },
+    "1735": {
+      "address": 1735,
+      "name": "Ausgang 0x06C7",
+      "active": false
+    },
+    "1736": {
+      "address": 1736,
+      "name": "Ausgang 0x06C8",
+      "active": false
+    },
+    "1737": {
+      "address": 1737,
+      "name": "Ausgang 0x06C9",
+      "active": false
+    },
+    "1738": {
+      "address": 1738,
+      "name": "Ausgang 0x06CA",
+      "active": false
+    },
+    "1739": {
+      "address": 1739,
+      "name": "Ausgang 0x06CB",
+      "active": false
+    },
+    "1740": {
+      "address": 1740,
+      "name": "Ausgang 0x06CC",
+      "active": false
+    },
+    "1741": {
+      "address": 1741,
+      "name": "Ausgang 0x06CD",
+      "active": false
+    },
+    "1742": {
+      "address": 1742,
+      "name": "Ausgang 0x06CE",
+      "active": false
+    },
+    "1743": {
+      "address": 1743,
+      "name": "Ausgang 0x06CF",
+      "active": false
+    },
+    "1744": {
+      "address": 1744,
+      "name": "Ausgang 0x06D0",
+      "active": false
+    },
+    "1745": {
+      "address": 1745,
+      "name": "Ausgang 0x06D1",
+      "active": false
+    },
+    "1746": {
+      "address": 1746,
+      "name": "Ausgang 0x06D2",
+      "active": false
+    },
+    "1747": {
+      "address": 1747,
+      "name": "Ausgang 0x06D3",
+      "active": false
+    },
+    "1748": {
+      "address": 1748,
+      "name": "Ausgang 0x06D4",
+      "active": false
+    },
+    "1749": {
+      "address": 1749,
+      "name": "Ausgang 0x06D5",
+      "active": false
+    },
+    "1750": {
+      "address": 1750,
+      "name": "Ausgang 0x06D6",
+      "active": false
+    },
+    "1751": {
+      "address": 1751,
+      "name": "Ausgang 0x06D7",
+      "active": false
+    },
+    "1752": {
+      "address": 1752,
+      "name": "Ausgang 0x06D8",
+      "active": false
+    },
+    "1753": {
+      "address": 1753,
+      "name": "Ausgang 0x06D9",
+      "active": false
+    },
+    "1754": {
+      "address": 1754,
+      "name": "Ausgang 0x06DA",
+      "active": false
+    },
+    "1755": {
+      "address": 1755,
+      "name": "Ausgang 0x06DB",
+      "active": false
+    },
+    "1756": {
+      "address": 1756,
+      "name": "Ausgang 0x06DC",
+      "active": false
+    },
+    "1757": {
+      "address": 1757,
+      "name": "Ausgang 0x06DD",
+      "active": false
+    },
+    "1758": {
+      "address": 1758,
+      "name": "Ausgang 0x06DE",
+      "active": false
+    },
+    "1759": {
+      "address": 1759,
+      "name": "Ausgang 0x06DF",
+      "active": false
+    },
+    "1760": {
+      "address": 1760,
+      "name": "Ausgang 0x06E0",
+      "active": false
+    },
+    "1761": {
+      "address": 1761,
+      "name": "Ausgang 0x06E1",
+      "active": false
+    },
+    "1762": {
+      "address": 1762,
+      "name": "Ausgang 0x06E2",
+      "active": false
+    },
+    "1763": {
+      "address": 1763,
+      "name": "Ausgang 0x06E3",
+      "active": false
+    },
+    "1764": {
+      "address": 1764,
+      "name": "Ausgang 0x06E4",
+      "active": false
+    },
+    "1765": {
+      "address": 1765,
+      "name": "Ausgang 0x06E5",
+      "active": false
+    },
+    "1766": {
+      "address": 1766,
+      "name": "Ausgang 0x06E6",
+      "active": false
+    },
+    "1767": {
+      "address": 1767,
+      "name": "Ausgang 0x06E7",
+      "active": false
+    },
+    "1768": {
+      "address": 1768,
+      "name": "Ausgang 0x06E8",
+      "active": false
+    },
+    "1769": {
+      "address": 1769,
+      "name": "Ausgang 0x06E9",
+      "active": false
+    },
+    "1770": {
+      "address": 1770,
+      "name": "Ausgang 0x06EA",
+      "active": false
+    },
+    "1771": {
+      "address": 1771,
+      "name": "Ausgang 0x06EB",
+      "active": false
+    },
+    "1772": {
+      "address": 1772,
+      "name": "Ausgang 0x06EC",
+      "active": false
+    },
+    "1773": {
+      "address": 1773,
+      "name": "Ausgang 0x06ED",
+      "active": false
+    },
+    "1774": {
+      "address": 1774,
+      "name": "Ausgang 0x06EE",
+      "active": false
+    },
+    "1775": {
+      "address": 1775,
+      "name": "Ausgang 0x06EF",
+      "active": false
+    },
+    "1776": {
+      "address": 1776,
+      "name": "Ausgang 0x06F0",
+      "active": false
+    },
+    "1777": {
+      "address": 1777,
+      "name": "Ausgang 0x06F1",
+      "active": false
+    },
+    "1778": {
+      "address": 1778,
+      "name": "Ausgang 0x06F2",
+      "active": false
+    },
+    "1779": {
+      "address": 1779,
+      "name": "Ausgang 0x06F3",
+      "active": false
+    },
+    "1780": {
+      "address": 1780,
+      "name": "Ausgang 0x06F4",
+      "active": false
+    },
+    "1781": {
+      "address": 1781,
+      "name": "Ausgang 0x06F5",
+      "active": false
+    },
+    "1782": {
+      "address": 1782,
+      "name": "Ausgang 0x06F6",
+      "active": false
+    },
+    "1783": {
+      "address": 1783,
+      "name": "Ausgang 0x06F7",
+      "active": false
+    },
+    "1784": {
+      "address": 1784,
+      "name": "Ausgang 0x06F8",
+      "active": false
+    },
+    "1785": {
+      "address": 1785,
+      "name": "Ausgang 0x06F9",
+      "active": false
+    },
+    "1786": {
+      "address": 1786,
+      "name": "Ausgang 0x06FA",
+      "active": false
+    },
+    "1787": {
+      "address": 1787,
+      "name": "Ausgang 0x06FB",
+      "active": false
+    },
+    "1788": {
+      "address": 1788,
+      "name": "Ausgang 0x06FC",
+      "active": false
+    },
+    "1789": {
+      "address": 1789,
+      "name": "Ausgang 0x06FD",
+      "active": false
+    },
+    "1790": {
+      "address": 1790,
+      "name": "Ausgang 0x06FE",
+      "active": false
+    },
+    "1791": {
+      "address": 1791,
+      "name": "Ausgang 0x06FF",
+      "active": false
+    },
+    "1792": {
+      "address": 1792,
+      "name": "Ausgang 0x0700",
+      "active": false
+    },
+    "1793": {
+      "address": 1793,
+      "name": "Ausgang 0x0701",
+      "active": false
+    },
+    "1794": {
+      "address": 1794,
+      "name": "Ausgang 0x0702",
+      "active": false
+    },
+    "1795": {
+      "address": 1795,
+      "name": "Ausgang 0x0703",
+      "active": false
+    },
+    "1796": {
+      "address": 1796,
+      "name": "Ausgang 0x0704",
+      "active": false
+    },
+    "1797": {
+      "address": 1797,
+      "name": "Ausgang 0x0705",
+      "active": false
+    },
+    "1798": {
+      "address": 1798,
+      "name": "Ausgang 0x0706",
+      "active": false
+    },
+    "1799": {
+      "address": 1799,
+      "name": "Ausgang 0x0707",
+      "active": false
+    },
+    "1800": {
+      "address": 1800,
+      "name": "Ausgang 0x0708",
+      "active": false
+    },
+    "1801": {
+      "address": 1801,
+      "name": "Ausgang 0x0709",
+      "active": false
+    },
+    "1802": {
+      "address": 1802,
+      "name": "Ausgang 0x070A",
+      "active": false
+    },
+    "1803": {
+      "address": 1803,
+      "name": "Ausgang 0x070B",
+      "active": false
+    },
+    "1804": {
+      "address": 1804,
+      "name": "Ausgang 0x070C",
+      "active": false
+    },
+    "1805": {
+      "address": 1805,
+      "name": "Ausgang 0x070D",
+      "active": false
+    },
+    "1806": {
+      "address": 1806,
+      "name": "Ausgang 0x070E",
+      "active": false
+    },
+    "1807": {
+      "address": 1807,
+      "name": "Ausgang 0x070F",
+      "active": false
+    },
+    "1808": {
+      "address": 1808,
+      "name": "Ausgang 0x0710",
+      "active": false
+    },
+    "1809": {
+      "address": 1809,
+      "name": "Ausgang 0x0711",
+      "active": false
+    },
+    "1810": {
+      "address": 1810,
+      "name": "Ausgang 0x0712",
+      "active": false
+    },
+    "1811": {
+      "address": 1811,
+      "name": "Ausgang 0x0713",
+      "active": false
+    },
+    "1812": {
+      "address": 1812,
+      "name": "Ausgang 0x0714",
+      "active": false
+    },
+    "1813": {
+      "address": 1813,
+      "name": "Ausgang 0x0715",
+      "active": false
+    },
+    "1814": {
+      "address": 1814,
+      "name": "Ausgang 0x0716",
+      "active": false
+    },
+    "1815": {
+      "address": 1815,
+      "name": "Ausgang 0x0717",
+      "active": false
+    },
+    "1816": {
+      "address": 1816,
+      "name": "Ausgang 0x0718",
+      "active": false
+    },
+    "1817": {
+      "address": 1817,
+      "name": "Ausgang 0x0719",
+      "active": false
+    },
+    "1818": {
+      "address": 1818,
+      "name": "Ausgang 0x071A",
+      "active": false
+    },
+    "1819": {
+      "address": 1819,
+      "name": "Ausgang 0x071B",
+      "active": false
+    },
+    "1820": {
+      "address": 1820,
+      "name": "Ausgang 0x071C",
+      "active": false
+    },
+    "1821": {
+      "address": 1821,
+      "name": "Ausgang 0x071D",
+      "active": false
+    },
+    "1822": {
+      "address": 1822,
+      "name": "Ausgang 0x071E",
+      "active": false
+    },
+    "1823": {
+      "address": 1823,
+      "name": "Ausgang 0x071F",
+      "active": false
+    },
+    "1824": {
+      "address": 1824,
+      "name": "Ausgang 0x0720",
+      "active": false
+    },
+    "1825": {
+      "address": 1825,
+      "name": "Ausgang 0x0721",
+      "active": false
+    },
+    "1826": {
+      "address": 1826,
+      "name": "Ausgang 0x0722",
+      "active": false
+    },
+    "1827": {
+      "address": 1827,
+      "name": "Ausgang 0x0723",
+      "active": false
+    },
+    "1828": {
+      "address": 1828,
+      "name": "Ausgang 0x0724",
+      "active": false
+    },
+    "1829": {
+      "address": 1829,
+      "name": "Ausgang 0x0725",
+      "active": false
+    },
+    "1830": {
+      "address": 1830,
+      "name": "Ausgang 0x0726",
+      "active": false
+    },
+    "1831": {
+      "address": 1831,
+      "name": "Ausgang 0x0727",
+      "active": false
+    },
+    "1832": {
+      "address": 1832,
+      "name": "Ausgang 0x0728",
+      "active": false
+    },
+    "1833": {
+      "address": 1833,
+      "name": "Ausgang 0x0729",
+      "active": false
+    },
+    "1834": {
+      "address": 1834,
+      "name": "Ausgang 0x072A",
+      "active": false
+    },
+    "1835": {
+      "address": 1835,
+      "name": "Ausgang 0x072B",
+      "active": false
+    },
+    "1836": {
+      "address": 1836,
+      "name": "Ausgang 0x072C",
+      "active": false
+    },
+    "1837": {
+      "address": 1837,
+      "name": "Ausgang 0x072D",
+      "active": false
+    },
+    "1838": {
+      "address": 1838,
+      "name": "Ausgang 0x072E",
+      "active": false
+    },
+    "1839": {
+      "address": 1839,
+      "name": "Ausgang 0x072F",
+      "active": false
+    },
+    "1840": {
+      "address": 1840,
+      "name": "Ausgang 0x0730",
+      "active": false
+    },
+    "1841": {
+      "address": 1841,
+      "name": "Ausgang 0x0731",
+      "active": false
+    },
+    "1842": {
+      "address": 1842,
+      "name": "Ausgang 0x0732",
+      "active": false
+    },
+    "1843": {
+      "address": 1843,
+      "name": "Ausgang 0x0733",
+      "active": false
+    },
+    "1844": {
+      "address": 1844,
+      "name": "Ausgang 0x0734",
+      "active": false
+    },
+    "1845": {
+      "address": 1845,
+      "name": "Ausgang 0x0735",
+      "active": false
+    },
+    "1846": {
+      "address": 1846,
+      "name": "Ausgang 0x0736",
+      "active": false
+    },
+    "1847": {
+      "address": 1847,
+      "name": "Ausgang 0x0737",
+      "active": false
+    },
+    "1848": {
+      "address": 1848,
+      "name": "Ausgang 0x0738",
+      "active": false
+    },
+    "1849": {
+      "address": 1849,
+      "name": "Ausgang 0x0739",
+      "active": false
+    },
+    "1850": {
+      "address": 1850,
+      "name": "Ausgang 0x073A",
+      "active": false
+    },
+    "1851": {
+      "address": 1851,
+      "name": "Ausgang 0x073B",
+      "active": false
+    },
+    "1852": {
+      "address": 1852,
+      "name": "Ausgang 0x073C",
+      "active": false
+    },
+    "1853": {
+      "address": 1853,
+      "name": "Ausgang 0x073D",
+      "active": false
+    },
+    "1854": {
+      "address": 1854,
+      "name": "Ausgang 0x073E",
+      "active": false
+    },
+    "1855": {
+      "address": 1855,
+      "name": "Ausgang 0x073F",
+      "active": false
+    },
+    "1856": {
+      "address": 1856,
+      "name": "Ausgang 0x0740",
+      "active": false
+    },
+    "1857": {
+      "address": 1857,
+      "name": "Ausgang 0x0741",
+      "active": false
+    },
+    "1858": {
+      "address": 1858,
+      "name": "Ausgang 0x0742",
+      "active": false
+    },
+    "1859": {
+      "address": 1859,
+      "name": "Ausgang 0x0743",
+      "active": false
+    },
+    "1860": {
+      "address": 1860,
+      "name": "Ausgang 0x0744",
+      "active": false
+    },
+    "1861": {
+      "address": 1861,
+      "name": "Ausgang 0x0745",
+      "active": false
+    },
+    "1862": {
+      "address": 1862,
+      "name": "Ausgang 0x0746",
+      "active": false
+    },
+    "1863": {
+      "address": 1863,
+      "name": "Ausgang 0x0747",
+      "active": false
+    },
+    "1864": {
+      "address": 1864,
+      "name": "Ausgang 0x0748",
+      "active": false
+    },
+    "1865": {
+      "address": 1865,
+      "name": "Ausgang 0x0749",
+      "active": false
+    },
+    "1866": {
+      "address": 1866,
+      "name": "Ausgang 0x074A",
+      "active": false
+    },
+    "1867": {
+      "address": 1867,
+      "name": "Ausgang 0x074B",
+      "active": false
+    },
+    "1868": {
+      "address": 1868,
+      "name": "Ausgang 0x074C",
+      "active": false
+    },
+    "1869": {
+      "address": 1869,
+      "name": "Ausgang 0x074D",
+      "active": false
+    },
+    "1870": {
+      "address": 1870,
+      "name": "Ausgang 0x074E",
+      "active": false
+    },
+    "1871": {
+      "address": 1871,
+      "name": "Ausgang 0x074F",
+      "active": false
+    },
+    "1872": {
+      "address": 1872,
+      "name": "Ausgang 0x0750",
+      "active": false
+    },
+    "1873": {
+      "address": 1873,
+      "name": "Ausgang 0x0751",
+      "active": false
+    },
+    "1874": {
+      "address": 1874,
+      "name": "Ausgang 0x0752",
+      "active": false
+    },
+    "1875": {
+      "address": 1875,
+      "name": "Ausgang 0x0753",
+      "active": false
+    },
+    "1876": {
+      "address": 1876,
+      "name": "Ausgang 0x0754",
+      "active": false
+    },
+    "1877": {
+      "address": 1877,
+      "name": "Ausgang 0x0755",
+      "active": false
+    },
+    "1878": {
+      "address": 1878,
+      "name": "Ausgang 0x0756",
+      "active": false
+    },
+    "1879": {
+      "address": 1879,
+      "name": "Ausgang 0x0757",
+      "active": false
+    },
+    "1880": {
+      "address": 1880,
+      "name": "Ausgang 0x0758",
+      "active": false
+    },
+    "1881": {
+      "address": 1881,
+      "name": "Ausgang 0x0759",
+      "active": false
+    },
+    "1882": {
+      "address": 1882,
+      "name": "Ausgang 0x075A",
+      "active": false
+    },
+    "1883": {
+      "address": 1883,
+      "name": "Ausgang 0x075B",
+      "active": false
+    },
+    "1884": {
+      "address": 1884,
+      "name": "Ausgang 0x075C",
+      "active": false
+    },
+    "1885": {
+      "address": 1885,
+      "name": "Ausgang 0x075D",
+      "active": false
+    },
+    "1886": {
+      "address": 1886,
+      "name": "Ausgang 0x075E",
+      "active": false
+    },
+    "1887": {
+      "address": 1887,
+      "name": "Ausgang 0x075F",
+      "active": false
+    },
+    "1888": {
+      "address": 1888,
+      "name": "Ausgang 0x0760",
+      "active": false
+    },
+    "1889": {
+      "address": 1889,
+      "name": "Ausgang 0x0761",
+      "active": false
+    },
+    "1890": {
+      "address": 1890,
+      "name": "Ausgang 0x0762",
+      "active": false
+    },
+    "1891": {
+      "address": 1891,
+      "name": "Ausgang 0x0763",
+      "active": false
+    },
+    "1892": {
+      "address": 1892,
+      "name": "Ausgang 0x0764",
+      "active": false
+    },
+    "1893": {
+      "address": 1893,
+      "name": "Ausgang 0x0765",
+      "active": false
+    },
+    "1894": {
+      "address": 1894,
+      "name": "Ausgang 0x0766",
+      "active": false
+    },
+    "1895": {
+      "address": 1895,
+      "name": "Ausgang 0x0767",
+      "active": false
+    },
+    "1896": {
+      "address": 1896,
+      "name": "Ausgang 0x0768",
+      "active": false
+    },
+    "1897": {
+      "address": 1897,
+      "name": "Ausgang 0x0769",
+      "active": false
+    },
+    "1898": {
+      "address": 1898,
+      "name": "Ausgang 0x076A",
+      "active": false
+    },
+    "1899": {
+      "address": 1899,
+      "name": "Ausgang 0x076B",
+      "active": false
+    },
+    "1900": {
+      "address": 1900,
+      "name": "Ausgang 0x076C",
+      "active": false
+    },
+    "1901": {
+      "address": 1901,
+      "name": "Ausgang 0x076D",
+      "active": false
+    },
+    "1902": {
+      "address": 1902,
+      "name": "Ausgang 0x076E",
+      "active": false
+    },
+    "1903": {
+      "address": 1903,
+      "name": "Ausgang 0x076F",
+      "active": false
+    },
+    "1904": {
+      "address": 1904,
+      "name": "Ausgang 0x0770",
+      "active": false
+    },
+    "1905": {
+      "address": 1905,
+      "name": "Ausgang 0x0771",
+      "active": false
+    },
+    "1906": {
+      "address": 1906,
+      "name": "Ausgang 0x0772",
+      "active": false
+    },
+    "1907": {
+      "address": 1907,
+      "name": "Ausgang 0x0773",
+      "active": false
+    },
+    "1908": {
+      "address": 1908,
+      "name": "Ausgang 0x0774",
+      "active": false
+    },
+    "1909": {
+      "address": 1909,
+      "name": "Ausgang 0x0775",
+      "active": false
+    },
+    "1910": {
+      "address": 1910,
+      "name": "Ausgang 0x0776",
+      "active": false
+    },
+    "1911": {
+      "address": 1911,
+      "name": "Ausgang 0x0777",
+      "active": false
+    }
+  },
+  "summary": {
+    "total_areas": 8,
+    "total_inputs": 1040,
+    "total_outputs": 568,
+    "active_inputs": 2,
+    "active_outputs": 11
+  }
+}

@@ -1,0 +1,31 @@
+TELENOT COMPLEX400 SCAN SUMMARY
+==================================================
+
+Scan Date: 2025-07-22 22:26:44
+Host: vh-telenot-serial.waldsteg.home:8234
+Duration: 60 seconds
+
+SUMMARY STATISTICS:
+--------------------
+Total Areas: 8
+Total Inputs: 1040
+Total Outputs: 568
+Active Inputs: 2
+Active Outputs: 11
+
+INPUT BREAKDOWN BY TYPE:
+-------------------------
+BEDIENTEILE: 64 total, 1 active
+COMLOCK410_0_7: 128 total, 0 active
+COMLOCK410_8_15: 120 total, 0 active
+COMSLAVE: 528 total, 0 active
+MELDERBUS: 127 total, 0 active
+MELDERGRUPPEN: 32 total, 1 active
+UNKNOWN: 41 total, 0 active
+
+RECOMMENDATIONS FOR HOME ASSISTANT:
+-----------------------------------
+- Configure 8 alarm control panels
+- Monitor 32 detector groups
+- Consider 2 active inputs for binary sensors
+- Review 568 outputs for switch entities

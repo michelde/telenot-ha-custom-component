@@ -1,0 +1,1041 @@
+Address_Hex,Address_Dec,Name,Type,Active,Status
+0x0000,0,Meldergruppe 1,meldergruppen,False,Inactive
+0x0001,1,Meldergruppe 2,meldergruppen,False,Inactive
+0x0002,2,Meldergruppe 3,meldergruppen,False,Inactive
+0x0003,3,Meldergruppe 4,meldergruppen,False,Inactive
+0x0004,4,Meldergruppe 5,meldergruppen,False,Inactive
+0x0005,5,Meldergruppe 6,meldergruppen,False,Inactive
+0x0006,6,Meldergruppe 7,meldergruppen,True,ACTIVE
+0x0007,7,Meldergruppe 8,meldergruppen,False,Inactive
+0x0008,8,Meldergruppe 9,meldergruppen,False,Inactive
+0x0009,9,Meldergruppe 10,meldergruppen,False,Inactive
+0x000A,10,Meldergruppe 11,meldergruppen,False,Inactive
+0x000B,11,Meldergruppe 12,meldergruppen,False,Inactive
+0x000C,12,Meldergruppe 13,meldergruppen,False,Inactive
+0x000D,13,Meldergruppe 14,meldergruppen,False,Inactive
+0x000E,14,Meldergruppe 15,meldergruppen,False,Inactive
+0x000F,15,Meldergruppe 16,meldergruppen,False,Inactive
+0x0010,16,Meldergruppe 17,meldergruppen,False,Inactive
+0x0011,17,Meldergruppe 18,meldergruppen,False,Inactive
+0x0012,18,Meldergruppe 19,meldergruppen,False,Inactive
+0x0013,19,Meldergruppe 20,meldergruppen,False,Inactive
+0x0014,20,Meldergruppe 21,meldergruppen,False,Inactive
+0x0015,21,Meldergruppe 22,meldergruppen,False,Inactive
+0x0016,22,Meldergruppe 23,meldergruppen,False,Inactive
+0x0017,23,Meldergruppe 24,meldergruppen,False,Inactive
+0x0018,24,Meldergruppe 25,meldergruppen,False,Inactive
+0x0019,25,Meldergruppe 26,meldergruppen,False,Inactive
+0x001A,26,Meldergruppe 27,meldergruppen,False,Inactive
+0x001B,27,Meldergruppe 28,meldergruppen,False,Inactive
+0x001C,28,Meldergruppe 29,meldergruppen,False,Inactive
+0x001D,29,Meldergruppe 30,meldergruppen,False,Inactive
+0x001E,30,Meldergruppe 31,meldergruppen,False,Inactive
+0x001F,31,Meldergruppe 32,meldergruppen,False,Inactive
+0x0020,32,Eingang 0x0020,unknown,False,Inactive
+0x0021,33,Eingang 0x0021,unknown,False,Inactive
+0x0022,34,Eingang 0x0022,unknown,False,Inactive
+0x0023,35,Eingang 0x0023,unknown,False,Inactive
+0x0024,36,Eingang 0x0024,unknown,False,Inactive
+0x0025,37,Eingang 0x0025,unknown,False,Inactive
+0x0026,38,Eingang 0x0026,unknown,False,Inactive
+0x0027,39,Eingang 0x0027,unknown,False,Inactive
+0x0028,40,Melderbus Strang 1 Adresse 1,melderbus,False,Inactive
+0x0029,41,Melderbus Strang 1 Adresse 2,melderbus,False,Inactive
+0x002A,42,Melderbus Strang 1 Adresse 3,melderbus,False,Inactive
+0x002B,43,Melderbus Strang 1 Adresse 4,melderbus,False,Inactive
+0x002C,44,Melderbus Strang 1 Adresse 5,melderbus,False,Inactive
+0x002D,45,Melderbus Strang 1 Adresse 6,melderbus,False,Inactive
+0x002E,46,Melderbus Strang 1 Adresse 7,melderbus,False,Inactive
+0x002F,47,Melderbus Strang 1 Adresse 8,melderbus,False,Inactive
+0x0030,48,Melderbus Strang 1 Adresse 9,melderbus,False,Inactive
+0x0031,49,Melderbus Strang 1 Adresse 10,melderbus,False,Inactive
+0x0032,50,Melderbus Strang 1 Adresse 11,melderbus,False,Inactive
+0x0033,51,Melderbus Strang 1 Adresse 12,melderbus,False,Inactive
+0x0034,52,Melderbus Strang 1 Adresse 13,melderbus,False,Inactive
+0x0035,53,Melderbus Strang 1 Adresse 14,melderbus,False,Inactive
+0x0036,54,Melderbus Strang 1 Adresse 15,melderbus,False,Inactive
+0x0037,55,Melderbus Strang 1 Adresse 16,melderbus,False,Inactive
+0x0038,56,Melderbus Strang 1 Adresse 17,melderbus,False,Inactive
+0x0039,57,Melderbus Strang 1 Adresse 18,melderbus,False,Inactive
+0x003A,58,Melderbus Strang 1 Adresse 19,melderbus,False,Inactive
+0x003B,59,Melderbus Strang 1 Adresse 20,melderbus,False,Inactive
+0x003C,60,Melderbus Strang 1 Adresse 21,melderbus,False,Inactive
+0x003D,61,Melderbus Strang 1 Adresse 22,melderbus,False,Inactive
+0x003E,62,Melderbus Strang 1 Adresse 23,melderbus,False,Inactive
+0x003F,63,Melderbus Strang 1 Adresse 24,melderbus,False,Inactive
+0x0040,64,Melderbus Strang 1 Adresse 25,melderbus,False,Inactive
+0x0041,65,Melderbus Strang 1 Adresse 26,melderbus,False,Inactive
+0x0042,66,Melderbus Strang 1 Adresse 27,melderbus,False,Inactive
+0x0043,67,Melderbus Strang 1 Adresse 28,melderbus,False,Inactive
+0x0044,68,Melderbus Strang 1 Adresse 29,melderbus,False,Inactive
+0x0045,69,Melderbus Strang 1 Adresse 30,melderbus,False,Inactive
+0x0046,70,Melderbus Strang 1 Adresse 31,melderbus,False,Inactive
+0x0047,71,Melderbus Strang 1 Adresse 32,melderbus,False,Inactive
+0x0048,72,Melderbus Strang 1 Adresse 33,melderbus,False,Inactive
+0x0049,73,Melderbus Strang 1 Adresse 34,melderbus,False,Inactive
+0x004A,74,Melderbus Strang 1 Adresse 35,melderbus,False,Inactive
+0x004B,75,Melderbus Strang 1 Adresse 36,melderbus,False,Inactive
+0x004C,76,Melderbus Strang 1 Adresse 37,melderbus,False,Inactive
+0x004D,77,Melderbus Strang 1 Adresse 38,melderbus,False,Inactive
+0x004E,78,Melderbus Strang 1 Adresse 39,melderbus,False,Inactive
+0x004F,79,Melderbus Strang 1 Adresse 40,melderbus,False,Inactive
+0x0050,80,Melderbus Strang 1 Adresse 41,melderbus,False,Inactive
+0x0051,81,Melderbus Strang 1 Adresse 42,melderbus,False,Inactive
+0x0052,82,Melderbus Strang 1 Adresse 43,melderbus,False,Inactive
+0x0053,83,Melderbus Strang 1 Adresse 44,melderbus,False,Inactive
+0x0054,84,Melderbus Strang 1 Adresse 45,melderbus,False,Inactive
+0x0055,85,Melderbus Strang 1 Adresse 46,melderbus,False,Inactive
+0x0056,86,Melderbus Strang 1 Adresse 47,melderbus,False,Inactive
+0x0057,87,Melderbus Strang 1 Adresse 48,melderbus,False,Inactive
+0x0058,88,Melderbus Strang 1 Adresse 49,melderbus,False,Inactive
+0x0059,89,Melderbus Strang 1 Adresse 50,melderbus,False,Inactive
+0x005A,90,Melderbus Strang 1 Adresse 51,melderbus,False,Inactive
+0x005B,91,Melderbus Strang 1 Adresse 52,melderbus,False,Inactive
+0x005C,92,Melderbus Strang 1 Adresse 53,melderbus,False,Inactive
+0x005D,93,Melderbus Strang 1 Adresse 54,melderbus,False,Inactive
+0x005E,94,Melderbus Strang 1 Adresse 55,melderbus,False,Inactive
+0x005F,95,Melderbus Strang 1 Adresse 56,melderbus,False,Inactive
+0x0060,96,Melderbus Strang 1 Adresse 57,melderbus,False,Inactive
+0x0061,97,Melderbus Strang 1 Adresse 58,melderbus,False,Inactive
+0x0062,98,Melderbus Strang 1 Adresse 59,melderbus,False,Inactive
+0x0063,99,Melderbus Strang 1 Adresse 60,melderbus,False,Inactive
+0x0064,100,Melderbus Strang 1 Adresse 61,melderbus,False,Inactive
+0x0065,101,Melderbus Strang 1 Adresse 62,melderbus,False,Inactive
+0x0066,102,Melderbus Strang 1 Adresse 63,melderbus,False,Inactive
+0x0067,103,Eingang 0x0067,melderbus,False,Inactive
+0x0068,104,Melderbus Strang 2 Adresse 1,melderbus,False,Inactive
+0x0069,105,Melderbus Strang 2 Adresse 2,melderbus,False,Inactive
+0x006A,106,Melderbus Strang 2 Adresse 3,melderbus,False,Inactive
+0x006B,107,Melderbus Strang 2 Adresse 4,melderbus,False,Inactive
+0x006C,108,Melderbus Strang 2 Adresse 5,melderbus,False,Inactive
+0x006D,109,Melderbus Strang 2 Adresse 6,melderbus,False,Inactive
+0x006E,110,Melderbus Strang 2 Adresse 7,melderbus,False,Inactive
+0x006F,111,Melderbus Strang 2 Adresse 8,melderbus,False,Inactive
+0x0070,112,Melderbus Strang 2 Adresse 9,melderbus,False,Inactive
+0x0071,113,Melderbus Strang 2 Adresse 10,melderbus,False,Inactive
+0x0072,114,Melderbus Strang 2 Adresse 11,melderbus,False,Inactive
+0x0073,115,Melderbus Strang 2 Adresse 12,melderbus,False,Inactive
+0x0074,116,Melderbus Strang 2 Adresse 13,melderbus,False,Inactive
+0x0075,117,Melderbus Strang 2 Adresse 14,melderbus,False,Inactive
+0x0076,118,Melderbus Strang 2 Adresse 15,melderbus,False,Inactive
+0x0077,119,Melderbus Strang 2 Adresse 16,melderbus,False,Inactive
+0x0078,120,Melderbus Strang 2 Adresse 17,melderbus,False,Inactive
+0x0079,121,Melderbus Strang 2 Adresse 18,melderbus,False,Inactive
+0x007A,122,Melderbus Strang 2 Adresse 19,melderbus,False,Inactive
+0x007B,123,Melderbus Strang 2 Adresse 20,melderbus,False,Inactive
+0x007C,124,Melderbus Strang 2 Adresse 21,melderbus,False,Inactive
+0x007D,125,Melderbus Strang 2 Adresse 22,melderbus,False,Inactive
+0x007E,126,Melderbus Strang 2 Adresse 23,melderbus,False,Inactive
+0x007F,127,Melderbus Strang 2 Adresse 24,melderbus,False,Inactive
+0x0080,128,Melderbus Strang 2 Adresse 25,melderbus,False,Inactive
+0x0081,129,Melderbus Strang 2 Adresse 26,melderbus,False,Inactive
+0x0082,130,Melderbus Strang 2 Adresse 27,melderbus,False,Inactive
+0x0083,131,Melderbus Strang 2 Adresse 28,melderbus,False,Inactive
+0x0084,132,Melderbus Strang 2 Adresse 29,melderbus,False,Inactive
+0x0085,133,Melderbus Strang 2 Adresse 30,melderbus,False,Inactive
+0x0086,134,Melderbus Strang 2 Adresse 31,melderbus,False,Inactive
+0x0087,135,Melderbus Strang 2 Adresse 32,melderbus,False,Inactive
+0x0088,136,Melderbus Strang 2 Adresse 33,melderbus,False,Inactive
+0x0089,137,Melderbus Strang 2 Adresse 34,melderbus,False,Inactive
+0x008A,138,Melderbus Strang 2 Adresse 35,melderbus,False,Inactive
+0x008B,139,Melderbus Strang 2 Adresse 36,melderbus,False,Inactive
+0x008C,140,Melderbus Strang 2 Adresse 37,melderbus,False,Inactive
+0x008D,141,Melderbus Strang 2 Adresse 38,melderbus,False,Inactive
+0x008E,142,Melderbus Strang 2 Adresse 39,melderbus,False,Inactive
+0x008F,143,Melderbus Strang 2 Adresse 40,melderbus,False,Inactive
+0x0090,144,Melderbus Strang 2 Adresse 41,melderbus,False,Inactive
+0x0091,145,Melderbus Strang 2 Adresse 42,melderbus,False,Inactive
+0x0092,146,Melderbus Strang 2 Adresse 43,melderbus,False,Inactive
+0x0093,147,Melderbus Strang 2 Adresse 44,melderbus,False,Inactive
+0x0094,148,Melderbus Strang 2 Adresse 45,melderbus,False,Inactive
+0x0095,149,Melderbus Strang 2 Adresse 46,melderbus,False,Inactive
+0x0096,150,Melderbus Strang 2 Adresse 47,melderbus,False,Inactive
+0x0097,151,Melderbus Strang 2 Adresse 48,melderbus,False,Inactive
+0x0098,152,Melderbus Strang 2 Adresse 49,melderbus,False,Inactive
+0x0099,153,Melderbus Strang 2 Adresse 50,melderbus,False,Inactive
+0x009A,154,Melderbus Strang 2 Adresse 51,melderbus,False,Inactive
+0x009B,155,Melderbus Strang 2 Adresse 52,melderbus,False,Inactive
+0x009C,156,Melderbus Strang 2 Adresse 53,melderbus,False,Inactive
+0x009D,157,Melderbus Strang 2 Adresse 54,melderbus,False,Inactive
+0x009E,158,Melderbus Strang 2 Adresse 55,melderbus,False,Inactive
+0x009F,159,Melderbus Strang 2 Adresse 56,melderbus,False,Inactive
+0x00A0,160,Melderbus Strang 2 Adresse 57,melderbus,False,Inactive
+0x00A1,161,Melderbus Strang 2 Adresse 58,melderbus,False,Inactive
+0x00A2,162,Melderbus Strang 2 Adresse 59,melderbus,False,Inactive
+0x00A3,163,Melderbus Strang 2 Adresse 60,melderbus,False,Inactive
+0x00A4,164,Melderbus Strang 2 Adresse 61,melderbus,False,Inactive
+0x00A5,165,Melderbus Strang 2 Adresse 62,melderbus,False,Inactive
+0x00A6,166,Melderbus Strang 2 Adresse 63,melderbus,False,Inactive
+0x00A7,167,Eingang 0x00A7,unknown,False,Inactive
+0x00A8,168,Eingang 0x00A8,unknown,False,Inactive
+0x00A9,169,Eingang 0x00A9,unknown,False,Inactive
+0x00AA,170,Eingang 0x00AA,unknown,False,Inactive
+0x00AB,171,Eingang 0x00AB,unknown,False,Inactive
+0x00AC,172,Eingang 0x00AC,unknown,False,Inactive
+0x00AD,173,Eingang 0x00AD,unknown,False,Inactive
+0x00AE,174,Eingang 0x00AE,unknown,False,Inactive
+0x00AF,175,Eingang 0x00AF,unknown,False,Inactive
+0x00B0,176,Bedienteil 0 Deckelkontakt BT,bedienteile,False,Inactive
+0x00B1,177,Bedienteil 0 Deckelkontakt AT,bedienteile,False,Inactive
+0x00B2,178,Bedienteil 0 Keine Antwort,bedienteile,True,ACTIVE
+0x00B3,179,Bedienteil 0 Sondertaste,bedienteile,False,Inactive
+0x00B4,180,Bedienteil 1 Deckelkontakt BT,bedienteile,False,Inactive
+0x00B5,181,Bedienteil 1 Deckelkontakt AT,bedienteile,False,Inactive
+0x00B6,182,Bedienteil 1 Keine Antwort,bedienteile,False,Inactive
+0x00B7,183,Bedienteil 1 Sondertaste,bedienteile,False,Inactive
+0x00B8,184,Bedienteil 2 Deckelkontakt BT,bedienteile,False,Inactive
+0x00B9,185,Bedienteil 2 Deckelkontakt AT,bedienteile,False,Inactive
+0x00BA,186,Bedienteil 2 Keine Antwort,bedienteile,False,Inactive
+0x00BB,187,Bedienteil 2 Sondertaste,bedienteile,False,Inactive
+0x00BC,188,Bedienteil 3 Deckelkontakt BT,bedienteile,False,Inactive
+0x00BD,189,Bedienteil 3 Deckelkontakt AT,bedienteile,False,Inactive
+0x00BE,190,Bedienteil 3 Keine Antwort,bedienteile,False,Inactive
+0x00BF,191,Bedienteil 3 Sondertaste,bedienteile,False,Inactive
+0x00C0,192,Bedienteil 4 Deckelkontakt BT,bedienteile,False,Inactive
+0x00C1,193,Bedienteil 4 Deckelkontakt AT,bedienteile,False,Inactive
+0x00C2,194,Bedienteil 4 Keine Antwort,bedienteile,False,Inactive
+0x00C3,195,Bedienteil 4 Sondertaste,bedienteile,False,Inactive
+0x00C4,196,Bedienteil 5 Deckelkontakt BT,bedienteile,False,Inactive
+0x00C5,197,Bedienteil 5 Deckelkontakt AT,bedienteile,False,Inactive
+0x00C6,198,Bedienteil 5 Keine Antwort,bedienteile,False,Inactive
+0x00C7,199,Bedienteil 5 Sondertaste,bedienteile,False,Inactive
+0x00C8,200,Bedienteil 6 Deckelkontakt BT,bedienteile,False,Inactive
+0x00C9,201,Bedienteil 6 Deckelkontakt AT,bedienteile,False,Inactive
+0x00CA,202,Bedienteil 6 Keine Antwort,bedienteile,False,Inactive
+0x00CB,203,Bedienteil 6 Sondertaste,bedienteile,False,Inactive
+0x00CC,204,Bedienteil 7 Deckelkontakt BT,bedienteile,False,Inactive
+0x00CD,205,Bedienteil 7 Deckelkontakt AT,bedienteile,False,Inactive
+0x00CE,206,Bedienteil 7 Keine Antwort,bedienteile,False,Inactive
+0x00CF,207,Bedienteil 7 Sondertaste,bedienteile,False,Inactive
+0x00D0,208,Bedienteil 8 Deckelkontakt BT,bedienteile,False,Inactive
+0x00D1,209,Bedienteil 8 Deckelkontakt AT,bedienteile,False,Inactive
+0x00D2,210,Bedienteil 8 Keine Antwort,bedienteile,False,Inactive
+0x00D3,211,Bedienteil 8 Sondertaste,bedienteile,False,Inactive
+0x00D4,212,Bedienteil 9 Deckelkontakt BT,bedienteile,False,Inactive
+0x00D5,213,Bedienteil 9 Deckelkontakt AT,bedienteile,False,Inactive
+0x00D6,214,Bedienteil 9 Keine Antwort,bedienteile,False,Inactive
+0x00D7,215,Bedienteil 9 Sondertaste,bedienteile,False,Inactive
+0x00D8,216,Bedienteil 10 Deckelkontakt BT,bedienteile,False,Inactive
+0x00D9,217,Bedienteil 10 Deckelkontakt AT,bedienteile,False,Inactive
+0x00DA,218,Bedienteil 10 Keine Antwort,bedienteile,False,Inactive
+0x00DB,219,Bedienteil 10 Sondertaste,bedienteile,False,Inactive
+0x00DC,220,Bedienteil 11 Deckelkontakt BT,bedienteile,False,Inactive
+0x00DD,221,Bedienteil 11 Deckelkontakt AT,bedienteile,False,Inactive
+0x00DE,222,Bedienteil 11 Keine Antwort,bedienteile,False,Inactive
+0x00DF,223,Bedienteil 11 Sondertaste,bedienteile,False,Inactive
+0x00E0,224,Bedienteil 12 Deckelkontakt BT,bedienteile,False,Inactive
+0x00E1,225,Bedienteil 12 Deckelkontakt AT,bedienteile,False,Inactive
+0x00E2,226,Bedienteil 12 Keine Antwort,bedienteile,False,Inactive
+0x00E3,227,Bedienteil 12 Sondertaste,bedienteile,False,Inactive
+0x00E4,228,Bedienteil 13 Deckelkontakt BT,bedienteile,False,Inactive
+0x00E5,229,Bedienteil 13 Deckelkontakt AT,bedienteile,False,Inactive
+0x00E6,230,Bedienteil 13 Keine Antwort,bedienteile,False,Inactive
+0x00E7,231,Bedienteil 13 Sondertaste,bedienteile,False,Inactive
+0x00E8,232,Bedienteil 14 Deckelkontakt BT,bedienteile,False,Inactive
+0x00E9,233,Bedienteil 14 Deckelkontakt AT,bedienteile,False,Inactive
+0x00EA,234,Bedienteil 14 Keine Antwort,bedienteile,False,Inactive
+0x00EB,235,Bedienteil 14 Sondertaste,bedienteile,False,Inactive
+0x00EC,236,Bedienteil 15 Deckelkontakt BT,bedienteile,False,Inactive
+0x00ED,237,Bedienteil 15 Deckelkontakt AT,bedienteile,False,Inactive
+0x00EE,238,Bedienteil 15 Keine Antwort,bedienteile,False,Inactive
+0x00EF,239,Bedienteil 15 Sondertaste,bedienteile,False,Inactive
+0x00F0,240,Eingang 0x00F0,comlock410_0_7,False,Inactive
+0x00F1,241,Eingang 0x00F1,comlock410_0_7,False,Inactive
+0x00F2,242,Eingang 0x00F2,comlock410_0_7,False,Inactive
+0x00F3,243,Eingang 0x00F3,comlock410_0_7,False,Inactive
+0x00F4,244,Eingang 0x00F4,comlock410_0_7,False,Inactive
+0x00F5,245,Eingang 0x00F5,comlock410_0_7,False,Inactive
+0x00F6,246,Eingang 0x00F6,comlock410_0_7,False,Inactive
+0x00F7,247,Eingang 0x00F7,comlock410_0_7,False,Inactive
+0x00F8,248,Eingang 0x00F8,comlock410_0_7,False,Inactive
+0x00F9,249,Eingang 0x00F9,comlock410_0_7,False,Inactive
+0x00FA,250,Eingang 0x00FA,comlock410_0_7,False,Inactive
+0x00FB,251,Eingang 0x00FB,comlock410_0_7,False,Inactive
+0x00FC,252,Eingang 0x00FC,comlock410_0_7,False,Inactive
+0x00FD,253,Eingang 0x00FD,comlock410_0_7,False,Inactive
+0x00FE,254,Eingang 0x00FE,comlock410_0_7,False,Inactive
+0x00FF,255,Eingang 0x00FF,comlock410_0_7,False,Inactive
+0x0100,256,Eingang 0x0100,comlock410_0_7,False,Inactive
+0x0101,257,Eingang 0x0101,comlock410_0_7,False,Inactive
+0x0102,258,Eingang 0x0102,comlock410_0_7,False,Inactive
+0x0103,259,Eingang 0x0103,comlock410_0_7,False,Inactive
+0x0104,260,Eingang 0x0104,comlock410_0_7,False,Inactive
+0x0105,261,Eingang 0x0105,comlock410_0_7,False,Inactive
+0x0106,262,Eingang 0x0106,comlock410_0_7,False,Inactive
+0x0107,263,Eingang 0x0107,comlock410_0_7,False,Inactive
+0x0108,264,Eingang 0x0108,comlock410_0_7,False,Inactive
+0x0109,265,Eingang 0x0109,comlock410_0_7,False,Inactive
+0x010A,266,Eingang 0x010A,comlock410_0_7,False,Inactive
+0x010B,267,Eingang 0x010B,comlock410_0_7,False,Inactive
+0x010C,268,Eingang 0x010C,comlock410_0_7,False,Inactive
+0x010D,269,Eingang 0x010D,comlock410_0_7,False,Inactive
+0x010E,270,Eingang 0x010E,comlock410_0_7,False,Inactive
+0x010F,271,Eingang 0x010F,comlock410_0_7,False,Inactive
+0x0110,272,Eingang 0x0110,comlock410_0_7,False,Inactive
+0x0111,273,Eingang 0x0111,comlock410_0_7,False,Inactive
+0x0112,274,Eingang 0x0112,comlock410_0_7,False,Inactive
+0x0113,275,Eingang 0x0113,comlock410_0_7,False,Inactive
+0x0114,276,Eingang 0x0114,comlock410_0_7,False,Inactive
+0x0115,277,Eingang 0x0115,comlock410_0_7,False,Inactive
+0x0116,278,Eingang 0x0116,comlock410_0_7,False,Inactive
+0x0117,279,Eingang 0x0117,comlock410_0_7,False,Inactive
+0x0118,280,Eingang 0x0118,comlock410_0_7,False,Inactive
+0x0119,281,Eingang 0x0119,comlock410_0_7,False,Inactive
+0x011A,282,Eingang 0x011A,comlock410_0_7,False,Inactive
+0x011B,283,Eingang 0x011B,comlock410_0_7,False,Inactive
+0x011C,284,Eingang 0x011C,comlock410_0_7,False,Inactive
+0x011D,285,Eingang 0x011D,comlock410_0_7,False,Inactive
+0x011E,286,Eingang 0x011E,comlock410_0_7,False,Inactive
+0x011F,287,Eingang 0x011F,comlock410_0_7,False,Inactive
+0x0120,288,Eingang 0x0120,comlock410_0_7,False,Inactive
+0x0121,289,Eingang 0x0121,comlock410_0_7,False,Inactive
+0x0122,290,Eingang 0x0122,comlock410_0_7,False,Inactive
+0x0123,291,Eingang 0x0123,comlock410_0_7,False,Inactive
+0x0124,292,Eingang 0x0124,comlock410_0_7,False,Inactive
+0x0125,293,Eingang 0x0125,comlock410_0_7,False,Inactive
+0x0126,294,Eingang 0x0126,comlock410_0_7,False,Inactive
+0x0127,295,Eingang 0x0127,comlock410_0_7,False,Inactive
+0x0128,296,Eingang 0x0128,comlock410_0_7,False,Inactive
+0x0129,297,Eingang 0x0129,comlock410_0_7,False,Inactive
+0x012A,298,Eingang 0x012A,comlock410_0_7,False,Inactive
+0x012B,299,Eingang 0x012B,comlock410_0_7,False,Inactive
+0x012C,300,Eingang 0x012C,comlock410_0_7,False,Inactive
+0x012D,301,Eingang 0x012D,comlock410_0_7,False,Inactive
+0x012E,302,Eingang 0x012E,comlock410_0_7,False,Inactive
+0x012F,303,Eingang 0x012F,comlock410_0_7,False,Inactive
+0x0130,304,Eingang 0x0130,comlock410_0_7,False,Inactive
+0x0131,305,Eingang 0x0131,comlock410_0_7,False,Inactive
+0x0132,306,Eingang 0x0132,comlock410_0_7,False,Inactive
+0x0133,307,Eingang 0x0133,comlock410_0_7,False,Inactive
+0x0134,308,Eingang 0x0134,comlock410_0_7,False,Inactive
+0x0135,309,Eingang 0x0135,comlock410_0_7,False,Inactive
+0x0136,310,Eingang 0x0136,comlock410_0_7,False,Inactive
+0x0137,311,Eingang 0x0137,comlock410_0_7,False,Inactive
+0x0138,312,Eingang 0x0138,comlock410_0_7,False,Inactive
+0x0139,313,Eingang 0x0139,comlock410_0_7,False,Inactive
+0x013A,314,Eingang 0x013A,comlock410_0_7,False,Inactive
+0x013B,315,Eingang 0x013B,comlock410_0_7,False,Inactive
+0x013C,316,Eingang 0x013C,comlock410_0_7,False,Inactive
+0x013D,317,Eingang 0x013D,comlock410_0_7,False,Inactive
+0x013E,318,Eingang 0x013E,comlock410_0_7,False,Inactive
+0x013F,319,Eingang 0x013F,comlock410_0_7,False,Inactive
+0x0140,320,Eingang 0x0140,comlock410_0_7,False,Inactive
+0x0141,321,Eingang 0x0141,comlock410_0_7,False,Inactive
+0x0142,322,Eingang 0x0142,comlock410_0_7,False,Inactive
+0x0143,323,Eingang 0x0143,comlock410_0_7,False,Inactive
+0x0144,324,Eingang 0x0144,comlock410_0_7,False,Inactive
+0x0145,325,Eingang 0x0145,comlock410_0_7,False,Inactive
+0x0146,326,Eingang 0x0146,comlock410_0_7,False,Inactive
+0x0147,327,Eingang 0x0147,comlock410_0_7,False,Inactive
+0x0148,328,Eingang 0x0148,comlock410_0_7,False,Inactive
+0x0149,329,Eingang 0x0149,comlock410_0_7,False,Inactive
+0x014A,330,Eingang 0x014A,comlock410_0_7,False,Inactive
+0x014B,331,Eingang 0x014B,comlock410_0_7,False,Inactive
+0x014C,332,Eingang 0x014C,comlock410_0_7,False,Inactive
+0x014D,333,Eingang 0x014D,comlock410_0_7,False,Inactive
+0x014E,334,Eingang 0x014E,comlock410_0_7,False,Inactive
+0x014F,335,Eingang 0x014F,comlock410_0_7,False,Inactive
+0x0150,336,Eingang 0x0150,comlock410_0_7,False,Inactive
+0x0151,337,Eingang 0x0151,comlock410_0_7,False,Inactive
+0x0152,338,Eingang 0x0152,comlock410_0_7,False,Inactive
+0x0153,339,Eingang 0x0153,comlock410_0_7,False,Inactive
+0x0154,340,Eingang 0x0154,comlock410_0_7,False,Inactive
+0x0155,341,Eingang 0x0155,comlock410_0_7,False,Inactive
+0x0156,342,Eingang 0x0156,comlock410_0_7,False,Inactive
+0x0157,343,Eingang 0x0157,comlock410_0_7,False,Inactive
+0x0158,344,Eingang 0x0158,comlock410_0_7,False,Inactive
+0x0159,345,Eingang 0x0159,comlock410_0_7,False,Inactive
+0x015A,346,Eingang 0x015A,comlock410_0_7,False,Inactive
+0x015B,347,Eingang 0x015B,comlock410_0_7,False,Inactive
+0x015C,348,Eingang 0x015C,comlock410_0_7,False,Inactive
+0x015D,349,Eingang 0x015D,comlock410_0_7,False,Inactive
+0x015E,350,Eingang 0x015E,comlock410_0_7,False,Inactive
+0x015F,351,Eingang 0x015F,comlock410_0_7,False,Inactive
+0x0160,352,Eingang 0x0160,comlock410_0_7,False,Inactive
+0x0161,353,Eingang 0x0161,comlock410_0_7,False,Inactive
+0x0162,354,Eingang 0x0162,comlock410_0_7,False,Inactive
+0x0163,355,Eingang 0x0163,comlock410_0_7,False,Inactive
+0x0164,356,Eingang 0x0164,comlock410_0_7,False,Inactive
+0x0165,357,Eingang 0x0165,comlock410_0_7,False,Inactive
+0x0166,358,Eingang 0x0166,comlock410_0_7,False,Inactive
+0x0167,359,Eingang 0x0167,comlock410_0_7,False,Inactive
+0x0168,360,Eingang 0x0168,comlock410_0_7,False,Inactive
+0x0169,361,Eingang 0x0169,comlock410_0_7,False,Inactive
+0x016A,362,Eingang 0x016A,comlock410_0_7,False,Inactive
+0x016B,363,Eingang 0x016B,comlock410_0_7,False,Inactive
+0x016C,364,Eingang 0x016C,comlock410_0_7,False,Inactive
+0x016D,365,Eingang 0x016D,comlock410_0_7,False,Inactive
+0x016E,366,Eingang 0x016E,comlock410_0_7,False,Inactive
+0x016F,367,Eingang 0x016F,comlock410_0_7,False,Inactive
+0x0170,368,Eingang 0x0170,comslave,False,Inactive
+0x0171,369,Eingang 0x0171,comslave,False,Inactive
+0x0172,370,Eingang 0x0172,comslave,False,Inactive
+0x0173,371,Eingang 0x0173,comslave,False,Inactive
+0x0174,372,Eingang 0x0174,comslave,False,Inactive
+0x0175,373,Eingang 0x0175,comslave,False,Inactive
+0x0176,374,Eingang 0x0176,comslave,False,Inactive
+0x0177,375,Eingang 0x0177,comslave,False,Inactive
+0x0178,376,Eingang 0x0178,comslave,False,Inactive
+0x0179,377,Eingang 0x0179,comslave,False,Inactive
+0x017A,378,Eingang 0x017A,comslave,False,Inactive
+0x017B,379,Eingang 0x017B,comslave,False,Inactive
+0x017C,380,Eingang 0x017C,comslave,False,Inactive
+0x017D,381,Eingang 0x017D,comslave,False,Inactive
+0x017E,382,Eingang 0x017E,comslave,False,Inactive
+0x017F,383,Eingang 0x017F,comslave,False,Inactive
+0x0180,384,Eingang 0x0180,comslave,False,Inactive
+0x0181,385,Eingang 0x0181,comslave,False,Inactive
+0x0182,386,Eingang 0x0182,comslave,False,Inactive
+0x0183,387,Eingang 0x0183,comslave,False,Inactive
+0x0184,388,Eingang 0x0184,comslave,False,Inactive
+0x0185,389,Eingang 0x0185,comslave,False,Inactive
+0x0186,390,Eingang 0x0186,comslave,False,Inactive
+0x0187,391,Eingang 0x0187,comslave,False,Inactive
+0x0188,392,Eingang 0x0188,comslave,False,Inactive
+0x0189,393,Eingang 0x0189,comslave,False,Inactive
+0x018A,394,Eingang 0x018A,comslave,False,Inactive
+0x018B,395,Eingang 0x018B,comslave,False,Inactive
+0x018C,396,Eingang 0x018C,comslave,False,Inactive
+0x018D,397,Eingang 0x018D,comslave,False,Inactive
+0x018E,398,Eingang 0x018E,comslave,False,Inactive
+0x018F,399,Eingang 0x018F,comslave,False,Inactive
+0x0190,400,Eingang 0x0190,comslave,False,Inactive
+0x0191,401,Eingang 0x0191,comslave,False,Inactive
+0x0192,402,Eingang 0x0192,comslave,False,Inactive
+0x0193,403,Eingang 0x0193,comslave,False,Inactive
+0x0194,404,Eingang 0x0194,comslave,False,Inactive
+0x0195,405,Eingang 0x0195,comslave,False,Inactive
+0x0196,406,Eingang 0x0196,comslave,False,Inactive
+0x0197,407,Eingang 0x0197,comslave,False,Inactive
+0x0198,408,Eingang 0x0198,comslave,False,Inactive
+0x0199,409,Eingang 0x0199,comslave,False,Inactive
+0x019A,410,Eingang 0x019A,comslave,False,Inactive
+0x019B,411,Eingang 0x019B,comslave,False,Inactive
+0x019C,412,Eingang 0x019C,comslave,False,Inactive
+0x019D,413,Eingang 0x019D,comslave,False,Inactive
+0x019E,414,Eingang 0x019E,comslave,False,Inactive
+0x019F,415,Eingang 0x019F,comslave,False,Inactive
+0x01A0,416,Eingang 0x01A0,comslave,False,Inactive
+0x01A1,417,Eingang 0x01A1,comslave,False,Inactive
+0x01A2,418,Eingang 0x01A2,comslave,False,Inactive
+0x01A3,419,Eingang 0x01A3,comslave,False,Inactive
+0x01A4,420,Eingang 0x01A4,comslave,False,Inactive
+0x01A5,421,Eingang 0x01A5,comslave,False,Inactive
+0x01A6,422,Eingang 0x01A6,comslave,False,Inactive
+0x01A7,423,Eingang 0x01A7,comslave,False,Inactive
+0x01A8,424,Eingang 0x01A8,comslave,False,Inactive
+0x01A9,425,Eingang 0x01A9,comslave,False,Inactive
+0x01AA,426,Eingang 0x01AA,comslave,False,Inactive
+0x01AB,427,Eingang 0x01AB,comslave,False,Inactive
+0x01AC,428,Eingang 0x01AC,comslave,False,Inactive
+0x01AD,429,Eingang 0x01AD,comslave,False,Inactive
+0x01AE,430,Eingang 0x01AE,comslave,False,Inactive
+0x01AF,431,Eingang 0x01AF,comslave,False,Inactive
+0x01B0,432,Eingang 0x01B0,comslave,False,Inactive
+0x01B1,433,Eingang 0x01B1,comslave,False,Inactive
+0x01B2,434,Eingang 0x01B2,comslave,False,Inactive
+0x01B3,435,Eingang 0x01B3,comslave,False,Inactive
+0x01B4,436,Eingang 0x01B4,comslave,False,Inactive
+0x01B5,437,Eingang 0x01B5,comslave,False,Inactive
+0x01B6,438,Eingang 0x01B6,comslave,False,Inactive
+0x01B7,439,Eingang 0x01B7,comslave,False,Inactive
+0x01B8,440,Eingang 0x01B8,comslave,False,Inactive
+0x01B9,441,Eingang 0x01B9,comslave,False,Inactive
+0x01BA,442,Eingang 0x01BA,comslave,False,Inactive
+0x01BB,443,Eingang 0x01BB,comslave,False,Inactive
+0x01BC,444,Eingang 0x01BC,comslave,False,Inactive
+0x01BD,445,Eingang 0x01BD,comslave,False,Inactive
+0x01BE,446,Eingang 0x01BE,comslave,False,Inactive
+0x01BF,447,Eingang 0x01BF,comslave,False,Inactive
+0x01C0,448,Eingang 0x01C0,comslave,False,Inactive
+0x01C1,449,Eingang 0x01C1,comslave,False,Inactive
+0x01C2,450,Eingang 0x01C2,comslave,False,Inactive
+0x01C3,451,Eingang 0x01C3,comslave,False,Inactive
+0x01C4,452,Eingang 0x01C4,comslave,False,Inactive
+0x01C5,453,Eingang 0x01C5,comslave,False,Inactive
+0x01C6,454,Eingang 0x01C6,comslave,False,Inactive
+0x01C7,455,Eingang 0x01C7,comslave,False,Inactive
+0x01C8,456,Eingang 0x01C8,comslave,False,Inactive
+0x01C9,457,Eingang 0x01C9,comslave,False,Inactive
+0x01CA,458,Eingang 0x01CA,comslave,False,Inactive
+0x01CB,459,Eingang 0x01CB,comslave,False,Inactive
+0x01CC,460,Eingang 0x01CC,comslave,False,Inactive
+0x01CD,461,Eingang 0x01CD,comslave,False,Inactive
+0x01CE,462,Eingang 0x01CE,comslave,False,Inactive
+0x01CF,463,Eingang 0x01CF,comslave,False,Inactive
+0x01D0,464,Eingang 0x01D0,comslave,False,Inactive
+0x01D1,465,Eingang 0x01D1,comslave,False,Inactive
+0x01D2,466,Eingang 0x01D2,comslave,False,Inactive
+0x01D3,467,Eingang 0x01D3,comslave,False,Inactive
+0x01D4,468,Eingang 0x01D4,comslave,False,Inactive
+0x01D5,469,Eingang 0x01D5,comslave,False,Inactive
+0x01D6,470,Eingang 0x01D6,comslave,False,Inactive
+0x01D7,471,Eingang 0x01D7,comslave,False,Inactive
+0x01D8,472,Eingang 0x01D8,comslave,False,Inactive
+0x01D9,473,Eingang 0x01D9,comslave,False,Inactive
+0x01DA,474,Eingang 0x01DA,comslave,False,Inactive
+0x01DB,475,Eingang 0x01DB,comslave,False,Inactive
+0x01DC,476,Eingang 0x01DC,comslave,False,Inactive
+0x01DD,477,Eingang 0x01DD,comslave,False,Inactive
+0x01DE,478,Eingang 0x01DE,comslave,False,Inactive
+0x01DF,479,Eingang 0x01DF,comslave,False,Inactive
+0x01E0,480,Eingang 0x01E0,comslave,False,Inactive
+0x01E1,481,Eingang 0x01E1,comslave,False,Inactive
+0x01E2,482,Eingang 0x01E2,comslave,False,Inactive
+0x01E3,483,Eingang 0x01E3,comslave,False,Inactive
+0x01E4,484,Eingang 0x01E4,comslave,False,Inactive
+0x01E5,485,Eingang 0x01E5,comslave,False,Inactive
+0x01E6,486,Eingang 0x01E6,comslave,False,Inactive
+0x01E7,487,Eingang 0x01E7,comslave,False,Inactive
+0x01E8,488,Eingang 0x01E8,comslave,False,Inactive
+0x01E9,489,Eingang 0x01E9,comslave,False,Inactive
+0x01EA,490,Eingang 0x01EA,comslave,False,Inactive
+0x01EB,491,Eingang 0x01EB,comslave,False,Inactive
+0x01EC,492,Eingang 0x01EC,comslave,False,Inactive
+0x01ED,493,Eingang 0x01ED,comslave,False,Inactive
+0x01EE,494,Eingang 0x01EE,comslave,False,Inactive
+0x01EF,495,Eingang 0x01EF,comslave,False,Inactive
+0x01F0,496,Eingang 0x01F0,comslave,False,Inactive
+0x01F1,497,Eingang 0x01F1,comslave,False,Inactive
+0x01F2,498,Eingang 0x01F2,comslave,False,Inactive
+0x01F3,499,Eingang 0x01F3,comslave,False,Inactive
+0x01F4,500,Eingang 0x01F4,comslave,False,Inactive
+0x01F5,501,Eingang 0x01F5,comslave,False,Inactive
+0x01F6,502,Eingang 0x01F6,comslave,False,Inactive
+0x01F7,503,Eingang 0x01F7,comslave,False,Inactive
+0x01F8,504,Eingang 0x01F8,comslave,False,Inactive
+0x01F9,505,Eingang 0x01F9,comslave,False,Inactive
+0x01FA,506,Eingang 0x01FA,comslave,False,Inactive
+0x01FB,507,Eingang 0x01FB,comslave,False,Inactive
+0x01FC,508,Eingang 0x01FC,comslave,False,Inactive
+0x01FD,509,Eingang 0x01FD,comslave,False,Inactive
+0x01FE,510,Eingang 0x01FE,comslave,False,Inactive
+0x01FF,511,Eingang 0x01FF,comslave,False,Inactive
+0x0200,512,Eingang 0x0200,comslave,False,Inactive
+0x0201,513,Eingang 0x0201,comslave,False,Inactive
+0x0202,514,Eingang 0x0202,comslave,False,Inactive
+0x0203,515,Eingang 0x0203,comslave,False,Inactive
+0x0204,516,Eingang 0x0204,comslave,False,Inactive
+0x0205,517,Eingang 0x0205,comslave,False,Inactive
+0x0206,518,Eingang 0x0206,comslave,False,Inactive
+0x0207,519,Eingang 0x0207,comslave,False,Inactive
+0x0208,520,Eingang 0x0208,comslave,False,Inactive
+0x0209,521,Eingang 0x0209,comslave,False,Inactive
+0x020A,522,Eingang 0x020A,comslave,False,Inactive
+0x020B,523,Eingang 0x020B,comslave,False,Inactive
+0x020C,524,Eingang 0x020C,comslave,False,Inactive
+0x020D,525,Eingang 0x020D,comslave,False,Inactive
+0x020E,526,Eingang 0x020E,comslave,False,Inactive
+0x020F,527,Eingang 0x020F,comslave,False,Inactive
+0x0210,528,Eingang 0x0210,comslave,False,Inactive
+0x0211,529,Eingang 0x0211,comslave,False,Inactive
+0x0212,530,Eingang 0x0212,comslave,False,Inactive
+0x0213,531,Eingang 0x0213,comslave,False,Inactive
+0x0214,532,Eingang 0x0214,comslave,False,Inactive
+0x0215,533,Eingang 0x0215,comslave,False,Inactive
+0x0216,534,Eingang 0x0216,comslave,False,Inactive
+0x0217,535,Eingang 0x0217,comslave,False,Inactive
+0x0218,536,Eingang 0x0218,comslave,False,Inactive
+0x0219,537,Eingang 0x0219,comslave,False,Inactive
+0x021A,538,Eingang 0x021A,comslave,False,Inactive
+0x021B,539,Eingang 0x021B,comslave,False,Inactive
+0x021C,540,Eingang 0x021C,comslave,False,Inactive
+0x021D,541,Eingang 0x021D,comslave,False,Inactive
+0x021E,542,Eingang 0x021E,comslave,False,Inactive
+0x021F,543,Eingang 0x021F,comslave,False,Inactive
+0x0220,544,Eingang 0x0220,comslave,False,Inactive
+0x0221,545,Eingang 0x0221,comslave,False,Inactive
+0x0222,546,Eingang 0x0222,comslave,False,Inactive
+0x0223,547,Eingang 0x0223,comslave,False,Inactive
+0x0224,548,Eingang 0x0224,comslave,False,Inactive
+0x0225,549,Eingang 0x0225,comslave,False,Inactive
+0x0226,550,Eingang 0x0226,comslave,False,Inactive
+0x0227,551,Eingang 0x0227,comslave,False,Inactive
+0x0228,552,Eingang 0x0228,comslave,False,Inactive
+0x0229,553,Eingang 0x0229,comslave,False,Inactive
+0x022A,554,Eingang 0x022A,comslave,False,Inactive
+0x022B,555,Eingang 0x022B,comslave,False,Inactive
+0x022C,556,Eingang 0x022C,comslave,False,Inactive
+0x022D,557,Eingang 0x022D,comslave,False,Inactive
+0x022E,558,Eingang 0x022E,comslave,False,Inactive
+0x022F,559,Eingang 0x022F,comslave,False,Inactive
+0x0230,560,Eingang 0x0230,comslave,False,Inactive
+0x0231,561,Eingang 0x0231,comslave,False,Inactive
+0x0232,562,Eingang 0x0232,comslave,False,Inactive
+0x0233,563,Eingang 0x0233,comslave,False,Inactive
+0x0234,564,Eingang 0x0234,comslave,False,Inactive
+0x0235,565,Eingang 0x0235,comslave,False,Inactive
+0x0236,566,Eingang 0x0236,comslave,False,Inactive
+0x0237,567,Eingang 0x0237,comslave,False,Inactive
+0x0238,568,Eingang 0x0238,comslave,False,Inactive
+0x0239,569,Eingang 0x0239,comslave,False,Inactive
+0x023A,570,Eingang 0x023A,comslave,False,Inactive
+0x023B,571,Eingang 0x023B,comslave,False,Inactive
+0x023C,572,Eingang 0x023C,comslave,False,Inactive
+0x023D,573,Eingang 0x023D,comslave,False,Inactive
+0x023E,574,Eingang 0x023E,comslave,False,Inactive
+0x023F,575,Eingang 0x023F,comslave,False,Inactive
+0x0240,576,Eingang 0x0240,comslave,False,Inactive
+0x0241,577,Eingang 0x0241,comslave,False,Inactive
+0x0242,578,Eingang 0x0242,comslave,False,Inactive
+0x0243,579,Eingang 0x0243,comslave,False,Inactive
+0x0244,580,Eingang 0x0244,comslave,False,Inactive
+0x0245,581,Eingang 0x0245,comslave,False,Inactive
+0x0246,582,Eingang 0x0246,comslave,False,Inactive
+0x0247,583,Eingang 0x0247,comslave,False,Inactive
+0x0248,584,Eingang 0x0248,comslave,False,Inactive
+0x0249,585,Eingang 0x0249,comslave,False,Inactive
+0x024A,586,Eingang 0x024A,comslave,False,Inactive
+0x024B,587,Eingang 0x024B,comslave,False,Inactive
+0x024C,588,Eingang 0x024C,comslave,False,Inactive
+0x024D,589,Eingang 0x024D,comslave,False,Inactive
+0x024E,590,Eingang 0x024E,comslave,False,Inactive
+0x024F,591,Eingang 0x024F,comslave,False,Inactive
+0x0250,592,Eingang 0x0250,comslave,False,Inactive
+0x0251,593,Eingang 0x0251,comslave,False,Inactive
+0x0252,594,Eingang 0x0252,comslave,False,Inactive
+0x0253,595,Eingang 0x0253,comslave,False,Inactive
+0x0254,596,Eingang 0x0254,comslave,False,Inactive
+0x0255,597,Eingang 0x0255,comslave,False,Inactive
+0x0256,598,Eingang 0x0256,comslave,False,Inactive
+0x0257,599,Eingang 0x0257,comslave,False,Inactive
+0x0258,600,Eingang 0x0258,comslave,False,Inactive
+0x0259,601,Eingang 0x0259,comslave,False,Inactive
+0x025A,602,Eingang 0x025A,comslave,False,Inactive
+0x025B,603,Eingang 0x025B,comslave,False,Inactive
+0x025C,604,Eingang 0x025C,comslave,False,Inactive
+0x025D,605,Eingang 0x025D,comslave,False,Inactive
+0x025E,606,Eingang 0x025E,comslave,False,Inactive
+0x025F,607,Eingang 0x025F,comslave,False,Inactive
+0x0260,608,Eingang 0x0260,comslave,False,Inactive
+0x0261,609,Eingang 0x0261,comslave,False,Inactive
+0x0262,610,Eingang 0x0262,comslave,False,Inactive
+0x0263,611,Eingang 0x0263,comslave,False,Inactive
+0x0264,612,Eingang 0x0264,comslave,False,Inactive
+0x0265,613,Eingang 0x0265,comslave,False,Inactive
+0x0266,614,Eingang 0x0266,comslave,False,Inactive
+0x0267,615,Eingang 0x0267,comslave,False,Inactive
+0x0268,616,Eingang 0x0268,comslave,False,Inactive
+0x0269,617,Eingang 0x0269,comslave,False,Inactive
+0x026A,618,Eingang 0x026A,comslave,False,Inactive
+0x026B,619,Eingang 0x026B,comslave,False,Inactive
+0x026C,620,Eingang 0x026C,comslave,False,Inactive
+0x026D,621,Eingang 0x026D,comslave,False,Inactive
+0x026E,622,Eingang 0x026E,comslave,False,Inactive
+0x026F,623,Eingang 0x026F,comslave,False,Inactive
+0x0270,624,Eingang 0x0270,comslave,False,Inactive
+0x0271,625,Eingang 0x0271,comslave,False,Inactive
+0x0272,626,Eingang 0x0272,comslave,False,Inactive
+0x0273,627,Eingang 0x0273,comslave,False,Inactive
+0x0274,628,Eingang 0x0274,comslave,False,Inactive
+0x0275,629,Eingang 0x0275,comslave,False,Inactive
+0x0276,630,Eingang 0x0276,comslave,False,Inactive
+0x0277,631,Eingang 0x0277,comslave,False,Inactive
+0x0278,632,Eingang 0x0278,comslave,False,Inactive
+0x0279,633,Eingang 0x0279,comslave,False,Inactive
+0x027A,634,Eingang 0x027A,comslave,False,Inactive
+0x027B,635,Eingang 0x027B,comslave,False,Inactive
+0x027C,636,Eingang 0x027C,comslave,False,Inactive
+0x027D,637,Eingang 0x027D,comslave,False,Inactive
+0x027E,638,Eingang 0x027E,comslave,False,Inactive
+0x027F,639,Eingang 0x027F,comslave,False,Inactive
+0x0280,640,Eingang 0x0280,comslave,False,Inactive
+0x0281,641,Eingang 0x0281,comslave,False,Inactive
+0x0282,642,Eingang 0x0282,comslave,False,Inactive
+0x0283,643,Eingang 0x0283,comslave,False,Inactive
+0x0284,644,Eingang 0x0284,comslave,False,Inactive
+0x0285,645,Eingang 0x0285,comslave,False,Inactive
+0x0286,646,Eingang 0x0286,comslave,False,Inactive
+0x0287,647,Eingang 0x0287,comslave,False,Inactive
+0x0288,648,Eingang 0x0288,comslave,False,Inactive
+0x0289,649,Eingang 0x0289,comslave,False,Inactive
+0x028A,650,Eingang 0x028A,comslave,False,Inactive
+0x028B,651,Eingang 0x028B,comslave,False,Inactive
+0x028C,652,Eingang 0x028C,comslave,False,Inactive
+0x028D,653,Eingang 0x028D,comslave,False,Inactive
+0x028E,654,Eingang 0x028E,comslave,False,Inactive
+0x028F,655,Eingang 0x028F,comslave,False,Inactive
+0x0290,656,Eingang 0x0290,comslave,False,Inactive
+0x0291,657,Eingang 0x0291,comslave,False,Inactive
+0x0292,658,Eingang 0x0292,comslave,False,Inactive
+0x0293,659,Eingang 0x0293,comslave,False,Inactive
+0x0294,660,Eingang 0x0294,comslave,False,Inactive
+0x0295,661,Eingang 0x0295,comslave,False,Inactive
+0x0296,662,Eingang 0x0296,comslave,False,Inactive
+0x0297,663,Eingang 0x0297,comslave,False,Inactive
+0x0298,664,Eingang 0x0298,comslave,False,Inactive
+0x0299,665,Eingang 0x0299,comslave,False,Inactive
+0x029A,666,Eingang 0x029A,comslave,False,Inactive
+0x029B,667,Eingang 0x029B,comslave,False,Inactive
+0x029C,668,Eingang 0x029C,comslave,False,Inactive
+0x029D,669,Eingang 0x029D,comslave,False,Inactive
+0x029E,670,Eingang 0x029E,comslave,False,Inactive
+0x029F,671,Eingang 0x029F,comslave,False,Inactive
+0x02A0,672,Eingang 0x02A0,comslave,False,Inactive
+0x02A1,673,Eingang 0x02A1,comslave,False,Inactive
+0x02A2,674,Eingang 0x02A2,comslave,False,Inactive
+0x02A3,675,Eingang 0x02A3,comslave,False,Inactive
+0x02A4,676,Eingang 0x02A4,comslave,False,Inactive
+0x02A5,677,Eingang 0x02A5,comslave,False,Inactive
+0x02A6,678,Eingang 0x02A6,comslave,False,Inactive
+0x02A7,679,Eingang 0x02A7,comslave,False,Inactive
+0x02A8,680,Eingang 0x02A8,comslave,False,Inactive
+0x02A9,681,Eingang 0x02A9,comslave,False,Inactive
+0x02AA,682,Eingang 0x02AA,comslave,False,Inactive
+0x02AB,683,Eingang 0x02AB,comslave,False,Inactive
+0x02AC,684,Eingang 0x02AC,comslave,False,Inactive
+0x02AD,685,Eingang 0x02AD,comslave,False,Inactive
+0x02AE,686,Eingang 0x02AE,comslave,False,Inactive
+0x02AF,687,Eingang 0x02AF,comslave,False,Inactive
+0x02B0,688,Eingang 0x02B0,comslave,False,Inactive
+0x02B1,689,Eingang 0x02B1,comslave,False,Inactive
+0x02B2,690,Eingang 0x02B2,comslave,False,Inactive
+0x02B3,691,Eingang 0x02B3,comslave,False,Inactive
+0x02B4,692,Eingang 0x02B4,comslave,False,Inactive
+0x02B5,693,Eingang 0x02B5,comslave,False,Inactive
+0x02B6,694,Eingang 0x02B6,comslave,False,Inactive
+0x02B7,695,Eingang 0x02B7,comslave,False,Inactive
+0x02B8,696,Eingang 0x02B8,comslave,False,Inactive
+0x02B9,697,Eingang 0x02B9,comslave,False,Inactive
+0x02BA,698,Eingang 0x02BA,comslave,False,Inactive
+0x02BB,699,Eingang 0x02BB,comslave,False,Inactive
+0x02BC,700,Eingang 0x02BC,comslave,False,Inactive
+0x02BD,701,Eingang 0x02BD,comslave,False,Inactive
+0x02BE,702,Eingang 0x02BE,comslave,False,Inactive
+0x02BF,703,Eingang 0x02BF,comslave,False,Inactive
+0x02C0,704,Eingang 0x02C0,comslave,False,Inactive
+0x02C1,705,Eingang 0x02C1,comslave,False,Inactive
+0x02C2,706,Eingang 0x02C2,comslave,False,Inactive
+0x02C3,707,Eingang 0x02C3,comslave,False,Inactive
+0x02C4,708,Eingang 0x02C4,comslave,False,Inactive
+0x02C5,709,Eingang 0x02C5,comslave,False,Inactive
+0x02C6,710,Eingang 0x02C6,comslave,False,Inactive
+0x02C7,711,Eingang 0x02C7,comslave,False,Inactive
+0x02C8,712,Eingang 0x02C8,comslave,False,Inactive
+0x02C9,713,Eingang 0x02C9,comslave,False,Inactive
+0x02CA,714,Eingang 0x02CA,comslave,False,Inactive
+0x02CB,715,Eingang 0x02CB,comslave,False,Inactive
+0x02CC,716,Eingang 0x02CC,comslave,False,Inactive
+0x02CD,717,Eingang 0x02CD,comslave,False,Inactive
+0x02CE,718,Eingang 0x02CE,comslave,False,Inactive
+0x02CF,719,Eingang 0x02CF,comslave,False,Inactive
+0x02D0,720,Eingang 0x02D0,comslave,False,Inactive
+0x02D1,721,Eingang 0x02D1,comslave,False,Inactive
+0x02D2,722,Eingang 0x02D2,comslave,False,Inactive
+0x02D3,723,Eingang 0x02D3,comslave,False,Inactive
+0x02D4,724,Eingang 0x02D4,comslave,False,Inactive
+0x02D5,725,Eingang 0x02D5,comslave,False,Inactive
+0x02D6,726,Eingang 0x02D6,comslave,False,Inactive
+0x02D7,727,Eingang 0x02D7,comslave,False,Inactive
+0x02D8,728,Eingang 0x02D8,comslave,False,Inactive
+0x02D9,729,Eingang 0x02D9,comslave,False,Inactive
+0x02DA,730,Eingang 0x02DA,comslave,False,Inactive
+0x02DB,731,Eingang 0x02DB,comslave,False,Inactive
+0x02DC,732,Eingang 0x02DC,comslave,False,Inactive
+0x02DD,733,Eingang 0x02DD,comslave,False,Inactive
+0x02DE,734,Eingang 0x02DE,comslave,False,Inactive
+0x02DF,735,Eingang 0x02DF,comslave,False,Inactive
+0x02E0,736,Eingang 0x02E0,comslave,False,Inactive
+0x02E1,737,Eingang 0x02E1,comslave,False,Inactive
+0x02E2,738,Eingang 0x02E2,comslave,False,Inactive
+0x02E3,739,Eingang 0x02E3,comslave,False,Inactive
+0x02E4,740,Eingang 0x02E4,comslave,False,Inactive
+0x02E5,741,Eingang 0x02E5,comslave,False,Inactive
+0x02E6,742,Eingang 0x02E6,comslave,False,Inactive
+0x02E7,743,Eingang 0x02E7,comslave,False,Inactive
+0x02E8,744,Eingang 0x02E8,comslave,False,Inactive
+0x02E9,745,Eingang 0x02E9,comslave,False,Inactive
+0x02EA,746,Eingang 0x02EA,comslave,False,Inactive
+0x02EB,747,Eingang 0x02EB,comslave,False,Inactive
+0x02EC,748,Eingang 0x02EC,comslave,False,Inactive
+0x02ED,749,Eingang 0x02ED,comslave,False,Inactive
+0x02EE,750,Eingang 0x02EE,comslave,False,Inactive
+0x02EF,751,Eingang 0x02EF,comslave,False,Inactive
+0x02F0,752,Eingang 0x02F0,comslave,False,Inactive
+0x02F1,753,Eingang 0x02F1,comslave,False,Inactive
+0x02F2,754,Eingang 0x02F2,comslave,False,Inactive
+0x02F3,755,Eingang 0x02F3,comslave,False,Inactive
+0x02F4,756,Eingang 0x02F4,comslave,False,Inactive
+0x02F5,757,Eingang 0x02F5,comslave,False,Inactive
+0x02F6,758,Eingang 0x02F6,comslave,False,Inactive
+0x02F7,759,Eingang 0x02F7,comslave,False,Inactive
+0x02F8,760,Eingang 0x02F8,comslave,False,Inactive
+0x02F9,761,Eingang 0x02F9,comslave,False,Inactive
+0x02FA,762,Eingang 0x02FA,comslave,False,Inactive
+0x02FB,763,Eingang 0x02FB,comslave,False,Inactive
+0x02FC,764,Eingang 0x02FC,comslave,False,Inactive
+0x02FD,765,Eingang 0x02FD,comslave,False,Inactive
+0x02FE,766,Eingang 0x02FE,comslave,False,Inactive
+0x02FF,767,Eingang 0x02FF,comslave,False,Inactive
+0x0300,768,Eingang 0x0300,comslave,False,Inactive
+0x0301,769,Eingang 0x0301,comslave,False,Inactive
+0x0302,770,Eingang 0x0302,comslave,False,Inactive
+0x0303,771,Eingang 0x0303,comslave,False,Inactive
+0x0304,772,Eingang 0x0304,comslave,False,Inactive
+0x0305,773,Eingang 0x0305,comslave,False,Inactive
+0x0306,774,Eingang 0x0306,comslave,False,Inactive
+0x0307,775,Eingang 0x0307,comslave,False,Inactive
+0x0308,776,Eingang 0x0308,comslave,False,Inactive
+0x0309,777,Eingang 0x0309,comslave,False,Inactive
+0x030A,778,Eingang 0x030A,comslave,False,Inactive
+0x030B,779,Eingang 0x030B,comslave,False,Inactive
+0x030C,780,Eingang 0x030C,comslave,False,Inactive
+0x030D,781,Eingang 0x030D,comslave,False,Inactive
+0x030E,782,Eingang 0x030E,comslave,False,Inactive
+0x030F,783,Eingang 0x030F,comslave,False,Inactive
+0x0310,784,Eingang 0x0310,comslave,False,Inactive
+0x0311,785,Eingang 0x0311,comslave,False,Inactive
+0x0312,786,Eingang 0x0312,comslave,False,Inactive
+0x0313,787,Eingang 0x0313,comslave,False,Inactive
+0x0314,788,Eingang 0x0314,comslave,False,Inactive
+0x0315,789,Eingang 0x0315,comslave,False,Inactive
+0x0316,790,Eingang 0x0316,comslave,False,Inactive
+0x0317,791,Eingang 0x0317,comslave,False,Inactive
+0x0318,792,Eingang 0x0318,comslave,False,Inactive
+0x0319,793,Eingang 0x0319,comslave,False,Inactive
+0x031A,794,Eingang 0x031A,comslave,False,Inactive
+0x031B,795,Eingang 0x031B,comslave,False,Inactive
+0x031C,796,Eingang 0x031C,comslave,False,Inactive
+0x031D,797,Eingang 0x031D,comslave,False,Inactive
+0x031E,798,Eingang 0x031E,comslave,False,Inactive
+0x031F,799,Eingang 0x031F,comslave,False,Inactive
+0x0320,800,Eingang 0x0320,comslave,False,Inactive
+0x0321,801,Eingang 0x0321,comslave,False,Inactive
+0x0322,802,Eingang 0x0322,comslave,False,Inactive
+0x0323,803,Eingang 0x0323,comslave,False,Inactive
+0x0324,804,Eingang 0x0324,comslave,False,Inactive
+0x0325,805,Eingang 0x0325,comslave,False,Inactive
+0x0326,806,Eingang 0x0326,comslave,False,Inactive
+0x0327,807,Eingang 0x0327,comslave,False,Inactive
+0x0328,808,Eingang 0x0328,comslave,False,Inactive
+0x0329,809,Eingang 0x0329,comslave,False,Inactive
+0x032A,810,Eingang 0x032A,comslave,False,Inactive
+0x032B,811,Eingang 0x032B,comslave,False,Inactive
+0x032C,812,Eingang 0x032C,comslave,False,Inactive
+0x032D,813,Eingang 0x032D,comslave,False,Inactive
+0x032E,814,Eingang 0x032E,comslave,False,Inactive
+0x032F,815,Eingang 0x032F,comslave,False,Inactive
+0x0330,816,Eingang 0x0330,comslave,False,Inactive
+0x0331,817,Eingang 0x0331,comslave,False,Inactive
+0x0332,818,Eingang 0x0332,comslave,False,Inactive
+0x0333,819,Eingang 0x0333,comslave,False,Inactive
+0x0334,820,Eingang 0x0334,comslave,False,Inactive
+0x0335,821,Eingang 0x0335,comslave,False,Inactive
+0x0336,822,Eingang 0x0336,comslave,False,Inactive
+0x0337,823,Eingang 0x0337,comslave,False,Inactive
+0x0338,824,Eingang 0x0338,comslave,False,Inactive
+0x0339,825,Eingang 0x0339,comslave,False,Inactive
+0x033A,826,Eingang 0x033A,comslave,False,Inactive
+0x033B,827,Eingang 0x033B,comslave,False,Inactive
+0x033C,828,Eingang 0x033C,comslave,False,Inactive
+0x033D,829,Eingang 0x033D,comslave,False,Inactive
+0x033E,830,Eingang 0x033E,comslave,False,Inactive
+0x033F,831,Eingang 0x033F,comslave,False,Inactive
+0x0340,832,Eingang 0x0340,comslave,False,Inactive
+0x0341,833,Eingang 0x0341,comslave,False,Inactive
+0x0342,834,Eingang 0x0342,comslave,False,Inactive
+0x0343,835,Eingang 0x0343,comslave,False,Inactive
+0x0344,836,Eingang 0x0344,comslave,False,Inactive
+0x0345,837,Eingang 0x0345,comslave,False,Inactive
+0x0346,838,Eingang 0x0346,comslave,False,Inactive
+0x0347,839,Eingang 0x0347,comslave,False,Inactive
+0x0348,840,Eingang 0x0348,comslave,False,Inactive
+0x0349,841,Eingang 0x0349,comslave,False,Inactive
+0x034A,842,Eingang 0x034A,comslave,False,Inactive
+0x034B,843,Eingang 0x034B,comslave,False,Inactive
+0x034C,844,Eingang 0x034C,comslave,False,Inactive
+0x034D,845,Eingang 0x034D,comslave,False,Inactive
+0x034E,846,Eingang 0x034E,comslave,False,Inactive
+0x034F,847,Eingang 0x034F,comslave,False,Inactive
+0x0350,848,Eingang 0x0350,comslave,False,Inactive
+0x0351,849,Eingang 0x0351,comslave,False,Inactive
+0x0352,850,Eingang 0x0352,comslave,False,Inactive
+0x0353,851,Eingang 0x0353,comslave,False,Inactive
+0x0354,852,Eingang 0x0354,comslave,False,Inactive
+0x0355,853,Eingang 0x0355,comslave,False,Inactive
+0x0356,854,Eingang 0x0356,comslave,False,Inactive
+0x0357,855,Eingang 0x0357,comslave,False,Inactive
+0x0358,856,Eingang 0x0358,comslave,False,Inactive
+0x0359,857,Eingang 0x0359,comslave,False,Inactive
+0x035A,858,Eingang 0x035A,comslave,False,Inactive
+0x035B,859,Eingang 0x035B,comslave,False,Inactive
+0x035C,860,Eingang 0x035C,comslave,False,Inactive
+0x035D,861,Eingang 0x035D,comslave,False,Inactive
+0x035E,862,Eingang 0x035E,comslave,False,Inactive
+0x035F,863,Eingang 0x035F,comslave,False,Inactive
+0x0360,864,Eingang 0x0360,comslave,False,Inactive
+0x0361,865,Eingang 0x0361,comslave,False,Inactive
+0x0362,866,Eingang 0x0362,comslave,False,Inactive
+0x0363,867,Eingang 0x0363,comslave,False,Inactive
+0x0364,868,Eingang 0x0364,comslave,False,Inactive
+0x0365,869,Eingang 0x0365,comslave,False,Inactive
+0x0366,870,Eingang 0x0366,comslave,False,Inactive
+0x0367,871,Eingang 0x0367,comslave,False,Inactive
+0x0368,872,Eingang 0x0368,comslave,False,Inactive
+0x0369,873,Eingang 0x0369,comslave,False,Inactive
+0x036A,874,Eingang 0x036A,comslave,False,Inactive
+0x036B,875,Eingang 0x036B,comslave,False,Inactive
+0x036C,876,Eingang 0x036C,comslave,False,Inactive
+0x036D,877,Eingang 0x036D,comslave,False,Inactive
+0x036E,878,Eingang 0x036E,comslave,False,Inactive
+0x036F,879,Eingang 0x036F,comslave,False,Inactive
+0x0370,880,Eingang 0x0370,comslave,False,Inactive
+0x0371,881,Eingang 0x0371,comslave,False,Inactive
+0x0372,882,Eingang 0x0372,comslave,False,Inactive
+0x0373,883,Eingang 0x0373,comslave,False,Inactive
+0x0374,884,Eingang 0x0374,comslave,False,Inactive
+0x0375,885,Eingang 0x0375,comslave,False,Inactive
+0x0376,886,Eingang 0x0376,comslave,False,Inactive
+0x0377,887,Eingang 0x0377,comslave,False,Inactive
+0x0378,888,Eingang 0x0378,comslave,False,Inactive
+0x0379,889,Eingang 0x0379,comslave,False,Inactive
+0x037A,890,Eingang 0x037A,comslave,False,Inactive
+0x037B,891,Eingang 0x037B,comslave,False,Inactive
+0x037C,892,Eingang 0x037C,comslave,False,Inactive
+0x037D,893,Eingang 0x037D,comslave,False,Inactive
+0x037E,894,Eingang 0x037E,comslave,False,Inactive
+0x037F,895,Eingang 0x037F,comslave,False,Inactive
+0x0380,896,Eingang 0x0380,unknown,False,Inactive
+0x0381,897,Eingang 0x0381,unknown,False,Inactive
+0x0382,898,Eingang 0x0382,unknown,False,Inactive
+0x0383,899,Eingang 0x0383,unknown,False,Inactive
+0x0384,900,Eingang 0x0384,unknown,False,Inactive
+0x0385,901,Eingang 0x0385,unknown,False,Inactive
+0x0386,902,Eingang 0x0386,unknown,False,Inactive
+0x0387,903,Eingang 0x0387,unknown,False,Inactive
+0x0388,904,Eingang 0x0388,unknown,False,Inactive
+0x0389,905,Eingang 0x0389,unknown,False,Inactive
+0x038A,906,Eingang 0x038A,unknown,False,Inactive
+0x038B,907,Eingang 0x038B,unknown,False,Inactive
+0x038C,908,Eingang 0x038C,unknown,False,Inactive
+0x038D,909,Eingang 0x038D,unknown,False,Inactive
+0x038E,910,Eingang 0x038E,unknown,False,Inactive
+0x038F,911,Eingang 0x038F,unknown,False,Inactive
+0x0390,912,Eingang 0x0390,unknown,False,Inactive
+0x0391,913,Eingang 0x0391,unknown,False,Inactive
+0x0392,914,Eingang 0x0392,unknown,False,Inactive
+0x0393,915,Eingang 0x0393,unknown,False,Inactive
+0x0394,916,Eingang 0x0394,unknown,False,Inactive
+0x0395,917,Eingang 0x0395,unknown,False,Inactive
+0x0396,918,Eingang 0x0396,unknown,False,Inactive
+0x0397,919,Eingang 0x0397,unknown,False,Inactive
+0x0398,920,Eingang 0x0398,comlock410_8_15,False,Inactive
+0x0399,921,Eingang 0x0399,comlock410_8_15,False,Inactive
+0x039A,922,Eingang 0x039A,comlock410_8_15,False,Inactive
+0x039B,923,Eingang 0x039B,comlock410_8_15,False,Inactive
+0x039C,924,Eingang 0x039C,comlock410_8_15,False,Inactive
+0x039D,925,Eingang 0x039D,comlock410_8_15,False,Inactive
+0x039E,926,Eingang 0x039E,comlock410_8_15,False,Inactive
+0x039F,927,Eingang 0x039F,comlock410_8_15,False,Inactive
+0x03A0,928,Eingang 0x03A0,comlock410_8_15,False,Inactive
+0x03A1,929,Eingang 0x03A1,comlock410_8_15,False,Inactive
+0x03A2,930,Eingang 0x03A2,comlock410_8_15,False,Inactive
+0x03A3,931,Eingang 0x03A3,comlock410_8_15,False,Inactive
+0x03A4,932,Eingang 0x03A4,comlock410_8_15,False,Inactive
+0x03A5,933,Eingang 0x03A5,comlock410_8_15,False,Inactive
+0x03A6,934,Eingang 0x03A6,comlock410_8_15,False,Inactive
+0x03A7,935,Eingang 0x03A7,comlock410_8_15,False,Inactive
+0x03A8,936,Eingang 0x03A8,comlock410_8_15,False,Inactive
+0x03A9,937,Eingang 0x03A9,comlock410_8_15,False,Inactive
+0x03AA,938,Eingang 0x03AA,comlock410_8_15,False,Inactive
+0x03AB,939,Eingang 0x03AB,comlock410_8_15,False,Inactive
+0x03AC,940,Eingang 0x03AC,comlock410_8_15,False,Inactive
+0x03AD,941,Eingang 0x03AD,comlock410_8_15,False,Inactive
+0x03AE,942,Eingang 0x03AE,comlock410_8_15,False,Inactive
+0x03AF,943,Eingang 0x03AF,comlock410_8_15,False,Inactive
+0x03B0,944,Eingang 0x03B0,comlock410_8_15,False,Inactive
+0x03B1,945,Eingang 0x03B1,comlock410_8_15,False,Inactive
+0x03B2,946,Eingang 0x03B2,comlock410_8_15,False,Inactive
+0x03B3,947,Eingang 0x03B3,comlock410_8_15,False,Inactive
+0x03B4,948,Eingang 0x03B4,comlock410_8_15,False,Inactive
+0x03B5,949,Eingang 0x03B5,comlock410_8_15,False,Inactive
+0x03B6,950,Eingang 0x03B6,comlock410_8_15,False,Inactive
+0x03B7,951,Eingang 0x03B7,comlock410_8_15,False,Inactive
+0x03B8,952,Eingang 0x03B8,comlock410_8_15,False,Inactive
+0x03B9,953,Eingang 0x03B9,comlock410_8_15,False,Inactive
+0x03BA,954,Eingang 0x03BA,comlock410_8_15,False,Inactive
+0x03BB,955,Eingang 0x03BB,comlock410_8_15,False,Inactive
+0x03BC,956,Eingang 0x03BC,comlock410_8_15,False,Inactive
+0x03BD,957,Eingang 0x03BD,comlock410_8_15,False,Inactive
+0x03BE,958,Eingang 0x03BE,comlock410_8_15,False,Inactive
+0x03BF,959,Eingang 0x03BF,comlock410_8_15,False,Inactive
+0x03C0,960,Eingang 0x03C0,comlock410_8_15,False,Inactive
+0x03C1,961,Eingang 0x03C1,comlock410_8_15,False,Inactive
+0x03C2,962,Eingang 0x03C2,comlock410_8_15,False,Inactive
+0x03C3,963,Eingang 0x03C3,comlock410_8_15,False,Inactive
+0x03C4,964,Eingang 0x03C4,comlock410_8_15,False,Inactive
+0x03C5,965,Eingang 0x03C5,comlock410_8_15,False,Inactive
+0x03C6,966,Eingang 0x03C6,comlock410_8_15,False,Inactive
+0x03C7,967,Eingang 0x03C7,comlock410_8_15,False,Inactive
+0x03C8,968,Eingang 0x03C8,comlock410_8_15,False,Inactive
+0x03C9,969,Eingang 0x03C9,comlock410_8_15,False,Inactive
+0x03CA,970,Eingang 0x03CA,comlock410_8_15,False,Inactive
+0x03CB,971,Eingang 0x03CB,comlock410_8_15,False,Inactive
+0x03CC,972,Eingang 0x03CC,comlock410_8_15,False,Inactive
+0x03CD,973,Eingang 0x03CD,comlock410_8_15,False,Inactive
+0x03CE,974,Eingang 0x03CE,comlock410_8_15,False,Inactive
+0x03CF,975,Eingang 0x03CF,comlock410_8_15,False,Inactive
+0x03D0,976,Eingang 0x03D0,comlock410_8_15,False,Inactive
+0x03D1,977,Eingang 0x03D1,comlock410_8_15,False,Inactive
+0x03D2,978,Eingang 0x03D2,comlock410_8_15,False,Inactive
+0x03D3,979,Eingang 0x03D3,comlock410_8_15,False,Inactive
+0x03D4,980,Eingang 0x03D4,comlock410_8_15,False,Inactive
+0x03D5,981,Eingang 0x03D5,comlock410_8_15,False,Inactive
+0x03D6,982,Eingang 0x03D6,comlock410_8_15,False,Inactive
+0x03D7,983,Eingang 0x03D7,comlock410_8_15,False,Inactive
+0x03D8,984,Eingang 0x03D8,comlock410_8_15,False,Inactive
+0x03D9,985,Eingang 0x03D9,comlock410_8_15,False,Inactive
+0x03DA,986,Eingang 0x03DA,comlock410_8_15,False,Inactive
+0x03DB,987,Eingang 0x03DB,comlock410_8_15,False,Inactive
+0x03DC,988,Eingang 0x03DC,comlock410_8_15,False,Inactive
+0x03DD,989,Eingang 0x03DD,comlock410_8_15,False,Inactive
+0x03DE,990,Eingang 0x03DE,comlock410_8_15,False,Inactive
+0x03DF,991,Eingang 0x03DF,comlock410_8_15,False,Inactive
+0x03E0,992,Eingang 0x03E0,comlock410_8_15,False,Inactive
+0x03E1,993,Eingang 0x03E1,comlock410_8_15,False,Inactive
+0x03E2,994,Eingang 0x03E2,comlock410_8_15,False,Inactive
+0x03E3,995,Eingang 0x03E3,comlock410_8_15,False,Inactive
+0x03E4,996,Eingang 0x03E4,comlock410_8_15,False,Inactive
+0x03E5,997,Eingang 0x03E5,comlock410_8_15,False,Inactive
+0x03E6,998,Eingang 0x03E6,comlock410_8_15,False,Inactive
+0x03E7,999,Eingang 0x03E7,comlock410_8_15,False,Inactive
+0x03E8,1000,Eingang 0x03E8,comlock410_8_15,False,Inactive
+0x03E9,1001,Eingang 0x03E9,comlock410_8_15,False,Inactive
+0x03EA,1002,Eingang 0x03EA,comlock410_8_15,False,Inactive
+0x03EB,1003,Eingang 0x03EB,comlock410_8_15,False,Inactive
+0x03EC,1004,Eingang 0x03EC,comlock410_8_15,False,Inactive
+0x03ED,1005,Eingang 0x03ED,comlock410_8_15,False,Inactive
+0x03EE,1006,Eingang 0x03EE,comlock410_8_15,False,Inactive
+0x03EF,1007,Eingang 0x03EF,comlock410_8_15,False,Inactive
+0x03F0,1008,Eingang 0x03F0,comlock410_8_15,False,Inactive
+0x03F1,1009,Eingang 0x03F1,comlock410_8_15,False,Inactive
+0x03F2,1010,Eingang 0x03F2,comlock410_8_15,False,Inactive
+0x03F3,1011,Eingang 0x03F3,comlock410_8_15,False,Inactive
+0x03F4,1012,Eingang 0x03F4,comlock410_8_15,False,Inactive
+0x03F5,1013,Eingang 0x03F5,comlock410_8_15,False,Inactive
+0x03F6,1014,Eingang 0x03F6,comlock410_8_15,False,Inactive
+0x03F7,1015,Eingang 0x03F7,comlock410_8_15,False,Inactive
+0x03F8,1016,Eingang 0x03F8,comlock410_8_15,False,Inactive
+0x03F9,1017,Eingang 0x03F9,comlock410_8_15,False,Inactive
+0x03FA,1018,Eingang 0x03FA,comlock410_8_15,False,Inactive
+0x03FB,1019,Eingang 0x03FB,comlock410_8_15,False,Inactive
+0x03FC,1020,Eingang 0x03FC,comlock410_8_15,False,Inactive
+0x03FD,1021,Eingang 0x03FD,comlock410_8_15,False,Inactive
+0x03FE,1022,Eingang 0x03FE,comlock410_8_15,False,Inactive
+0x03FF,1023,Eingang 0x03FF,comlock410_8_15,False,Inactive
+0x0400,1024,Eingang 0x0400,comlock410_8_15,False,Inactive
+0x0401,1025,Eingang 0x0401,comlock410_8_15,False,Inactive
+0x0402,1026,Eingang 0x0402,comlock410_8_15,False,Inactive
+0x0403,1027,Eingang 0x0403,comlock410_8_15,False,Inactive
+0x0404,1028,Eingang 0x0404,comlock410_8_15,False,Inactive
+0x0405,1029,Eingang 0x0405,comlock410_8_15,False,Inactive
+0x0406,1030,Eingang 0x0406,comlock410_8_15,False,Inactive
+0x0407,1031,Eingang 0x0407,comlock410_8_15,False,Inactive
+0x0408,1032,Eingang 0x0408,comlock410_8_15,False,Inactive
+0x0409,1033,Eingang 0x0409,comlock410_8_15,False,Inactive
+0x040A,1034,Eingang 0x040A,comlock410_8_15,False,Inactive
+0x040B,1035,Eingang 0x040B,comlock410_8_15,False,Inactive
+0x040C,1036,Eingang 0x040C,comlock410_8_15,False,Inactive
+0x040D,1037,Eingang 0x040D,comlock410_8_15,False,Inactive
+0x040E,1038,Eingang 0x040E,comlock410_8_15,False,Inactive
+0x040F,1039,Eingang 0x040F,comlock410_8_15,False,Inactive
